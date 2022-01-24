@@ -8,29 +8,35 @@ div {
   padding-right: 30px;
   padding-left: 30px;
 };
-table,th, td {border:0px;}
+table,th, td {border:0px;};
 </style>
 </head>
 <body>
-<div>
 
-  <center><h1 style="font-family:verdana;font-size:50px;color:grey">Load channels using URL</h1></center>
+<script>
+  function copyText(id) {
+    var copyText = document.getElementById(id);
+    copyText.select();
+    copyText.setSelectionRange(0, 99999);
+    navigator.clipboard.writeText(copyText.value);
+  }
+</script>
+
+<div>
+  <center><h1 style="font-family:verdana;font-size:40px;color:grey">Load channels using URL</h1></center>
   <br/>
   
-  <p style="font-family:verdana;font-size:30px;color:grey">Copy and paste a M3U playlist link in the text box of Settings UI, then tap on the "Load" button to load channels.</p>
-  
+  <p style="font-family:verdana;font-size:30px;color:grey">Copy and paste a M3U playlist link in the text box of Settings UI, then tap on the "Load" button to load channels. Please note that: you should always ask your IPTV provider for playlist files.</p>
   <br/>
-  
-  <p style="font-family:verdana;font-size:30px;color:grey">You should always ask your IPTV provider for playlist files.</p>
-  
-  <br/>
-  
+
   <p style="font-family:verdana;font-size:25px;color:grey">For testing purpose only, you can also use one of the following links to load channles: (Please remove the channels from the App once you finished testing)</p>
-  
   <br/>
-  
-  <p style="font-family:verdana;font-size:24px;color:grey">https://iptv-org.github.io/iptv/index.m3u</p>
-  <p style="font-family:verdana;font-size:22px;color:grey">https://iptv-org.github.io/iptv/channels.json</p>
+
+  <input type="url" id="url1" value="https://iptv-org.github.io/iptv/index.m3u" style="width:400px"><button onclick="copyText('url1')">Copy URL</button>
+  <br/>
+  <input type="url" id="url2" value="https://dl.dropboxusercontent.com/s/rgr1c63nxcyemtq/channels.json.gz" style="width:400px"><button onclick="copyText('url2')">Copy URL</button>
+  <br/>
+  <input type="url" id="url3" value="https://github.com/techart8018/Resources/blob/master/tv/channels.json.gz" style="width:400px"><button onclick="copyText('url3')">Copy URL</button>  
   <br/>
   <br/>
   
