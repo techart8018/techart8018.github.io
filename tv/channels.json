@@ -1,0 +1,95 @@
+[
+  {
+    "id": "3eeshAlAanTV.ae",
+    "name": "3eesh Al Aan TV",
+    "streams": [
+      {
+        "url": "https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8",
+        "status": "timeout"
+      }
+    ],
+    "logo": "https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png",
+    "country": "AE",
+    "languages": [
+      "ara"
+    ],
+    "categories": [
+      "general"
+    ]
+  },
+  {
+    "id": "AbuDhabiAloula.ae",
+    "name": "Abu Dhabi Aloula",
+    "streams": [
+      {
+        "url": "https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8",
+        "status": "online",
+        "width": 1920,
+        "height": 1080,
+        "bitrate": 4000000
+      }
+    ],
+    "logo": "https://i.imgur.com/g7IRorO.jpeg",
+    "country": "AE",
+    "languages": [
+      "ara"
+    ],
+    "categories": []
+  },
+  {
+    "id": "AbuDhabiDrama.ae",
+    "name": "Abu Dhabi Drama",
+    "streams": [
+      {
+        "url": "https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8",
+        "status": "error"
+      }
+    ],
+    "logo": "https://media.elcinema.com/tvguide/1178_1.png",
+    "country": "AE",
+    "languages": [
+      "ara"
+    ],
+    "categories": []
+  },
+  {
+    "id": "AbuDhabiEmirates.ae",
+    "name": "Abu Dhabi Emirates",
+    "streams": [
+      {
+        "url": "https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8",
+        "status": "online",
+        "width": 1920,
+        "height": 1080,
+        "bitrate": 4000000
+      }
+    ],
+    "logo": "https://i.imgur.com/169yyqE.png",
+    "country": "AE",
+    "languages": [
+      "ara"
+    ],
+    "categories": []
+  },
+  {
+    "id": "AbuDhabiSports1.ae",
+    "name": "Abu Dhabi Sports 1",
+    "streams": [
+      {
+        "url": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8",
+        "status": "online",
+        "width": 1920,
+        "height": 1080,
+        "bitrate": 4000000
+      }
+    ],
+    "logo": "https://i.imgur.com/lKl2wZH.png",
+    "country": "AE",
+    "languages": [
+      "ara"
+    ],
+    "categories": [
+      "sports"
+    ]
+  }
+]
