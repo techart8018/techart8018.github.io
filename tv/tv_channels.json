@@ -1029,14 +1029,14 @@
         },
         {
             "name": "Fox News Channel",
-            "logo": "https://gitee.com/cy8018/Resources/raw/master/tv/logo/fox_news.png",
+            "logo": "http://techart8018.github.io/tv/logo/fox_news_channel.png",
             "url": [
                 "http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8"
             ]
         },
         {
-            "name": "FOX News Now",
-            "logo": "https://i.imgur.com/hc5a1YP.png",
+            "name": "Fox News Now",
+            "logo": "http://techart8018.github.io/tv/logo/fox_news_now.png",
             "url": [
                 "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
                 "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8"
@@ -1044,7 +1044,7 @@
         },
         {
             "name": "NBC News Now",
-            "logo": "https://static.wikia.nocookie.net/logopedia/images/4/46/NBC_News_Now.svg/revision/latest?cb=20210629125642",
+            "logo": "http://techart8018.github.io/tv/logo/nbc_news_now.png",
             "url": [
                 "http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8",
                 "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8",
@@ -1060,19 +1060,19 @@
             ]
         },
         {
-            "name": "RT News",
-            "logo": "https://i.imgur.com/tyXIHlj.png",
-            "url": [
-                "https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8",
-                "https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8"
-            ]
-        },
-        {
-            "name": "DW English",
-            "logo": "https://i.imgur.com/A1xzjOI.png",
+            "name": "DW News",
+            "logo": "http://techart8018.github.io/tv/logo/dw.jpg",
             "url": [
                 "https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8",
                 "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
+            ]
+        },
+        {
+            "name": "RT News",
+            "logo": "http://techart8018.github.io/tv/logo/rt.png",
+            "url": [
+                "https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8",
+                "https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8"
             ]
         }
     ]
