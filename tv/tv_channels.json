@@ -3,7 +3,7 @@
         {
             "id": "1",
             "name": "CCTV-1",
-            "logo": "https://gitee.com/cy8018/Resources/raw/master/tv/logo/cctv1.png",
+            "logo": "http://techart8018.github.io/tv/logo/cctv1.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/",
                 "http://223.110.241.139:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/",
@@ -32,7 +32,7 @@
             "id": "2",
             "name": "CCTV-2",
             "code": "cctv2",
-            "logo": "https://gitee.com/cy8018/Resources/raw/master/tv/logo/cctv2.png",
+            "logo": "http://techart8018.github.io/tv/logo/cctv2.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/",
                 "http://223.110.241.139:6610/gitv/live1/G_CCTV-2-HD/G_CCTV-2-HD/",
@@ -52,7 +52,7 @@
         {
             "id": "3",
             "name": "CCTV-3",
-            "logo": "https://gitee.com/cy8018/Resources/raw/master/tv/logo/cctv3.png",
+            "logo": "http://techart8018.github.io/tv/logo/cctv3.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ/",
                 "http://223.110.241.139:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/",
@@ -76,7 +76,7 @@
         {
             "id": "4",
             "name": "CCTV-4",
-            "logo": "https://gitee.com/cy8018/Resources/raw/master/tv/logo/cctv4.png",
+            "logo": "http://techart8018.github.io/tv/logo/cctv4.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ/",
                 "http://223.110.241.139:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/",
@@ -95,7 +95,7 @@
             "id": "5",
             "name": "CCTV-5",
             "code": "cctv5",
-            "logo": "https://gitee.com/cy8018/Resources/raw/master/tv/logo/cctv5.png",
+            "logo": "http://techart8018.github.io/tv/logo/cctv5.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/",
                 "http://223.110.241.139:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/",
@@ -116,7 +116,7 @@
         {
             "id": "7",
             "name": "CCTV-6",
-            "logo": "https://gitee.com/cy8018/Resources/raw/master/tv/logo/cctv6.png",
+            "logo": "http://techart8018.github.io/tv/logo/cctv6.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ/",
                 "http://223.110.241.139:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/",
@@ -142,7 +142,7 @@
         {
             "id": "8",
             "name": "CCTV-7",
-            "logo": "https://gitee.com/cy8018/Resources/raw/master/tv/logo/cctv7.png",
+            "logo": "http://techart8018.github.io/tv/logo/cctv7.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/",
                 "http://117.148.187.37/PLTV/88888888/224/3221226122/index.m3u8",
@@ -157,7 +157,7 @@
         {
             "id": "9",
             "name": "CCTV-8",
-            "logo": "https://gitee.com/cy8018/Resources/raw/master/tv/logo/cctv8.png",
+            "logo": "http://techart8018.github.io/tv/logo/cctv8.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/",
                 "http://223.110.241.139:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/",
@@ -183,7 +183,7 @@
         {
             "id": "10",
             "name": "CCTV-9",
-            "logo": "https://gitee.com/cy8018/Resources/raw/master/tv/logo/cctv9.png",
+            "logo": "http://techart8018.github.io/tv/logo/cctv9.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_CCTV-9/G_CCTV-9/",
                 "http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8",
@@ -202,7 +202,7 @@
         {
             "id": "11",
             "name": "CCTV-10",
-            "logo": "https://gitee.com/cy8018/Resources/raw/master/tv/logo/cctv10.png",
+            "logo": "http://techart8018.github.io/tv/logo/cctv10.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/",
                 "http://117.169.120.140:8080/live/cctv-10/.m3u8",
@@ -223,7 +223,7 @@
         {
             "id": "12",
             "name": "CCTV-11",
-            "logo": "https://gitee.com/cy8018/Resources/raw/master/tv/logo/cctv11.png",
+            "logo": "http://techart8018.github.io/tv/logo/cctv11.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/",
                 "http://117.169.120.140:8080/live/cctv-11/.m3u8",
@@ -238,7 +238,7 @@
         {
             "id": "13",
             "name": "CCTV-12",
-            "logo": "https://gitee.com/cy8018/Resources/raw/master/tv/logo/cctv12.png",
+            "logo": "http://techart8018.github.io/tv/logo/cctv12.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/CCTV-12/CCTV-12/",
                 "http://223.110.245.172/PLTV/3/224/3221225556/index.m3u8",
@@ -257,7 +257,7 @@
         {
             "id": "14",
             "name": "CCTV-13",
-            "logo": "https://gitee.com/cy8018/Resources/raw/master/tv/logo/cctv13.png",
+            "logo": "http://techart8018.github.io/tv/logo/cctv13.png",
             "url": [
                 "http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8",
                 "http://39.135.135.58:80/wh7f454c46tw1932318020_1729817978/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225599/index.m3u8?icpid=88888888&RTS=1579029478&from=1&hms_devid=689",
@@ -284,7 +284,7 @@
         {
             "id": "141",
             "name": "凤凰卫视",
-            "logo": "https://gitee.com/cy8018/Resources/raw/master/tv/logo/phoenix.png",
+            "logo": "http://techart8018.github.io/tv/logo/phoenix.png",
             "url": [
                 "http://183.207.249.35/PLTV/3/224/3221226922/index.m3u8",
                 "http://111.13.42.13/PLTV/88888888/224/3221226143/index.m3u8",
@@ -300,7 +300,7 @@
         {
             "id": "142",
             "name": "凤凰资讯",
-            "logo": "https://gitee.com/cy8018/Resources/raw/master/tv/logo/phoenix_news.png",
+            "logo": "http://techart8018.github.io/tv/logo/phoenix_news.png",
             "url": [
                 "http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8",
                 "http://112.50.243.7/PLTV/88888888/224/3221225901/index.m3u8",
@@ -314,7 +314,7 @@
         {
             "id": "29",
             "name": "江苏卫视",
-            "logo": "https://gitee.com/cy8018/Resources/raw/master/tv/logo/jiangsu_tv.png",
+            "logo": "http://techart8018.github.io/tv/logo/jiangsu_tv.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_JIANGSU-CQ/G_JIANGSU-CQ/",
                 "http://223.110.241.139:6610/gitv/live1/JSWS-HD/JSWS-HD/",
@@ -340,7 +340,7 @@
         {
             "id": "28",
             "name": "浙江卫视",
-            "logo": "https://gitee.com/cy8018/Resources/raw/master/tv/logo/zhejiang_tv.png",
+            "logo": "http://techart8018.github.io/tv/logo/zhejiang_tv.png",
             "url": [
                 "http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8",
                 "http://223.110.241.139:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ/",
@@ -366,7 +366,7 @@
         {
             "id": "31",
             "name": "东方卫视",
-            "logo": "https://gitee.com/cy8018/Resources/raw/master/tv/logo/dongfang_tv.png",
+            "logo": "http://techart8018.github.io/tv/logo/dongfang_tv.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ/",
                 "http://223.110.241.139:6610/gitv/live1/G_DONGFANG/G_DONGFANG/",
@@ -388,7 +388,7 @@
         {
             "id": "27",
             "name": "湖南卫视",
-            "logo": "https://gitee.com/cy8018/Resources/raw/master/tv/logo/hunan_tv.png",
+            "logo": "http://techart8018.github.io/tv/logo/hunan_tv.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_HUNAN-CQ/G_HUNAN-CQ/",
                 "http://223.110.241.139:6610/gitv/live1/G_HUNAN/G_HUNAN/",
@@ -414,7 +414,7 @@
         {
             "id": "30",
             "name": "北京卫视",
-            "logo": "https://gitee.com/cy8018/Resources/raw/master/tv/logo/beijing_tv.png",
+            "logo": "http://techart8018.github.io/tv/logo/beijing_tv.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ/",
                 "http://223.110.241.139:6610/gitv/live1/G_BEIJING/G_BEIJING/",
@@ -438,7 +438,7 @@
         {
             "name": "CNN",
             "id": "CNNUS.us",
-            "logo": "https://gitee.com/cy8018/Resources/raw/master/tv/logo/cnn.png",
+            "logo": "http://techart8018.github.io/tv/logo/cnn.png",
             "url": [
                 "https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8",
                 "https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8",
@@ -466,7 +466,7 @@
         {
             "name": "WNBC",
             "id": "WNBCDT1.us",
-            "logo": "https://gitee.com/cy8018/Resources/raw/master/tv/logo/nbc.png",
+            "logo": "http://techart8018.github.io/tv/logo/nbc.png",
             "url": [
                 "https://v-ny.theus6tv.tk/hls/4.1/playlist.m3u8"
             ]
@@ -474,7 +474,7 @@
         {
             "name": "CBS News",
             "id": "CBSNews.us",
-            "logo": "https://gitee.com/cy8018/Resources/raw/master/tv/logo/cbsn.png",
+            "logo": "http://techart8018.github.io/tv/logo/cbsn.png",
             "url": [
                 "https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8"
             ]
