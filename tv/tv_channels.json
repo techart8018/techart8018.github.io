@@ -437,6 +437,7 @@
         },
         {
             "name": "CNN",
+            "id": "CNNUS.us",
             "logo": "https://gitee.com/cy8018/Resources/raw/master/tv/logo/cnn.png",
             "url": [
                 "https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8",
@@ -448,6 +449,7 @@
         },
         {
             "name": "WABC",
+            "id": "WABCDT1.us",
             "logo": "http://techart8018.github.io/tv/logo/abc.png",
             "url": [
                 "https://v-ny.theus6tv.tk/hls/7.1/playlist.m3u8"
@@ -455,6 +457,7 @@
         },
         {
             "name": "WCBS",
+            "id": "WCBSDT1.us",
             "logo": "http://techart8018.github.io/tv/logo/cbs.png",
             "url": [
                 "https://v-ny.theus6tv.tk/hls/2.1/playlist.m3u8"
@@ -462,6 +465,7 @@
         },
         {
             "name": "WNBC",
+            "id": "WABSDT1.us",
             "logo": "https://gitee.com/cy8018/Resources/raw/master/tv/logo/nbc.png",
             "url": [
                 "https://v-ny.theus6tv.tk/hls/4.1/playlist.m3u8"
@@ -469,6 +473,7 @@
         },
         {
             "name": "CBS News",
+            "id": "CBSNews.us",
             "logo": "https://gitee.com/cy8018/Resources/raw/master/tv/logo/cbsn.png",
             "url": [
                 "https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8"
@@ -476,6 +481,7 @@
         },
         {
             "name": "Fox News Channel",
+            "id": "FoxNewsChannel.us",
             "logo": "http://techart8018.github.io/tv/logo/fox_news_channel.png",
             "url": [
                 "http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8"
@@ -483,6 +489,7 @@
         },
         {
             "name": "Fox News Now",
+            "id": "FoxNewsNow.us",
             "logo": "http://techart8018.github.io/tv/logo/fox_news_now.png",
             "url": [
                 "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
@@ -491,6 +498,7 @@
         },
         {
             "name": "NBC News Now",
+            "id": "NBCNewsNow.us",
             "logo": "http://techart8018.github.io/tv/logo/nbc_news_now.png",
             "url": [
                 "http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8",
@@ -500,6 +508,7 @@
         },
         {
             "name": "BBC World News",
+            "id": "BBCWorldNews.uk",
             "logo": "http://techart8018.github.io/tv/logo/bbc_world_news.png",
             "url": [
                 "http://ott-cdn.ucom.am/s24/index.m3u8",
