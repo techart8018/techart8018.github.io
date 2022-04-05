@@ -452,33 +452,20 @@
                 "https://16live00.akamaized.net/ABC_EAST/index.m3u8"
             ]
         },
-
-
-
         {
             "name": "CBS NY",
             "id": "WCBSDT1.us",
-            "logo": "http://techart8018.github.io/tv/logo/cbs.png",
+            "logo": "http://techart8018.github.io/tv/logo/wcbs.png",
             "url": [
                 "https://v-ny.theus6tv.tk/hls/2.1/playlist.m3u8"
             ]
         },
         {
-            "name": "CBS LA",
+            "name": "CBS 5 LA",
             "id": "KPIXDT1.us",
-            "logo": "http://techart8018.github.io/tv/logo/cbs.png",
+            "logo": "http://techart8018.github.io/tv/logo/kpix.png",
             "url": [
                 "http://51.161.118.146:8080/ISG03_CBS_SAN_FRANCISCO_CA_KPIX/video.m3u8"
-            ]
-        },
-        {
-            "name": "CBS San Francisco",
-            "id": "CBSNewsLosAngeles.us",
-            "logo": "http://techart8018.github.io/tv/logo/cbsn_la.png",
-            "url": [
-                "https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8",
-                "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc481cda1d430000948a1b4/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5dc481cda1d430000948a1b4&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=207&terminate=false&userId="
-        
             ]
         },
         {
@@ -488,11 +475,10 @@
             "url": [
                 "https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8",
                 "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc481cda1d430000948a1b4/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5dc481cda1d430000948a1b4&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=207&terminate=false&userId="
-        
             ]
         },
         {
-            "name": "CBS News",
+            "name": "CBSN",
             "id": "CBSNews.us",
             "logo": "http://techart8018.github.io/tv/logo/cbsn.png",
             "url": [
@@ -500,15 +486,15 @@
             ]
         },
         {
-            "name": "NBC4 NY",
+            "name": "NBC 4 NY",
             "id": "WNBCDT1.us",
-            "logo": "http://techart8018.github.io/tv/logo/nbc.png",
+            "logo": "http://techart8018.github.io/tv/logo/wnbc.png",
             "url": [
                 "https://v-ny.theus6tv.tk/hls/4.1/playlist.m3u8"
             ]
         },
         {
-            "name": "NBC10 Philadelphia",
+            "name": "NBC 10 Philadelphia",
             "id": "WCAUDT1.us",
             "logo": "http://techart8018.github.io/tv/logo/nbc_10.png",
             "url": [
@@ -596,9 +582,22 @@
                 "https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
             ]
         },
-
-
-
+        {
+            "name": "WGN 9",
+            "id": "WGNDT1.us",
+            "logo": "http://techart8018.github.io/tv/logo/wgn_tv.png",
+            "url": [
+                "http://trn03.tulix.tv/teleup-mBm5MQ50rA/playlist.m3u8"
+            ]
+        },
+        {
+            "name": "KTLA",
+            "id": "WGNDT1.us",
+            "logo": "http://techart8018.github.io/tv/logo/ktla.png",
+            "url": [
+                "https://content.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c.m3u8"
+            ]
+        },
         {
             "name": "PBS America",
             "id": "PBSAmerica.us",
@@ -608,7 +607,7 @@
             ]
         },
         {
-            "name": "PBS America",
+            "name": "PBS World",
             "id": "WorldChannel.us",
             "logo": "http://techart8018.github.io/tv/logo/pbs.png",
             "url": [
@@ -631,8 +630,6 @@
                 "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbloomberg/CDN/playlist.m3u8"
             ]
         },
-
-
         {
             "name": "BBC World News",
             "id": "BBCWorldNews.uk",
