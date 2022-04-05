@@ -436,7 +436,7 @@
             ]
         },
         {
-            "name": "ABC 7 NY",
+            "name": "ABC 7 New York",
             "id": "WABCDT1.us",
             "logo": "http://techart8018.github.io/tv/logo/wabc.png",
             "url": [
@@ -444,20 +444,27 @@
             ]
         },
         {
-            "name": "ABC 10 Miami",
-            "id": "WPLGDT1.us",
-            "logo": "http://techart8018.github.io/tv/logo/wplg.png",
+            "name": "ABC 10 San Francisco",
+            "id": "KGODT1.us",
+            "logo": "http://techart8018.github.io/tv/logo/kgo.png",
             "url": [
-                "http://38.127.211.18/live/c2eds/ABC/HLS/index.m3u8",
-                "https://16live00.akamaized.net/ABC_EAST/index.m3u8"
+                "http://51.161.118.146:8080/ISG03_ABC_SAN_FRANCISCO_CA_KGO/video.m3u8"
             ]
         },
         {
-            "name": "CBS NY",
+            "name": "CBS New York",
             "id": "WCBSDT1.us",
             "logo": "http://techart8018.github.io/tv/logo/wcbs.png",
             "url": [
                 "https://v-ny.theus6tv.tk/hls/2.1/playlist.m3u8"
+            ]
+        },
+        {
+            "name": "CBS LA",
+            "id": "KCBSDT1.us",
+            "logo": "http://techart8018.github.io/tv/logo/kcbs.png",
+            "url": [
+                "http://51.161.118.146:8080/ISG03_CBS_LOS_ANGELES_CA_KCBS/video.m3u8"
             ]
         },
         {
@@ -486,7 +493,7 @@
             ]
         },
         {
-            "name": "NBC 4 NY",
+            "name": "NBC 4 New York",
             "id": "WNBCDT1.us",
             "logo": "http://techart8018.github.io/tv/logo/wnbc.png",
             "url": [
@@ -494,11 +501,19 @@
             ]
         },
         {
-            "name": "NBC 10 Philadelphia",
-            "id": "WCAUDT1.us",
-            "logo": "http://techart8018.github.io/tv/logo/nbc_10.png",
+            "name": "NBC 4 LA",
+            "id": "KNBCDT1.us",
+            "logo": "http://techart8018.github.io/tv/logo/knbc.png",
             "url": [
-                "https://v-pi.theus6tv.tk/hls/10.1/playlist.m3u8"
+                "http://51.161.118.146:8080/ISG03_NBC_LOS_ANGELES_CA_KNBC/video.m3u8"
+            ]
+        },
+        {
+            "name": "NBC San Francisco",
+            "id": "KNTVDT1.us",
+            "logo": "http://techart8018.github.io/tv/logo/kntv.png",
+            "url": [
+                "http://51.161.118.146:8080/ISG03_NBC_SAN_FRANCISCO_CA_KNTV/video.m3u8"
             ]
         },
         {
@@ -532,6 +547,7 @@
             "id": "KTVUTV.us",
             "logo": "http://techart8018.github.io/tv/logo/fox_2_sf.png",
             "url": [
+                "http://51.161.118.146:8080/ISG03_FOX_SAN_FRANCISCO_CA_KTVU/video.m3u8",
                 "https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTVU-Monetizer.m3u8"
             ]
         },
@@ -540,6 +556,7 @@
             "id": "KTTVTV.us",
             "logo": "http://techart8018.github.io/tv/logo/fox_11_la.png",
             "url": [
+                "http://51.161.118.146:8080/ISG03_FOX_LOS_ANGELES_CA_KTTV/video.m3u8",
                 "https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTTV-Monetizer.m3u8"
             ]
         },
@@ -595,7 +612,7 @@
             "id": "WGNDT1.us",
             "logo": "http://techart8018.github.io/tv/logo/ktla.png",
             "url": [
-                "https://content.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c.m3u8"
+                "http://trn03.tulix.tv/teleup-N8qwnqgUq2/playlist.m3u8"
             ]
         },
         {
