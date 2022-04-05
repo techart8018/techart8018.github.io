@@ -438,7 +438,7 @@
         {
             "name": "ABC 7 NY",
             "id": "WABCDT1.us",
-            "logo": "http://techart8018.github.io/tv/logo/abc.png",
+            "logo": "http://techart8018.github.io/tv/logo/wabc.png",
             "url": [
                 "https://v-ny.theus6tv.tk/hls/7.1/playlist.m3u8"
             ]
@@ -446,7 +446,7 @@
         {
             "name": "ABC 10 Miami",
             "id": "WPLGDT1.us",
-            "logo": "http://techart8018.github.io/tv/logo/abc.png",
+            "logo": "http://techart8018.github.io/tv/logo/wplg.png",
             "url": [
                 "http://38.127.211.18/live/c2eds/ABC/HLS/index.m3u8",
                 "https://16live00.akamaized.net/ABC_EAST/index.m3u8"
@@ -461,7 +461,7 @@
             ]
         },
         {
-            "name": "CBS 5 LA",
+            "name": "CBS San Francisco",
             "id": "KPIXDT1.us",
             "logo": "http://techart8018.github.io/tv/logo/kpix.png",
             "url": [
