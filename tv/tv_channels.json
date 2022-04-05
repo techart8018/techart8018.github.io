@@ -444,7 +444,7 @@
             ]
         },
         {
-            "name": "ABC 10 San Francisco",
+            "name": "ABC 7 SF",
             "id": "KGODT1.us",
             "logo": "http://techart8018.github.io/tv/logo/kgo.png",
             "url": [
@@ -468,7 +468,7 @@
             ]
         },
         {
-            "name": "CBS San Francisco",
+            "name": "CBS SF",
             "id": "KPIXDT1.us",
             "logo": "http://techart8018.github.io/tv/logo/kpix.png",
             "url": [
@@ -509,7 +509,7 @@
             ]
         },
         {
-            "name": "NBC San Francisco",
+            "name": "NBC Bay Area",
             "id": "KNTVDT1.us",
             "logo": "http://techart8018.github.io/tv/logo/kntv.png",
             "url": [
