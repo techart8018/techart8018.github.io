@@ -436,19 +436,7 @@
             ]
         },
         {
-            "name": "CNN",
-            "id": "CNNUS.us",
-            "logo": "http://techart8018.github.io/tv/logo/cnn.png",
-            "url": [
-                "https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8",
-                "https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8",
-                "http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8",
-                "https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8",
-                "https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8"
-            ]
-        },
-        {
-            "name": "WABC",
+            "name": "ABC 7 NY",
             "id": "WABCDT1.us",
             "logo": "http://techart8018.github.io/tv/logo/abc.png",
             "url": [
@@ -456,7 +444,19 @@
             ]
         },
         {
-            "name": "WCBS",
+            "name": "ABC 10 Miami",
+            "id": "WPLGDT1.us",
+            "logo": "http://techart8018.github.io/tv/logo/abc.png",
+            "url": [
+                "http://38.127.211.18/live/c2eds/ABC/HLS/index.m3u8",
+                "https://16live00.akamaized.net/ABC_EAST/index.m3u8"
+            ]
+        },
+
+
+
+        {
+            "name": "CBS NY",
             "id": "WCBSDT1.us",
             "logo": "http://techart8018.github.io/tv/logo/cbs.png",
             "url": [
@@ -464,11 +464,31 @@
             ]
         },
         {
-            "name": "WNBC",
-            "id": "WNBCDT1.us",
-            "logo": "http://techart8018.github.io/tv/logo/nbc.png",
+            "name": "CBS LA",
+            "id": "KPIXDT1.us",
+            "logo": "http://techart8018.github.io/tv/logo/cbs.png",
             "url": [
-                "https://v-ny.theus6tv.tk/hls/4.1/playlist.m3u8"
+                "http://51.161.118.146:8080/ISG03_CBS_SAN_FRANCISCO_CA_KPIX/video.m3u8"
+            ]
+        },
+        {
+            "name": "CBS San Francisco",
+            "id": "CBSNewsLosAngeles.us",
+            "logo": "http://techart8018.github.io/tv/logo/cbsn_la.png",
+            "url": [
+                "https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8",
+                "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc481cda1d430000948a1b4/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5dc481cda1d430000948a1b4&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=207&terminate=false&userId="
+        
+            ]
+        },
+        {
+            "name": "CBS News LA",
+            "id": "CBSNewsLosAngeles.us",
+            "logo": "http://techart8018.github.io/tv/logo/cbsn_la.png",
+            "url": [
+                "https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8",
+                "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc481cda1d430000948a1b4/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5dc481cda1d430000948a1b4&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=207&terminate=false&userId="
+        
             ]
         },
         {
@@ -477,6 +497,64 @@
             "logo": "http://techart8018.github.io/tv/logo/cbsn.png",
             "url": [
                 "https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8"
+            ]
+        },
+        {
+            "name": "NBC4 NY",
+            "id": "WNBCDT1.us",
+            "logo": "http://techart8018.github.io/tv/logo/nbc.png",
+            "url": [
+                "https://v-ny.theus6tv.tk/hls/4.1/playlist.m3u8"
+            ]
+        },
+        {
+            "name": "NBC10 Philadelphia",
+            "id": "WCAUDT1.us",
+            "logo": "http://techart8018.github.io/tv/logo/nbc_10.png",
+            "url": [
+                "https://v-pi.theus6tv.tk/hls/10.1/playlist.m3u8"
+            ]
+        },
+        {
+            "name": "CNBC",
+            "id": "CNBC.us",
+            "logo": "http://techart8018.github.io/tv/logo/cnbc.png",
+            "url": [
+                "https://16live00.akamaized.net/CNBC/index.m3u8"
+            ]
+        },
+        {
+            "name": "NBC News Now",
+            "id": "NBCNewsNow.us",
+            "logo": "http://techart8018.github.io/tv/logo/nbc_news_now.png",
+            "url": [
+                "http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8",
+                "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8",
+                "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8"
+            ]
+        },
+        {
+            "name": "Fox 5 NY",
+            "id": "WNYWDT1.us",
+            "logo": "http://techart8018.github.io/tv/logo/fox_5_ny.png",
+            "url": [
+                "https://v-ny.theus6tv.tk/hls/5.1/playlist.m3u8"
+            ]
+        },
+        {
+            "name": "Fox 2 San Francisco",
+            "id": "KTVUTV.us",
+            "logo": "http://techart8018.github.io/tv/logo/fox_2_sf.png",
+            "url": [
+                "https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTVU-Monetizer.m3u8"
+            ]
+        },
+        {
+            "name": "Fox 11 LA",
+            "id": "KTTVTV.us",
+            "logo": "http://techart8018.github.io/tv/logo/fox_11_la.png",
+            "url": [
+                "https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTTV-Monetizer.m3u8"
             ]
         },
         {
@@ -497,15 +575,64 @@
             ]
         },
         {
-            "name": "NBC News Now",
-            "id": "NBCNewsNow.us",
-            "logo": "http://techart8018.github.io/tv/logo/nbc_news_now.png",
+            "name": "CNN",
+            "id": "CNNUS.us",
+            "logo": "http://techart8018.github.io/tv/logo/cnn.png",
             "url": [
-                "http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8",
-                "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8",
-                "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8"
+                "https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8",
+                "https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8",
+                "http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8",
+                "https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8",
+                "https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8"
             ]
         },
+        {
+            "name": "CNN International",
+            "id": "CNNInternationalEurope.us",
+            "logo": "http://techart8018.github.io/tv/logo/cnn_international.png",
+            "url": [
+                "https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8",
+                "https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8",
+                "https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
+            ]
+        },
+
+
+
+        {
+            "name": "PBS America",
+            "id": "PBSAmerica.us",
+            "logo": "http://techart8018.github.io/tv/logo/pbs_america.png",
+            "url": [
+                "https://pbs-samsunguk.amagi.tv/playlist.m3u8"
+            ]
+        },
+        {
+            "name": "PBS America",
+            "id": "WorldChannel.us",
+            "logo": "http://techart8018.github.io/tv/logo/pbs.png",
+            "url": [
+                "https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8"
+            ]
+        },
+        {
+            "name": "Bloomberg TV",
+            "id": "BloombergTV.us",
+            "logo": "http://techart8018.github.io/tv/logo/bloomberg_tv.png",
+            "url": [
+                "https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8",
+                "https://bloomberg-bloomberg-1-fi.samsung.wurl.com/manifest/playlist.m3u8",
+                "https://bloomberg-bloomberg-1-ie.samsung.wurl.com/manifest/playlist.m3u8",
+                "https://bloomberg-bloomberg-1-lu.samsung.wurl.com/manifest/playlist.m3u8",
+                "https://bloomberg-bloomberg-5-mx.samsung.wurl.com/manifest/playlist.m3u8",
+                "https://bloomberg-bloomberg-1-no.samsung.wurl.com/manifest/playlist.m3u8",
+                "https://bloomberg-bloomberg-1-pt.samsung.wurl.com/manifest/playlist.m3u8",
+                "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/54ff7ba69222cb1c2624c584/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=54ff7ba69222cb1c2624c584&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=224&terminate=false&userId=",
+                "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbloomberg/CDN/playlist.m3u8"
+            ]
+        },
+
+
         {
             "name": "BBC World News",
             "id": "BBCWorldNews.uk",
