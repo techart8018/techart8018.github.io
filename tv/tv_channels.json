@@ -544,7 +544,7 @@
         },
         {
             "name": "Fox 2 Bay Area",
-            "id": "KTVUTV.us",
+            "id": "KTVUDT1.us",
             "logo": "http://techart8018.github.io/tv/logo/fox_2_sf.png",
             "url": [
                 "http://51.161.118.146:8080/ISG03_FOX_SAN_FRANCISCO_CA_KTVU/video.m3u8",
@@ -553,7 +553,7 @@
         },
         {
             "name": "Fox 11 LA",
-            "id": "KTTVTV.us",
+            "id": "KTTVDT1.us",
             "logo": "http://techart8018.github.io/tv/logo/fox_11_la.png",
             "url": [
                 "http://51.161.118.146:8080/ISG03_FOX_LOS_ANGELES_CA_KTTV/video.m3u8",
@@ -579,7 +579,7 @@
         },
         {
             "name": "CNN",
-            "id": "CNNUS.us",
+            "id": "CNN.us",
             "logo": "http://techart8018.github.io/tv/logo/cnn.png",
             "url": [
                 "https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8",
@@ -591,7 +591,7 @@
         },
         {
             "name": "CNN International",
-            "id": "CNNInternationalEurope.us",
+            "id": "CNNInternationalNorthAmerica.us",
             "logo": "http://techart8018.github.io/tv/logo/cnn_international.png",
             "url": [
                 "https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8",
@@ -609,7 +609,7 @@
         },
         {
             "name": "KTLA",
-            "id": "WGNDT1.us",
+            "id": "KTLADT1.us",
             "logo": "http://techart8018.github.io/tv/logo/ktla.png",
             "url": [
                 "http://trn03.tulix.tv/teleup-N8qwnqgUq2/playlist.m3u8"
