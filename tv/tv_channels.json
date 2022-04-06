@@ -452,14 +452,6 @@
             ]
         },
         {
-            "name": "ABC (KESQ) Palm Springs CA",
-            "id": "KESQDT1.us",
-            "logo": "http://techart8018.github.io/tv/logo/kesq.png",
-            "url": [
-                "http://51.161.118.146:8080/ISG03_CBS_LOS_ANGELES_CA_KCBS/video.m3u8"
-            ]
-        },
-        {
             "name": "CBS New York",
             "id": "WCBSDT1.us",
             "logo": "http://techart8018.github.io/tv/logo/wcbs.png",
@@ -477,15 +469,14 @@
         },
         {
             "name": "CBS News LA",
-            "id": "CBSNewsLosAngeles.us",
+            "id": "KCALDT1.us",
             "logo": "http://techart8018.github.io/tv/logo/cbsn_la.png",
             "url": [
-                "https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8",
-                "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc481cda1d430000948a1b4/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5dc481cda1d430000948a1b4&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=207&terminate=false&userId="
+                "https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8"
             ]
         },
         {
-            "name": "CBSN",
+            "name": "CBS News",
             "id": "CBSNews.us",
             "logo": "http://techart8018.github.io/tv/logo/cbsn.png",
             "url": [
