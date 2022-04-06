@@ -552,6 +552,14 @@
             ]
         },
         {
+            "name": "Fox 13 Seattle",
+            "id": "KCPQDT1.us",
+            "logo": "http://techart8018.github.io/tv/logo/kcpq.png",
+            "url": [
+                "https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KCPQ-Monetizer.m3u8"
+            ]
+        },
+        {
             "name": "Fox News Channel",
             "id": "FoxNewsChannel.us",
             "logo": "http://techart8018.github.io/tv/logo/fox_news_channel.png",
