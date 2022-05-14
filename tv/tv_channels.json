@@ -508,14 +508,6 @@
             ]
         },
         {
-            "name": "CNBC",
-            "id": "CNBC.us",
-            "logo": "http://techart8018.github.io/tv/logo/cnbc.png",
-            "url": [
-                "https://16live00.akamaized.net/CNBC/index.m3u8"
-            ]
-        },
-        {
             "name": "NBC News Now",
             "id": "NBCNewsNow.us",
             "logo": "http://techart8018.github.io/tv/logo/nbc_news_now.png",
@@ -545,7 +537,7 @@
         {
             "name": "Fox 11 LA",
             "id": "KTTVDT1.us",
-            "logo": "http://techart8018.github.io/tv/logo/fox_11_la.png",
+            "logo": "http://techart8018.github.io/tv/logo/fox11.png",
             "url": [
                 "http://51.161.118.146:8080/ISG03_FOX_LOS_ANGELES_CA_KTTV/video.m3u8",
                 "https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTTV-Monetizer.m3u8"
@@ -557,14 +549,6 @@
             "logo": "http://techart8018.github.io/tv/logo/kcpq.png",
             "url": [
                 "https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KCPQ-Monetizer.m3u8"
-            ]
-        },
-        {
-            "name": "Fox News Channel",
-            "id": "FoxNewsChannel.us",
-            "logo": "http://techart8018.github.io/tv/logo/fox_news_channel.png",
-            "url": [
-                "http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8"
             ]
         },
         {
@@ -586,32 +570,6 @@
                 "http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8",
                 "https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8",
                 "https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8"
-            ]
-        },
-        {
-            "name": "CNN International",
-            "id": "CNNInternationalNorthAmerica.us",
-            "logo": "http://techart8018.github.io/tv/logo/cnn_international.png",
-            "url": [
-                "https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8",
-                "https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8",
-                "https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
-            ]
-        },
-        {
-            "name": "WGN 9",
-            "id": "WGNDT1.us",
-            "logo": "http://techart8018.github.io/tv/logo/wgn_tv.png",
-            "url": [
-                "http://trn03.tulix.tv/teleup-mBm5MQ50rA/playlist.m3u8"
-            ]
-        },
-        {
-            "name": "KTLA",
-            "id": "KTLADT1.us",
-            "logo": "http://techart8018.github.io/tv/logo/ktla.png",
-            "url": [
-                "http://trn03.tulix.tv/teleup-N8qwnqgUq2/playlist.m3u8"
             ]
         },
         {
@@ -661,14 +619,6 @@
             "url": [
                 "https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8",
                 "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
-            ]
-        },
-        {
-            "name": "RT News",
-            "logo": "http://techart8018.github.io/tv/logo/rt.png",
-            "url": [
-                "https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8",
-                "https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8"
             ]
         }
     ]
