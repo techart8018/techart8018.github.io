@@ -3,7 +3,7 @@
         {
             "id": "1",
             "name": "CCTV-1",
-            "logo": "cctv1.png",
+            "logo": "http://techart8018.github.io/tv/logo/cctv1.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/",
                 "http://223.110.241.139:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/",
@@ -32,7 +32,7 @@
             "id": "2",
             "name": "CCTV-2",
             "code": "cctv2",
-            "logo": "cctv2.png",
+            "logo": "http://techart8018.github.io/tv/logo/cctv2.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/",
                 "http://223.110.241.139:6610/gitv/live1/G_CCTV-2-HD/G_CCTV-2-HD/",
@@ -52,7 +52,7 @@
         {
             "id": "3",
             "name": "CCTV-3",
-            "logo": "cctv3.png",
+            "logo": "http://techart8018.github.io/tv/logo/cctv3.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ/",
                 "http://223.110.241.139:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/",
@@ -76,7 +76,7 @@
         {
             "id": "4",
             "name": "CCTV-4",
-            "logo": "cctv4.png",
+            "logo": "http://techart8018.github.io/tv/logo/cctv4.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ/",
                 "http://223.110.241.139:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/",
@@ -95,7 +95,7 @@
             "id": "5",
             "name": "CCTV-5",
             "code": "cctv5",
-            "logo": "cctv5.png",
+            "logo": "http://techart8018.github.io/tv/logo/cctv5.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/",
                 "http://223.110.241.139:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/",
@@ -116,7 +116,7 @@
         {
             "id": "7",
             "name": "CCTV-6",
-            "logo": "cctv6.png",
+            "logo": "http://techart8018.github.io/tv/logo/cctv6.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ/",
                 "http://223.110.241.139:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/",
@@ -142,7 +142,7 @@
         {
             "id": "8",
             "name": "CCTV-7",
-            "logo": "cctv7.png",
+            "logo": "http://techart8018.github.io/tv/logo/cctv7.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/",
                 "http://117.148.187.37/PLTV/88888888/224/3221226122/index.m3u8",
@@ -157,7 +157,7 @@
         {
             "id": "9",
             "name": "CCTV-8",
-            "logo": "cctv8.png",
+            "logo": "http://techart8018.github.io/tv/logo/cctv8.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/",
                 "http://223.110.241.139:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/",
@@ -183,7 +183,7 @@
         {
             "id": "10",
             "name": "CCTV-9",
-            "logo": "cctv9.png",
+            "logo": "http://techart8018.github.io/tv/logo/cctv9.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_CCTV-9/G_CCTV-9/",
                 "http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8",
@@ -202,7 +202,7 @@
         {
             "id": "11",
             "name": "CCTV-10",
-            "logo": "cctv10.png",
+            "logo": "http://techart8018.github.io/tv/logo/cctv10.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/",
                 "http://117.169.120.140:8080/live/cctv-10/.m3u8",
@@ -223,7 +223,7 @@
         {
             "id": "12",
             "name": "CCTV-11",
-            "logo": "cctv11.png",
+            "logo": "http://techart8018.github.io/tv/logo/cctv11.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/",
                 "http://117.169.120.140:8080/live/cctv-11/.m3u8",
@@ -238,7 +238,7 @@
         {
             "id": "13",
             "name": "CCTV-12",
-            "logo": "cctv12.png",
+            "logo": "http://techart8018.github.io/tv/logo/cctv12.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/CCTV-12/CCTV-12/",
                 "http://223.110.245.172/PLTV/3/224/3221225556/index.m3u8",
@@ -257,7 +257,7 @@
         {
             "id": "14",
             "name": "CCTV-13",
-            "logo": "cctv13.png",
+            "logo": "http://techart8018.github.io/tv/logo/cctv13.png",
             "url": [
                 "http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8",
                 "http://39.135.135.58:80/wh7f454c46tw1932318020_1729817978/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225599/index.m3u8?icpid=88888888&RTS=1579029478&from=1&hms_devid=689",
@@ -284,7 +284,7 @@
         {
             "id": "15",
             "name": "CCTV-14",
-            "logo": "cctv14.png",
+            "logo": "http://techart8018.github.io/tv/logo/cctv14.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_CCTV-14/G_CCTV-14/",
                 "http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221225813/index.m3u8",
@@ -303,7 +303,7 @@
         {
             "id": "16",
             "name": "CCTV-15",
-            "logo": "cctv15.png",
+            "logo": "http://techart8018.github.io/tv/logo/cctv15.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_CCTV-15/G_CCTV-15/",
                 "http://111.40.205.87/PLTV/88888888/224/3221225601/index.m3u8",
@@ -318,7 +318,7 @@
         },
         {
             "name": "黑莓电影",
-            "logo": "blackberry.png",
+            "logo": "http://techart8018.github.io/tv/logo/blackberry.png",
             "url": [
                 "http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8",
                 "http://111.40.205.76/PLTV/88888888/224/3221225667/index.m3u8",
@@ -330,7 +330,7 @@
         },
         {
             "name": "江苏体育休闲",
-            "logo": "jiangsu_tv.png",
+            "logo": "http://techart8018.github.io/tv/logo/jiangsu_tv.png",
             "url": [
                 "http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225935/index.m3u8"
             ]
@@ -338,7 +338,7 @@
         {
             "id": "141",
             "name": "凤凰卫视",
-            "logo": "phoenix.png",
+            "logo": "http://techart8018.github.io/tv/logo/phoenix.png",
             "url": [
                 "http://183.207.249.35/PLTV/3/224/3221226922/index.m3u8",
                 "http://111.13.42.13/PLTV/88888888/224/3221226143/index.m3u8",
@@ -354,7 +354,7 @@
         {
             "id": "142",
             "name": "凤凰资讯",
-            "logo": "phoenix_news.png",
+            "logo": "http://techart8018.github.io/tv/logo/phoenix_news.png",
             "url": [
                 "http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8",
                 "http://112.50.243.7/PLTV/88888888/224/3221225901/index.m3u8",
@@ -368,7 +368,7 @@
         {
             "id": "29",
             "name": "江苏卫视",
-            "logo": "jiangsu_tv.png",
+            "logo": "http://techart8018.github.io/tv/logo/jiangsu_tv.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_JIANGSU-CQ/G_JIANGSU-CQ/",
                 "http://223.110.241.139:6610/gitv/live1/JSWS-HD/JSWS-HD/",
@@ -394,7 +394,7 @@
         {
             "id": "28",
             "name": "浙江卫视",
-            "logo": "zhejiang_tv.png",
+            "logo": "http://techart8018.github.io/tv/logo/zhejiang_tv.png",
             "url": [
                 "http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8",
                 "http://223.110.241.139:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ/",
@@ -420,7 +420,7 @@
         {
             "id": "31",
             "name": "东方卫视",
-            "logo": "dongfang_tv.png",
+            "logo": "http://techart8018.github.io/tv/logo/dongfang_tv.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ/",
                 "http://223.110.241.139:6610/gitv/live1/G_DONGFANG/G_DONGFANG/",
@@ -442,7 +442,7 @@
         {
             "id": "27",
             "name": "湖南卫视",
-            "logo": "hunan_tv.png",
+            "logo": "http://techart8018.github.io/tv/logo/hunan_tv.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_HUNAN-CQ/G_HUNAN-CQ/",
                 "http://223.110.241.139:6610/gitv/live1/G_HUNAN/G_HUNAN/",
@@ -468,7 +468,7 @@
         {
             "id": "30",
             "name": "北京卫视",
-            "logo": "beijing_tv.png",
+            "logo": "http://techart8018.github.io/tv/logo/beijing_tv.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ/",
                 "http://223.110.241.139:6610/gitv/live1/G_BEIJING/G_BEIJING/",
@@ -492,7 +492,7 @@
         {
             "id": "32",
             "name": "安徽卫视",
-            "logo": "anhui_tv.png",
+            "logo": "http://techart8018.github.io/tv/logo/anhui_tv.png",
             "url": [
                 "http://223.110.245.172/PLTV/1/224/3221227558/index.m3u8",
                 "http://223.110.241.139:6610/gitv/live1/AHWS/AHWS/",
@@ -515,7 +515,7 @@
         {
             "id": "33",
             "name": "广东卫视",
-            "logo": "guangdong_tv.png",
+            "logo": "http://techart8018.github.io/tv/logo/guangdong_tv.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_GUANGDONG/G_GUANGDONG/",
                 "http://112.50.243.8/PLTV/88888888/224/3221225824/1.m3u8",
@@ -541,7 +541,7 @@
         {
             "id": "34",
             "name": "深圳卫视",
-            "logo": "shenzhen_tv.png",
+            "logo": "http://techart8018.github.io/tv/logo/shenzhen_tv.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_SHENZHEN/G_SHENZHEN/",
                 "http://112.50.243.8/PLTV/88888888/224/3221225848/1.m3u8",
@@ -562,7 +562,7 @@
         {
             "id": "39",
             "name": "天津卫视",
-            "logo": "tianjin_tv.png",
+            "logo": "http://techart8018.github.io/tv/logo/tianjin_tv.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/TJWS/TJWS/",
                 "http://112.50.243.8/PLTV/88888888/224/3221225830/1.m3u8",
@@ -587,7 +587,7 @@
         {
             "id": "38",
             "name": "山东卫视",
-            "logo": "shandong_tv.png",
+            "logo": "http://techart8018.github.io/tv/logo/shandong_tv.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_SHANDONG-HQ/G_SHANDONG-HQ/",
                 "http://223.110.241.139:6610/gitv/live1/SDWS/SDWS/",
@@ -612,7 +612,7 @@
         {
             "id": "48",
             "name": "湖北卫视",
-            "logo": "hubei_tv.png",
+            "logo": "http://techart8018.github.io/tv/logo/hubei_tv.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_HUBEI/G_HUBEI/",
                 "http://117.169.120.140:8080/live/hdhubeistv/.m3u8",
@@ -636,7 +636,7 @@
         {
             "id": "47",
             "name": "河南卫视",
-            "logo": "henan_tv.png",
+            "logo": "http://techart8018.github.io/tv/logo/henan_tv.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/HENAN/HENAN/",
                 "http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8",
@@ -651,7 +651,7 @@
         {
             "id": "55",
             "name": "陕西卫视",
-            "logo": "shaanxi_tv.png",
+            "logo": "http://techart8018.github.io/tv/logo/shaanxi_tv.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_SHANXI/G_SHANXI/",
                 "http://111.40.205.76/PLTV/88888888/224/3221225625/index.m3u8",
@@ -666,7 +666,7 @@
         {
             "id": "36",
             "name": "辽宁卫视",
-            "logo": "liaoning_tv.png",
+            "logo": "http://techart8018.github.io/tv/logo/liaoning_tv.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/LNWS/LNWS/",
                 "http://183.207.249.71/PLTV/3/224/3221225566/index.m3u8",
@@ -687,7 +687,7 @@
         {
             "id": "51",
             "name": "吉林卫视",
-            "logo": "jilin_tv.png",
+            "logo": "http://techart8018.github.io/tv/logo/jilin_tv.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_JILIN/G_JILIN/",
                 "http://117.169.120.140:8080/live/jilinstv/.m3u8",
@@ -703,7 +703,7 @@
         {
             "id": "46",
             "name": "黑龙江卫视",
-            "logo": "heilongjiang_tv.png",
+            "logo": "http://techart8018.github.io/tv/logo/heilongjiang_tv.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_HEILONGJIANG/G_HEILONGJIANG/",
                 "http://112.50.243.8/PLTV/88888888/224/3221225862/1.m3u8",
@@ -719,7 +719,7 @@
         {
             "id": "56",
             "name": "四川卫视",
-            "logo": "sichuan_tv.png",
+            "logo": "http://techart8018.github.io/tv/logo/sichuan_tv.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/SCWS/SCWS/",
                 "http://117.169.120.140:8080/live/sichuanstv/.m3u8",
@@ -734,7 +734,7 @@
         {
             "id": "40",
             "name": "重庆卫视",
-            "logo": "chongqing_tv.png",
+            "logo": "http://techart8018.github.io/tv/logo/chongqing_tv.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_CHONGQING/G_CHONGQING/",
                 "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226005/index.m3u8",
@@ -749,7 +749,7 @@
         {
             "id": "58",
             "name": "云南卫视",
-            "logo": "yunnan_tv.png",
+            "logo": "http://techart8018.github.io/tv/logo/yunnan_tv.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_YUNNAN/G_YUNNAN/",
                 "http://118.123.60.10:8114/syhjcms_hls/10000100201705020000001000000008?FvSeid=5bf2539394e75947&Fsv_filetype=0&Fsv_ctype=LIVES&Fsv_cid=6641&Fsv_TBt=614400&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=syhjcms_hls&Pcontent_id=10000100201705020000001000000008&Fsv_CMSID=syhjcms&Fsv_chan_hls_se_idx=12",
@@ -771,7 +771,7 @@
         {
             "id": "44",
             "name": "贵州卫视",
-            "logo": "guizhou_tv.png",
+            "logo": "http://techart8018.github.io/tv/logo/guizhou_tv.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_GUIZHOU/G_GUIZHOU/",
                 "http://111.40.205.87/PLTV/88888888/224/3221225626/index.m3u8",
@@ -784,7 +784,7 @@
         {
             "id": "41",
             "name": "东南卫视",
-            "logo": "dongnan_tv.png",
+            "logo": "http://techart8018.github.io/tv/logo/dongnan_tv.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/DNWS/DNWS/",
                 "http://117.169.120.140:8080/live/dongnanstv/.m3u8",
@@ -799,7 +799,7 @@
         {
             "id": "68",
             "name": "厦门卫视",
-            "logo": "xiamen_tv.png",
+            "logo": "http://techart8018.github.io/tv/logo/xiamen_tv.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_XIAMEN/G_XIAMEN/",
                 "http://183.207.249.11/PLTV/2/224/3221226093/index.m3u8",
@@ -812,7 +812,7 @@
         {
             "id": "37",
             "name": "海南卫视",
-            "logo": "hainan_tv.png",
+            "logo": "http://techart8018.github.io/tv/logo/hainan_tv.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/LYWS/LYWS/",
                 "http://ivi.bupt.edu.cn/hls/lytv.m3u8"
@@ -821,7 +821,7 @@
         {
             "id": "54",
             "name": "山西卫视",
-            "logo": "shanxi_tv.png",
+            "logo": "http://techart8018.github.io/tv/logo/shanxi_tv.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/SXWS/SXWS/",
                 "http://111.40.205.76/PLTV/88888888/224/3221225624/index.m3u8",
@@ -840,7 +840,7 @@
         {
             "id": "43",
             "name": "广西卫视",
-            "logo": "guangxi_tv.png",
+            "logo": "http://techart8018.github.io/tv/logo/guangxi_tv.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/GXWS/GXWS/",
                 "http://111.40.205.87/PLTV/88888888/224/3221225622/index.m3u8",
@@ -856,7 +856,7 @@
         {
             "id": "50",
             "name": "江西卫视",
-            "logo": "jiangxi_tv.png",
+            "logo": "http://techart8018.github.io/tv/logo/jiangxi_tv.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/JXWS/JXWS/",
                 "http://112.50.243.8/PLTV/88888888/224/3221225868/1.m3u8",
@@ -872,7 +872,7 @@
         {
             "id": "45",
             "name": "河北卫视",
-            "logo": "hebei_tv.png",
+            "logo": "http://techart8018.github.io/tv/logo/hebei_tv.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_HEBEI/G_HEBEI/",
                 "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226013/index.m3u8",
@@ -891,7 +891,7 @@
         {
             "id": "63",
             "name": "延边卫视",
-            "logo": "yanbian_tv.png",
+            "logo": "http://techart8018.github.io/tv/logo/yanbian_tv.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_YANBIAN/G_YANBIAN/"
             ]
@@ -899,7 +899,7 @@
         {
             "id": "59",
             "name": "青海卫视",
-            "logo": "qinghai_tv.png",
+            "logo": "http://techart8018.github.io/tv/logo/qinghai_tv.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_QINGHAI/G_QINGHAI/",
                 "http://111.40.205.76/PLTV/88888888/224/3221225628/index.m3u8",
@@ -912,7 +912,7 @@
         {
             "id": "42",
             "name": "甘肃卫视",
-            "logo": "gansu_tv.png",
+            "logo": "http://techart8018.github.io/tv/logo/gansu_tv.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_GANSU/G_GANSU/",
                 "http://59.46.18.134:8114/Fsv_otype=1?FvSeid=5bf181c25f226bb2&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=34&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1",
@@ -930,7 +930,7 @@
         {
             "id": "53",
             "name": "宁夏卫视",
-            "logo": "ningxia_tv.png",
+            "logo": "http://techart8018.github.io/tv/logo/ningxia_tv.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_NINGXIA/G_NINGXIA/",
                 "http://111.40.205.76/PLTV/88888888/224/3221225632/index.m3u8",
@@ -949,7 +949,7 @@
         {
             "id": "52",
             "name": "内蒙古卫视",
-            "logo": "neimenggu_tv.png",
+            "logo": "http://techart8018.github.io/tv/logo/neimenggu_tv.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_NEIMENGGU/G_NEIMENGGU/",
                 "http://111.40.205.87/PLTV/88888888/224/3221225634/index.m3u8",
@@ -965,7 +965,7 @@
         {
             "id": "57",
             "name": "新疆卫视",
-            "logo": "xinjiang_tv.png",
+            "logo": "http://techart8018.github.io/tv/logo/xinjiang_tv.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_XINJIANG/G_XINJIANG/",
                 "http://111.40.205.87/PLTV/88888888/224/3221225635/index.m3u8",
@@ -980,7 +980,7 @@
         {
             "id": "71",
             "name": "西藏卫视",
-            "logo": "xizang_tv.png",
+            "logo": "http://techart8018.github.io/tv/logo/xizang_tv.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/G_XIZANG/G_XIZANG/",
                 "http://111.40.205.76/PLTV/88888888/224/3221225638/index.m3u8",
