@@ -422,6 +422,14 @@
             ]
         },
         {
+            "name": "ABC Seattle",
+            "id": "KOMODT1.us",
+            "logo": "http://techart8018.github.io/tv/logo/komo.png",
+            "url": [
+                "http://51.161.118.146:8080/ISG03_ABC_SEATTLE_WA_KOMO/video.m3u8"
+            ]
+        },
+        {
             "name": "CBS Washington DC",
             "id": "WUSADT1.us",
             "logo": "http://techart8018.github.io/tv/logo/wusa9.png",
@@ -453,6 +461,22 @@
                 "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
                 "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a6b92f6e22a617379789618/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a6b92f6e22a617379789618&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=204&terminate=false&userId=",
                 "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8"
+            ]
+        },
+        {
+            "name": "NBC Boston",
+            "id": "WBTSDT1.us",
+            "logo": "http://techart8018.github.io/tv/logo/wbts.png",
+            "url": [
+                "http://51.161.118.146:8080/ISG03_NBC_BOSTON_MA_WBTS/video.m3u8"
+            ]
+        },
+        {
+            "name": "NBC Baltimore",
+            "id": "WBALDT1.us",
+            "logo": "http://techart8018.github.io/tv/logo/wbal.png",
+            "url": [
+                "http://51.161.118.146:8080/ISG03_NBC_BALTIMORE_MD_WBAL/video.m3u8"
             ]
         },
         {
@@ -523,6 +547,7 @@
                 "https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8",
                 "https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8",
                 "https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8",
+                "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5421f71da6af422839419cb3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=209&terminate=false&userId=",
                 "http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8",
                 "http://38.127.211.18/live/c2eds/CNN/HLS/index.m3u8",
                 "https://16live00.akamaized.net/CNN/index.m3u8"
@@ -545,22 +570,6 @@
             ]
         },
         {
-            "name": "Bloomberg TV",
-            "id": "BloombergTV.us",
-            "logo": "http://techart8018.github.io/tv/logo/bloomberg_tv.png",
-            "url": [
-                "https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8",
-                "https://bloomberg-bloomberg-1-fi.samsung.wurl.com/manifest/playlist.m3u8",
-                "https://bloomberg-bloomberg-1-ie.samsung.wurl.com/manifest/playlist.m3u8",
-                "https://bloomberg-bloomberg-1-lu.samsung.wurl.com/manifest/playlist.m3u8",
-                "https://bloomberg-bloomberg-5-mx.samsung.wurl.com/manifest/playlist.m3u8",
-                "https://bloomberg-bloomberg-1-no.samsung.wurl.com/manifest/playlist.m3u8",
-                "https://bloomberg-bloomberg-1-pt.samsung.wurl.com/manifest/playlist.m3u8",
-                "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/54ff7ba69222cb1c2624c584/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=54ff7ba69222cb1c2624c584&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=224&terminate=false&userId=",
-                "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbloomberg/CDN/playlist.m3u8"
-            ]
-        },
-        {
             "name": "BBC World News",
             "id": "BBCWorldNewsEurope.uk",
             "logo": "http://techart8018.github.io/tv/logo/bbc_world_news.png",
@@ -573,6 +582,27 @@
             "logo": "http://techart8018.github.io/tv/logo/dw.png",
             "url": [
                 "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
+            ]
+        },
+        {
+            "name": "HBO",
+            "logo": "http://techart8018.github.io/tv/logo/hbo.png",
+            "url": [
+                "https://streamer12.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBOHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true"
+            ]
+        },
+        {
+            "name": "HBO 2",
+            "logo": "http://techart8018.github.io/tv/logo/hbo.png",
+            "url": [
+                "https://streamer12.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBOCOMEDYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true"
+            ]
+        },
+        {
+            "name": "HBO 3",
+            "logo": "http://techart8018.github.io/tv/logo/hbo.png",
+            "url": [
+                "https://streamer12.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBO3HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true"
             ]
         }
     ]
