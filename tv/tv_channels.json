@@ -282,36 +282,6 @@
             ]
         },
         {
-            "id": "141",
-            "name": "凤凰卫视",
-            "logo": "http://techart8018.github.io/tv/logo/phoenix.png",
-            "url": [
-                "http://183.207.249.35/PLTV/3/224/3221226922/index.m3u8",
-                "http://111.13.42.13/PLTV/88888888/224/3221226143/index.m3u8",
-                "http://183.251.61.211/PLTV/88888888/224/3221225900/index.m3u8",
-                "http://112.50.243.7/PLTV/88888888/224/3221225900/1.m3u8",
-                "http://183.251.61.209/PLTV/88888888/224/3221225900/index.m3u8",
-                "http://117.169.120.217:8080/live/fhchinese/.m3u8",
-                "http://112.50.243.7/PLTV/88888888/224/3221225900/index.m3u8",
-                "http://183.251.61.198/PLTV/88888888/224/3221225901/index.m3u8",
-                "http://183.207.248.170/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8"
-            ]
-        },
-        {
-            "id": "142",
-            "name": "凤凰资讯",
-            "logo": "http://techart8018.github.io/tv/logo/phoenix_news.png",
-            "url": [
-                "http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8",
-                "http://183.207.249.144/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8",
-                "http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8",
-                "http://112.50.243.7/PLTV/88888888/224/3221225901/index.m3u8",
-                "http://117.169.120.138:8080/live/fhzixun/.m3u8",
-                "http://112.50.243.7/PLTV/88888888/224/3221225901/1.m3u8",
-                "http://117.169.120.217:8080/live/fhzixun/.m3u8"
-            ]
-        },
-        {
             "id": "29",
             "name": "江苏卫视",
             "logo": "http://techart8018.github.io/tv/logo/jiangsu_tv.png",
@@ -436,15 +406,15 @@
             ]
         },
         {
-            "name": "ABC 7 New York",
-            "id": "WABCDT1.us",
-            "logo": "http://techart8018.github.io/tv/logo/wabc.png",
+            "name": "ABC Washington DC",
+            "id": "WJLADT1.us",
+            "logo": "http://techart8018.github.io/tv/logo/abc7.png",
             "url": [
-                "https://v-ny.theus6tv.tk/hls/7.1/playlist.m3u8"
+                "http://51.161.118.146:8080/ISG03_ABC_WASHINGTON_DC_WJLA/video.m3u8"
             ]
         },
         {
-            "name": "ABC 7 Bay Area",
+            "name": "ABC Bay Area",
             "id": "KGODT1.us",
             "logo": "http://techart8018.github.io/tv/logo/kgo.png",
             "url": [
@@ -452,11 +422,11 @@
             ]
         },
         {
-            "name": "CBS New York",
-            "id": "WCBSDT1.us",
-            "logo": "http://techart8018.github.io/tv/logo/wcbs.png",
+            "name": "CBS Washington DC",
+            "id": "WUSADT1.us",
+            "logo": "http://techart8018.github.io/tv/logo/wusa9.png",
             "url": [
-                "https://v-ny.theus6tv.tk/hls/2.1/playlist.m3u8"
+                "http://51.161.118.146:8080/ISG03_CBS_WASHINGTON_DC_WUSA/video.m3u8"
             ]
         },
         {
@@ -468,11 +438,11 @@
             ]
         },
         {
-            "name": "CBS News LA",
-            "id": "KCALDT1.us",
-            "logo": "http://techart8018.github.io/tv/logo/cbsn_la.png",
+            "name": "CBS Seattle",
+            "id": "KIRODT1.us",
+            "logo": "http://techart8018.github.io/tv/logo/kiro_7_news.png",
             "url": [
-                "https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8"
+                "http://51.161.118.146:8080/ISG03_CBS_SEATTLE_WA_KIRO/video.m3u8"
             ]
         },
         {
@@ -480,19 +450,13 @@
             "id": "CBSNews.us",
             "logo": "http://techart8018.github.io/tv/logo/cbsn.png",
             "url": [
-                "https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8"
+                "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
+                "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a6b92f6e22a617379789618/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a6b92f6e22a617379789618&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=204&terminate=false&userId=",
+                "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8"
             ]
         },
         {
-            "name": "NBC 4 New York",
-            "id": "WNBCDT1.us",
-            "logo": "http://techart8018.github.io/tv/logo/wnbc.png",
-            "url": [
-                "https://v-ny.theus6tv.tk/hls/4.1/playlist.m3u8"
-            ]
-        },
-        {
-            "name": "NBC 4 LA",
+            "name": "NBC LA",
             "id": "KNBCDT1.us",
             "logo": "http://techart8018.github.io/tv/logo/knbc.png",
             "url": [
@@ -508,6 +472,14 @@
             ]
         },
         {
+            "name": "NBC Seattle",
+            "id": "KINGDT1.us",
+            "logo": "http://techart8018.github.io/tv/logo/king_tv.png",
+            "url": [
+                "http://51.161.118.146:8080/ISG03_NBC_SEATTLE_WA_KING/video.m3u8"
+            ]
+        },
+        {
             "name": "NBC News Now",
             "id": "NBCNewsNow.us",
             "logo": "http://techart8018.github.io/tv/logo/nbc_news_now.png",
@@ -518,37 +490,19 @@
             ]
         },
         {
-            "name": "Fox 5 New York",
-            "id": "WNYWDT1.us",
+            "name": "Fox Washington DC",
+            "id": "WTTGDT1.us",
             "logo": "http://techart8018.github.io/tv/logo/fox5.png",
             "url": [
-                "https://v-ny.theus6tv.tk/hls/5.1/playlist.m3u8"
+                "http://51.161.118.146:8080/ISG03_FOX_WASHINGTON_DC_WTTG/video.m3u8"
             ]
         },
         {
-            "name": "Fox 2 Bay Area",
-            "id": "KTVUDT1.us",
-            "logo": "http://techart8018.github.io/tv/logo/fox_2_sf.png",
-            "url": [
-                "http://51.161.118.146:8080/ISG03_FOX_SAN_FRANCISCO_CA_KTVU/video.m3u8",
-                "https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTVU-Monetizer.m3u8"
-            ]
-        },
-        {
-            "name": "Fox 11 LA",
-            "id": "KTTVDT1.us",
-            "logo": "http://techart8018.github.io/tv/logo/fox11.png",
-            "url": [
-                "http://51.161.118.146:8080/ISG03_FOX_LOS_ANGELES_CA_KTTV/video.m3u8",
-                "https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTTV-Monetizer.m3u8"
-            ]
-        },
-        {
-            "name": "Fox 13 Seattle",
+            "name": "Fox Seattle",
             "id": "KCPQDT1.us",
             "logo": "http://techart8018.github.io/tv/logo/kcpq.png",
             "url": [
-                "https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KCPQ-Monetizer.m3u8"
+                "http://51.161.118.146:8080/ISG03_FOX_SEATTLE_WA_KCPQ/video.m3u8"
             ]
         },
         {
@@ -565,11 +519,13 @@
             "id": "CNN.us",
             "logo": "http://techart8018.github.io/tv/logo/cnn.png",
             "url": [
+                "https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+                "https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8",
                 "https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8",
                 "https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8",
                 "http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8",
-                "https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8",
-                "https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8"
+                "http://38.127.211.18/live/c2eds/CNN/HLS/index.m3u8",
+                "https://16live00.akamaized.net/CNN/index.m3u8"
             ]
         },
         {
@@ -606,18 +562,16 @@
         },
         {
             "name": "BBC World News",
-            "id": "BBCWorldNews.uk",
+            "id": "BBCWorldNewsEurope.uk",
             "logo": "http://techart8018.github.io/tv/logo/bbc_world_news.png",
             "url": [
-                "http://ott-cdn.ucom.am/s24/index.m3u8",
-                "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8"
+                "http://ott-cdn.ucom.am/s24/index.m3u8"
             ]
         },
         {
             "name": "DW News",
             "logo": "http://techart8018.github.io/tv/logo/dw.png",
             "url": [
-                "https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8",
                 "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
             ]
         }
