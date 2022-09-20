@@ -571,7 +571,6 @@
         },
         {
             "name": "BBC World News",
-            "id": "BBCWorldNewsEurope.uk",
             "logo": "http://techart8018.github.io/tv/logo/bbc_world_news.png",
             "url": [
                 "http://ott-cdn.ucom.am/s24/index.m3u8"
@@ -582,27 +581,6 @@
             "logo": "http://techart8018.github.io/tv/logo/dw.png",
             "url": [
                 "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
-            ]
-        },
-        {
-            "name": "HBO",
-            "logo": "http://techart8018.github.io/tv/logo/hbo.png",
-            "url": [
-                "https://streamer12.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBOHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true"
-            ]
-        },
-        {
-            "name": "HBO 2",
-            "logo": "http://techart8018.github.io/tv/logo/hbo.png",
-            "url": [
-                "https://streamer12.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBOCOMEDYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true"
-            ]
-        },
-        {
-            "name": "HBO 3",
-            "logo": "http://techart8018.github.io/tv/logo/hbo.png",
-            "url": [
-                "https://streamer12.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBO3HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true"
             ]
         }
     ]
