@@ -465,7 +465,7 @@
         },
         {
             "name": "NBC Boston",
-            "id": "WBTSDT1.us",
+            "id": "WBTSCD1.us",
             "logo": "http://techart8018.github.io/tv/logo/wbts.png",
             "url": [
                 "http://51.161.118.146:8080/ISG03_NBC_BOSTON_MA_WBTS/video.m3u8"
