@@ -2380,6 +2380,172 @@
     ]
   },
   {
+    "name": "安徽卫视",
+    "tvg-id": "32",
+    "logo": "http://techart8018.github.io/tv/logo/anhui_tv.png",
+    "country": "",
+    "language": "",
+    "category": "",
+    "streams": [
+      {
+        "url": "http://223.110.245.172/PLTV/1/224/3221227558/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://223.110.241.139:6610/gitv/live1/AHWS/AHWS/",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://125.210.152.10:8060/live/AHWSHD_H265.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://219.153.252.50/PLTV/88888888/224/3221225534/chunklist.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226045/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221225634/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://111.40.205.87/PLTV/88888888/224/3221225631/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://111.40.205.87/PLTV/88888888/224/3221225727/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://112.50.243.8/PLTV/88888888/224/3221225945/3.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://121.31.30.90:8085/ysten-business/live/anhuistv/1.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://121.31.30.90:8085/ysten-business/live/anhuistv/yst.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://183.207.249.15/PLTV/3/224/3221225634/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://183.207.249.9/PLTV/3/224/3221225634/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225800/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "凤凰卫视",
+    "tvg-id": "141",
+    "logo": "http://techart8018.github.io/tv/logo/phoenix.png",
+    "country": "",
+    "language": "",
+    "category": "",
+    "streams": [
+      {
+        "url": "http://210.210.155.37/uq2663/h/h157/index2.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "MovieSphere",
+    "tvg-id": "MovieSphere.us",
+    "logo": "http://techart8018.github.io/tv/logo/movie_sphere.png",
+    "country": "",
+    "language": "",
+    "category": "",
+    "streams": [
+      {
+        "url": "https://moviesphere-roku.amagi.tv/playlist.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
     "name": "ABC Washington DC",
     "tvg-id": "WJLADT1.us",
     "logo": "http://techart8018.github.io/tv/logo/abc7.png",
@@ -2389,6 +2555,42 @@
     "streams": [
       {
         "url": "http://51.161.118.146:8080/ISG03_ABC_WASHINGTON_DC_WJLA/video.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "ABC Chicago",
+    "tvg-id": "WLSDT1.us",
+    "logo": "http://techart8018.github.io/tv/logo/abc7.png",
+    "country": "",
+    "language": "",
+    "category": "",
+    "streams": [
+      {
+        "url": "http://51.161.118.146:8080/ISG03_ABC_CHICAGO_IL_WLS/video.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "ABC Denver",
+    "tvg-id": "KMGHDT1.us",
+    "logo": "http://techart8018.github.io/tv/logo/abc7.png",
+    "country": "",
+    "language": "",
+    "category": "",
+    "streams": [
+      {
+        "url": "http://51.161.118.146:8080/ISG03_ABC_DENVER_CO_KMGH/video.m3u8",
         "status": "",
         "remark": "",
         "width": 0,
@@ -2488,40 +2690,6 @@
     ]
   },
   {
-    "name": "CBS News",
-    "tvg-id": "CBSNews.us",
-    "logo": "http://techart8018.github.io/tv/logo/cbsn.png",
-    "country": "",
-    "language": "",
-    "category": "",
-    "streams": [
-      {
-        "url": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      },
-      {
-        "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a6b92f6e22a617379789618/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a6b92f6e22a617379789618&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=204&terminate=false&userId=",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      },
-      {
-        "url": "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
     "name": "NBC Boston",
     "tvg-id": "WBTSCD1.us",
     "logo": "http://techart8018.github.io/tv/logo/wbts.png",
@@ -2612,40 +2780,6 @@
     ]
   },
   {
-    "name": "NBC News Now",
-    "tvg-id": "NBCNewsNow.us",
-    "logo": "http://techart8018.github.io/tv/logo/nbc_news_now.png",
-    "country": "",
-    "language": "",
-    "category": "",
-    "streams": [
-      {
-        "url": "http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      },
-      {
-        "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      },
-      {
-        "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
     "name": "Fox Washington DC",
     "tvg-id": "WTTGDT1.us",
     "logo": "http://techart8018.github.io/tv/logo/fox5.png",
@@ -2699,6 +2833,92 @@
       },
       {
         "url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "ABC News Now",
+    "tvg-id": "ABCNews.us",
+    "logo": "http://techart8018.github.io/tv/logo/abc_news.png",
+    "country": "",
+    "language": "",
+    "category": "",
+    "streams": [
+      {
+        "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CBSN",
+    "tvg-id": "CBSNews.us",
+    "logo": "http://techart8018.github.io/tv/logo/cbsn.png",
+    "country": "",
+    "language": "",
+    "category": "",
+    "streams": [
+      {
+        "url": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a6b92f6e22a617379789618/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a6b92f6e22a617379789618&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=204&terminate=false&userId=",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "NBC News Now",
+    "tvg-id": "NBCNewsNow.us",
+    "logo": "http://techart8018.github.io/tv/logo/nbc_news_now.png",
+    "country": "",
+    "language": "",
+    "category": "",
+    "streams": [
+      {
+        "url": "http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8",
         "status": "",
         "remark": "",
         "width": 0,
@@ -2773,6 +2993,42 @@
       },
       {
         "url": "https://16live00.akamaized.net/CNN/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "Global News",
+    "tvg-id": "",
+    "logo": "http://techart8018.github.io/tv/logo/global_news.png",
+    "country": "",
+    "language": "",
+    "category": "",
+    "streams": [
+      {
+        "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "DW News",
+    "tvg-id": "DWEnglish.de",
+    "logo": "http://techart8018.github.io/tv/logo/",
+    "country": "",
+    "language": "",
+    "category": "",
+    "streams": [
+      {
+        "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
         "status": "",
         "remark": "",
         "width": 0,
