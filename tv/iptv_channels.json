@@ -2510,24 +2510,6 @@
     ]
   },
   {
-    "name": "凤凰卫视",
-    "tvg-id": "141",
-    "logo": "http://techart8018.github.io/tv/logo/phoenix.png",
-    "country": "",
-    "language": "",
-    "category": "",
-    "streams": [
-      {
-        "url": "http://210.210.155.37/uq2663/h/h157/index2.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
     "name": "MovieSphere",
     "tvg-id": "MovieSphere.us",
     "logo": "http://techart8018.github.io/tv/logo/movie_sphere.png",
@@ -3011,24 +2993,6 @@
     "streams": [
       {
         "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "DW News",
-    "tvg-id": "DWEnglish.de",
-    "logo": "http://techart8018.github.io/tv/logo/",
-    "country": "",
-    "language": "",
-    "category": "",
-    "streams": [
-      {
-        "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
         "status": "",
         "remark": "",
         "width": 0,
