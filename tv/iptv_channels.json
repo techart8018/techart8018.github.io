@@ -2636,9 +2636,45 @@
     ]
   },
   {
+    "name": "CBS Chicago",
+    "tvg-id": "WUSADT1.us",
+    "logo": "http://techart8018.github.io/tv/logo/cbs5.png",
+    "country": "",
+    "language": "",
+    "category": "",
+    "streams": [
+      {
+        "url": "http://51.161.118.146:8080/ISG03_CBS_CHICAGO_IL_WBBM/tracks-v5a1/mono.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CBS Houston",
+    "tvg-id": "KHOUDT1.us",
+    "logo": "http://techart8018.github.io/tv/logo/khou.png",
+    "country": "",
+    "language": "",
+    "category": "",
+    "streams": [
+      {
+        "url": "http://51.161.118.146:8080/ISG03_CBS_HOUSTON_TX_KHOU/video.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
     "name": "CBS Bay Area",
     "tvg-id": "KPIXDT1.us",
-    "logo": "http://techart8018.github.io/tv/logo/kpix.png",
+    "logo": "http://techart8018.github.io/tv/logo/cbs5.png",
     "country": "",
     "language": "",
     "category": "",
@@ -2690,15 +2726,33 @@
     ]
   },
   {
-    "name": "NBC Baltimore",
+    "name": "NBC Chicago",
     "tvg-id": "WBALDT1.us",
-    "logo": "http://techart8018.github.io/tv/logo/wbal.png",
+    "logo": "http://techart8018.github.io/tv/logo/wmaq.png",
     "country": "",
     "language": "",
     "category": "",
     "streams": [
       {
-        "url": "http://51.161.118.146:8080/ISG03_NBC_BALTIMORE_MD_WBAL/video.m3u8",
+        "url": "http://51.161.118.146:8080/ISG03_NBC_CHICAGO_IL_WMAQ/tracks-v1a1/mono.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "NBC Houston",
+    "tvg-id": "KPRCDT1.us",
+    "logo": "http://techart8018.github.io/tv/logo/kprc.png",
+    "country": "",
+    "language": "",
+    "category": "",
+    "streams": [
+      {
+        "url": "http://51.161.118.146:8080/ISG03_NBC_HOUSTON_TX_KPRC/video.m3u8",
         "status": "",
         "remark": "",
         "width": 0,
@@ -2780,6 +2834,24 @@
     ]
   },
   {
+    "name": "Fox Houston",
+    "tvg-id": "KRIVDT1.us",
+    "logo": "http://techart8018.github.io/tv/logo/fox26.png",
+    "country": "",
+    "language": "",
+    "category": "",
+    "streams": [
+      {
+        "url": "http://51.161.118.146:8080/ISG03_FOX_HOUSTON_TX_KRIV/video.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
     "name": "Fox Seattle",
     "tvg-id": "KCPQDT1.us",
     "logo": "http://techart8018.github.io/tv/logo/kcpq.png",
@@ -2815,24 +2887,6 @@
       },
       {
         "url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "ABC News Now",
-    "tvg-id": "ABCNews.us",
-    "logo": "http://techart8018.github.io/tv/logo/abc_news.png",
-    "country": "",
-    "language": "",
-    "category": "",
-    "streams": [
-      {
-        "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8",
         "status": "",
         "remark": "",
         "width": 0,
