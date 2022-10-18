@@ -2964,6 +2964,24 @@
     ]
   },
   {
+    "name": "Newsmax",
+    "tvg-id": "NewsmaxTV.us",
+    "logo": "http://techart8018.github.io/tv/logo/newsmax.png",
+    "country": "",
+    "language": "",
+    "category": "",
+    "streams": [
+      {
+        "url": "https://nmxairy.akamaized.net/hls/live/529965/Live_1/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
     "name": "CNN",
     "tvg-id": "CNN.us",
     "logo": "http://techart8018.github.io/tv/logo/cnn.png",
