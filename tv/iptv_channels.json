@@ -2510,24 +2510,6 @@
     ]
   },
   {
-    "name": "MovieSphere",
-    "tvg-id": "MovieSphere.us",
-    "logo": "http://techart8018.github.io/tv/logo/movie_sphere.png",
-    "country": "",
-    "language": "",
-    "category": "",
-    "streams": [
-      {
-        "url": "https://moviesphere-roku.amagi.tv/playlist.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
     "name": "ABC Washington DC",
     "tvg-id": "WJLADT1.us",
     "logo": "http://techart8018.github.io/tv/logo/abc7.png",
@@ -3072,5 +3054,91 @@
         "bitrate": 0
       }
     ]
-  }
+  },
+  {
+    "name": "DW English",
+    "tvg-id": "DWEnglish.de",
+    "logo": "http://techart8018.github.io/tv/logo/dw.png",
+    "country": "",
+    "language": "",
+    "category": "",
+    "streams": [
+      {
+        "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
+        "status": "online",
+        "width": 1920,
+        "height": 1080,
+        "bitrate": 6898557
+      }
+    ]
+  },
+  {
+    "name": "BBC America",
+    "tvg-id": "BBCAmericaEast.us",
+    "logo": "http://techart8018.github.io/tv/logo/bbc_america.png",
+    "country": "US",
+    "language": "English",
+    "category": "",
+    "streams": [
+      {
+        "url": "https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8",
+        "status": "online",
+        "width": 1280,
+        "height": 720,
+        "bitrate": 2654208
+      }
+    ]
+  },
+  {
+    "name": "MovieSphere",
+    "tvg-id": "MovieSphere.us",
+    "logo": "http://techart8018.github.io/tv/logo/movie_sphere.png",
+    "country": "",
+    "language": "",
+    "category": "",
+    "streams": [
+      {
+        "url": "https://moviesphereuk-rakuten.amagi.tv/playlist.m3u8",
+        "status": "online",
+        "width": 1920,
+        "height": 1080,
+        "bitrate": 4716800
+      },
+      {
+        "url": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8",
+        "status": "online",
+        "width": 1920,
+        "height": 1080,
+        "bitrate": 4681600
+      },
+      {
+        "url": "https://moviesphere-plex.amagi.tv/playlist.m3u8",
+        "status": "online",
+        "width": 1920,
+        "height": 1080,
+        "bitrate": 5701132
+      },
+      {
+        "url": "https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_lionsgate-moviesphere-roku-us/CDN/playlist.m3u8",
+        "status": "online",
+        "width": 1920,
+        "height": 1080,
+        "bitrate": 5701132
+      },
+      {
+        "url": "https://moviesphere-roku.amagi.tv/playlist.m3u8",
+        "status": "online",
+        "width": 1920,
+        "height": 1080,
+        "bitrate": 5701132
+      },
+      {
+        "url": "https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8",
+        "status": "online",
+        "width": 1920,
+        "height": 1080,
+        "bitrate": 4681600
+      }
+    ]
+  },
 ]
