@@ -1626,6 +1626,66 @@
     ]
   },
   {
+    "tvg-id": "15",
+    "name": "CCTV-14",
+    "logo": "http://techart8018.github.io/tv/logo/cctv14.png",
+    "country": "",
+    "language": "",
+    "category": "",
+    "streams": [
+      {
+        "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227201/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://223.110.245.169/PLTV/3/224/3221227201/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "tvg-id": "16",
+    "name": "CCTV-15",
+    "logo": "http://techart8018.github.io/tv/logo/cctv15.png",
+    "country": "",
+    "language": "",
+    "category": "",
+    "streams": [
+      {
+        "url": "http://223.110.241.139:6610/gitv/live1/G_CCTV-15/G_CCTV-15/",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://223.110.241.203:6610/gitv/live1/G_CCTV-15/G_CCTV-15/",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225817/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
     "tvg-id": "29",
     "name": "江苏卫视",
     "logo": "http://techart8018.github.io/tv/logo/jiangsu_tv.png",
@@ -2518,6 +2578,14 @@
     "category": "",
     "streams": [
       {
+        "url": "http://223.110.243.136/PLTV/3/224/3221227249/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
         "url": "http://223.110.241.139:6610/gitv/live1/G_GUANGDONG/G_GUANGDONG/",
         "status": "",
         "remark": "",
@@ -2551,14 +2619,6 @@
       },
       {
         "url": "http://121.31.30.90:8085/ysten-business/live/hdguangdongstv/1.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      },
-      {
-        "url": "http://223.110.243.136/PLTV/3/224/3221227249/index.m3u8",
         "status": "",
         "remark": "",
         "width": 0,
@@ -2680,6 +2740,14 @@
     "category": "",
     "streams": [
       {
+        "url": "http://223.110.243.171/PLTV/3/224/3221227217/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
         "url": "http://223.110.241.139:6610/gitv/live1/G_SHENZHEN/G_SHENZHEN/",
         "status": "",
         "remark": "",
@@ -2705,14 +2773,6 @@
       },
       {
         "url": "http://121.31.30.90:8085/ysten-business/live/hdshenzhenstv/yst.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      },
-      {
-        "url": "http://223.110.243.171/PLTV/3/224/3221227217/index.m3u8",
         "status": "",
         "remark": "",
         "width": 0,
@@ -2802,6 +2862,14 @@
     "category": "",
     "streams": [
       {
+        "url": "http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227382/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
         "url": "http://223.110.241.139:6610/gitv/live1/TJWS/TJWS/",
         "status": "",
         "remark": "",
@@ -2851,14 +2919,6 @@
       },
       {
         "url": "http://223.110.243.170/PLTV/3/224/3221227212/index.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      },
-      {
-        "url": "http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227382/index.m3u8",
         "status": "",
         "remark": "",
         "width": 0,
@@ -3184,6 +3244,14 @@
     "category": "",
     "streams": [
       {
+        "url": "http://223.110.243.171/PLTV/3/224/3221227211/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
         "url": "http://223.110.241.139:6610/gitv/live1/G_HUBEI/G_HUBEI/",
         "status": "",
         "remark": "",
@@ -3217,14 +3285,6 @@
       },
       {
         "url": "http://121.31.30.90:8085/ysten-business/live/hdhubeistv/yst.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      },
-      {
-        "url": "http://223.110.243.171/PLTV/3/224/3221227211/index.m3u8",
         "status": "",
         "remark": "",
         "width": 0,
@@ -3536,6 +3596,14 @@
     "category": "",
     "streams": [
       {
+        "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225536/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
         "url": "http://223.110.241.139:6610/gitv/live1/JXWS/JXWS/",
         "status": "",
         "remark": "",
@@ -3561,14 +3629,6 @@
       },
       {
         "url": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226044/index.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      },
-      {
-        "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225536/index.m3u8",
         "status": "",
         "remark": "",
         "width": 0,
@@ -3700,6 +3760,14 @@
     "category": "",
     "streams": [
       {
+        "url": "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227410/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
         "url": "http://223.110.241.139:6610/gitv/live1/LNWS/LNWS/",
         "status": "",
         "remark": "",
@@ -3725,14 +3793,6 @@
       },
       {
         "url": "http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      },
-      {
-        "url": "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227410/index.m3u8",
         "status": "",
         "remark": "",
         "width": 0,
@@ -3822,6 +3882,14 @@
     "category": "",
     "streams": [
       {
+        "url": "http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225883/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
         "url": "http://223.110.241.139:6610/gitv/live1/G_JILIN/G_JILIN/",
         "status": "",
         "remark": "",
@@ -3884,14 +3952,6 @@
         "width": 0,
         "height": 0,
         "bitrate": 0
-      },
-      {
-        "url": "http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225883/index.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
       }
     ]
   },
@@ -3904,6 +3964,14 @@
     "category": "",
     "streams": [
       {
+        "url": "http://223.110.243.169/PLTV/3/224/3221227252/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
         "url": "http://223.110.241.139:6610/gitv/live1/G_HEILONGJIANG/G_HEILONGJIANG/",
         "status": "",
         "remark": "",
@@ -3913,14 +3981,6 @@
       },
       {
         "url": "http://112.50.243.8/PLTV/88888888/224/3221225862/1.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      },
-      {
-        "url": "http://223.110.243.169/PLTV/3/224/3221227252/index.m3u8",
         "status": "",
         "remark": "",
         "width": 0,
@@ -4110,6 +4170,86 @@
     ]
   },
   {
+    "name": "海南卫视",
+    "tvg-id": "37",
+    "logo": "http://techart8018.github.io/tv/logo/hainan_tv.png",
+    "country": "",
+    "language": "",
+    "category": "",
+    "streams": [
+      {
+        "url": "http://223.110.241.139:6610/gitv/live1/LYWS/LYWS/",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "陕西卫视",
+    "tvg-id": "55",
+    "logo": "http://techart8018.github.io/tv/logo/shaanxi_tv.png",
+    "country": "",
+    "language": "",
+    "category": "",
+    "streams": [
+      {
+        "url": "http://223.110.241.139:6610/gitv/live1/G_SHANXI/G_SHANXI/",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "云南卫视",
+    "tvg-id": "58",
+    "logo": "http://techart8018.github.io/tv/logo/yunnan_tv.png",
+    "country": "",
+    "language": "",
+    "category": "",
+    "streams": [
+      {
+        "url": "http://223.110.241.139:6610/gitv/live1/G_YUNNAN/G_YUNNAN/",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221226083/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "河北卫视",
+    "tvg-id": "45",
+    "logo": "http://techart8018.github.io/tv/logo/hebei_tv.png",
+    "country": "",
+    "language": "",
+    "category": "",
+    "streams": [
+      {
+        "url": "http://hbpx.chinashadt.com:2036/live/px4.stream/playlist.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
     "name": "江苏体育休闲",
     "tvg-id": "",
     "logo": "http://techart8018.github.io/tv/logo/jiangsu_tv.png",
@@ -4119,6 +4259,24 @@
     "streams": [
       {
         "url": "http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225935/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "黑莓电影",
+    "tvg-id": "",
+    "logo": "http://techart8018.github.io/tv/logo/heimei.png",
+    "country": "",
+    "language": "",
+    "category": "",
+    "streams": [
+      {
+        "url": "http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8",
         "status": "",
         "remark": "",
         "width": 0,
@@ -4416,6 +4574,24 @@
     ]
   },
   {
+    "name": "Fox New York",
+    "tvg-id": "WNYWDT1.us",
+    "logo": "http://techart8018.github.io/tv/logo/fox5.png",
+    "country": "",
+    "language": "",
+    "category": "",
+    "streams": [
+      {
+        "url": "https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WNYW-Monetizer.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
     "name": "Fox Washington DC",
     "tvg-id": "WTTGDT1.us",
     "logo": "http://techart8018.github.io/tv/logo/fox5.png",
@@ -4590,14 +4766,6 @@
     "category": "",
     "streams": [
       {
-        "url": "https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      },
-      {
         "url": "https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8",
         "status": "",
         "remark": "",
@@ -4607,6 +4775,14 @@
       },
       {
         "url": "https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
         "status": "",
         "remark": "",
         "width": 0,
@@ -4687,6 +4863,37 @@
         "width": 1280,
         "height": 720,
         "bitrate": 2654208
+      }
+    ]
+  },
+  {
+    "name": "Pluto TV Movies",
+    "tvg-id": "PlutoTVMovies.us",
+    "logo": "http://techart8018.github.io/tv/logo/pluto_movies.png",
+    "country": "",
+    "language": "",
+    "category": "",
+    "streams": [
+      {
+        "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5c5c3b948002db3c3e0b262e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=eddfafe3-0584-11eb-82fe-0242ac110002&terminate=false&userId=",
+        "status": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+        "status": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+        "status": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
       }
     ]
   },
