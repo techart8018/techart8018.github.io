@@ -4850,6 +4850,40 @@
     ]
   },
   {
+    "name": "BBC One",
+    "tvg-id": "BBCOneHD.uk",
+    "logo": "http://techart8018.github.io/tv/logo/bbc_one.png",
+    "country": "US",
+    "language": "English",
+    "category": "",
+    "streams": [
+      {
+        "url": "http://w4.12all.tv:4000/play/bbc1/index.m3u8",
+        "status": "online",
+        "width": 1280,
+        "height": 720,
+        "bitrate": 11210000
+      }
+    ]
+  },
+  {
+    "name": "BBC Two",
+    "tvg-id": "BBCTwoHD.uk",
+    "logo": "http://techart8018.github.io/tv/logo/bbc_two.png",
+    "country": "UK",
+    "language": "English",
+    "category": "",
+    "streams": [
+      {
+        "url": "http://w4.12all.tv:4000/play/bbc2/index.m3u8",
+        "status": "online",
+        "width": 1280,
+        "height": 720,
+        "bitrate": 5655000
+      }
+    ]
+  },
+  {
     "name": "BBC America",
     "tvg-id": "BBCAmericaEast.us",
     "logo": "http://techart8018.github.io/tv/logo/bbc_america.png",
@@ -4867,29 +4901,15 @@
     ]
   },
   {
-    "name": "Pluto TV Movies",
-    "tvg-id": "PlutoTVMovies.us",
-    "logo": "http://techart8018.github.io/tv/logo/pluto_movies.png",
+    "name": "24 Hour Free Movies",
+    "tvg-id": "24HourFreeMovies.us",
+    "logo": "http://techart8018.github.io/tv/logo/24_hour_free_movies.png",
     "country": "",
     "language": "",
     "category": "",
     "streams": [
       {
-        "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5c5c3b948002db3c3e0b262e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=eddfafe3-0584-11eb-82fe-0242ac110002&terminate=false&userId=",
-        "status": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      },
-      {
-        "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
-        "status": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      },
-      {
-        "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+        "url": "https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex2/145.m3u8",
         "status": "",
         "width": 0,
         "height": 0,
