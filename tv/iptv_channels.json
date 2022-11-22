@@ -4901,19 +4901,36 @@
     ]
   },
   {
-    "name": "24 Hour Free Movies",
-    "tvg-id": "24HourFreeMovies.us",
-    "logo": "http://techart8018.github.io/tv/logo/24_hour_free_movies.png",
+    "name": "ITV 1",
+    "tvg-id": "ITV.uk",
+    "logo": "http://techart8018.github.io/tv/logo/itv.png",
+    "country": "US",
+    "language": "English",
+    "category": "",
+    "streams": [
+      {
+        "url": "http://w4.12all.tv:4000/play/itv1/index.m3u8",
+        "status": "online",
+        "width": 1920,
+        "height": 1080,
+        "bitrate": 4582000
+      }
+    ]
+  },
+  {
+    "name": "Sundance TV",
+    "tvg-id": "SundanceTVEast.us",
+    "logo": "http://techart8018.github.io/tv/logo/sundance_tv.png",
     "country": "",
     "language": "",
     "category": "",
     "streams": [
       {
-        "url": "https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex2/145.m3u8",
-        "status": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
+        "url": "https://bcovlive-a.akamaihd.net/4d972ec6f41241f2b4286f8bdcc8dae9/us-east-1/6240731308001/playlist.m3u8",
+        "status": "online",
+        "width": 1280,
+        "height": 720,
+        "bitrate": 2654208
       }
     ]
   },
