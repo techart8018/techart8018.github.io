@@ -1056,6 +1056,14 @@
     "category": "",
     "streams": [
       {
+        "url": "http://183.207.249.6/PLTV/3/224/3221225532/1.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
         "url": "http://223.110.241.139:6610/gitv/live1/G_CCTV-9/G_CCTV-9/",
         "status": "",
         "remark": "",
@@ -1129,14 +1137,6 @@
       },
       {
         "url": "http://183.207.248.11/PLTV/4/224/3221225868/index.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      },
-      {
-        "url": "http://183.207.249.6/PLTV/3/224/3221225532/1.m3u8",
         "status": "",
         "remark": "",
         "width": 0,
@@ -1465,6 +1465,14 @@
     "streams": [
       {
         "url": "http://183.207.249.14/PLTV/3/224/3221225560/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://183.207.249.36/PLTV/4/224/3221227387/index.m3u8",
         "status": "",
         "remark": "",
         "width": 0,
@@ -3170,6 +3178,14 @@
     "category": "",
     "streams": [
       {
+        "url": "http://183.207.248.71/cntv/live1/henanstv/henanstv",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
         "url": "http://223.110.241.139:6610/gitv/live1/HENAN/HENAN/",
         "status": "",
         "remark": "",
@@ -3390,6 +3406,14 @@
     "category": "",
     "streams": [
       {
+        "url": "http://223.110.254.137:6610/cntv/live1/HD-8000k-1080P-chongqingstv/HD-8000k-1080P-chongqingstv/1.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
         "url": "http://223.110.241.139:6610/gitv/live1/G_CHONGQING/G_CHONGQING/",
         "status": "",
         "remark": "",
@@ -3463,6 +3487,14 @@
     "language": "",
     "category": "",
     "streams": [
+      {
+        "url": "http://183.207.248.71/gitv/live1/SCWS/SCWS",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
       {
         "url": "http://223.110.241.139:6610/gitv/live1/SCWS/SCWS/",
         "status": "",
@@ -3678,6 +3710,14 @@
     "category": "",
     "streams": [
       {
+        "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
         "url": "http://223.110.241.139:6610/gitv/live1/GXWS/GXWS/",
         "status": "",
         "remark": "",
@@ -3881,6 +3921,14 @@
     "language": "",
     "category": "",
     "streams": [
+      {
+        "url": "http://183.207.249.7/PLTV/4/224/3221225883/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
       {
         "url": "http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225883/index.m3u8",
         "status": "",
@@ -4128,6 +4176,14 @@
     "category": "",
     "streams": [
       {
+        "url": "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221226996/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
         "url": "http://112.25.48.68/live/program/live/xmws/1300000/mnf.m3u8",
         "status": "",
         "remark": "",
@@ -4161,14 +4217,6 @@
       },
       {
         "url": "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226093/index.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      },
-      {
-        "url": "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221226996/index.m3u8",
         "status": "",
         "remark": "",
         "width": 0,
@@ -4211,6 +4259,14 @@
     "language": "",
     "category": "",
     "streams": [
+      {
+        "url": "http://223.110.245.139/PLTV/4/224/3221227022/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
       {
         "url": "http://223.110.241.139:6610/gitv/live1/G_SHANXI/G_SHANXI/",
         "status": "",
@@ -4264,7 +4320,7 @@
     "category": "",
     "streams": [
       {
-        "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8",
+        "url": "http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225840/index.m3u8",
         "status": "",
         "remark": "",
         "width": 0,
@@ -4272,15 +4328,7 @@
         "bitrate": 0
       },
       {
-        "url": "http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225840/index.m3u88",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      },
-      {
-        "url": "http://hbpx.chinashadt.com:2036/live/px4.stream/playlist.m3u8",
+        "url": "http://183.207.248.71/gitv/live1/G_HEBEI/G_HEBEI",
         "status": "",
         "remark": "",
         "width": 0,
@@ -4344,276 +4392,6 @@
     ]
   },
   {
-    "name": "ABC Chicago",
-    "tvg-id": "WLSDT1.us",
-    "logo": "http://techart8018.github.io/tv/logo/abc7.png",
-    "country": "",
-    "language": "",
-    "category": "",
-    "streams": [
-      {
-        "url": "http://51.161.118.146:8080/ISG03_ABC_CHICAGO_IL_WLS/video.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "ABC Denver",
-    "tvg-id": "KMGHDT1.us",
-    "logo": "http://techart8018.github.io/tv/logo/abc7.png",
-    "country": "",
-    "language": "",
-    "category": "",
-    "streams": [
-      {
-        "url": "http://51.161.118.146:8080/ISG03_ABC_DENVER_CO_KMGH/video.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "ABC Bay Area",
-    "tvg-id": "KGODT1.us",
-    "logo": "http://techart8018.github.io/tv/logo/kgo.png",
-    "country": "",
-    "language": "",
-    "category": "",
-    "streams": [
-      {
-        "url": "http://51.161.118.146:8080/ISG03_ABC_SAN_FRANCISCO_CA_KGO/video.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "ABC Seattle",
-    "tvg-id": "KOMODT1.us",
-    "logo": "http://techart8018.github.io/tv/logo/komo.png",
-    "country": "",
-    "language": "",
-    "category": "",
-    "streams": [
-      {
-        "url": "http://51.161.118.146:8080/ISG03_ABC_SEATTLE_WA_KOMO/video.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "CBS Washington DC",
-    "tvg-id": "WUSADT1.us",
-    "logo": "http://techart8018.github.io/tv/logo/wusa9.png",
-    "country": "",
-    "language": "",
-    "category": "",
-    "streams": [
-      {
-        "url": "http://51.161.118.146:8080/ISG03_CBS_WASHINGTON_DC_WUSA/video.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "CBS Chicago",
-    "tvg-id": "WUSADT1.us",
-    "logo": "http://techart8018.github.io/tv/logo/cbs5.png",
-    "country": "",
-    "language": "",
-    "category": "",
-    "streams": [
-      {
-        "url": "http://51.161.118.146:8080/ISG03_CBS_CHICAGO_IL_WBBM/tracks-v5a1/mono.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "CBS Houston",
-    "tvg-id": "KHOUDT1.us",
-    "logo": "http://techart8018.github.io/tv/logo/khou.png",
-    "country": "",
-    "language": "",
-    "category": "",
-    "streams": [
-      {
-        "url": "http://51.161.118.146:8080/ISG03_CBS_HOUSTON_TX_KHOU/video.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "CBS Bay Area",
-    "tvg-id": "KPIXDT1.us",
-    "logo": "http://techart8018.github.io/tv/logo/cbs5.png",
-    "country": "",
-    "language": "",
-    "category": "",
-    "streams": [
-      {
-        "url": "http://51.161.118.146:8080/ISG03_CBS_SAN_FRANCISCO_CA_KPIX/video.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "CBS Seattle",
-    "tvg-id": "KIRODT1.us",
-    "logo": "http://techart8018.github.io/tv/logo/kiro_7_news.png",
-    "country": "",
-    "language": "",
-    "category": "",
-    "streams": [
-      {
-        "url": "http://51.161.118.146:8080/ISG03_CBS_SEATTLE_WA_KIRO/video.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "NBC Boston",
-    "tvg-id": "WBTSCD1.us",
-    "logo": "http://techart8018.github.io/tv/logo/wbts.png",
-    "country": "",
-    "language": "",
-    "category": "",
-    "streams": [
-      {
-        "url": "http://51.161.118.146:8080/ISG03_NBC_BOSTON_MA_WBTS/video.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "NBC Chicago",
-    "tvg-id": "WBALDT1.us",
-    "logo": "http://techart8018.github.io/tv/logo/wmaq.png",
-    "country": "",
-    "language": "",
-    "category": "",
-    "streams": [
-      {
-        "url": "http://51.161.118.146:8080/ISG03_NBC_CHICAGO_IL_WMAQ/tracks-v1a1/mono.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "NBC Houston",
-    "tvg-id": "KPRCDT1.us",
-    "logo": "http://techart8018.github.io/tv/logo/kprc.png",
-    "country": "",
-    "language": "",
-    "category": "",
-    "streams": [
-      {
-        "url": "http://51.161.118.146:8080/ISG03_NBC_HOUSTON_TX_KPRC/video.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "NBC LA",
-    "tvg-id": "KNBCDT1.us",
-    "logo": "http://techart8018.github.io/tv/logo/knbc.png",
-    "country": "",
-    "language": "",
-    "category": "",
-    "streams": [
-      {
-        "url": "http://51.161.118.146:8080/ISG03_NBC_LOS_ANGELES_CA_KNBC/video.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "NBC Bay Area",
-    "tvg-id": "KNTVDT1.us",
-    "logo": "http://techart8018.github.io/tv/logo/kntv.png",
-    "country": "",
-    "language": "",
-    "category": "",
-    "streams": [
-      {
-        "url": "http://51.161.118.146:8080/ISG03_NBC_SAN_FRANCISCO_CA_KNTV/video.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "NBC Seattle",
-    "tvg-id": "KINGDT1.us",
-    "logo": "http://techart8018.github.io/tv/logo/king_tv.png",
-    "country": "",
-    "language": "",
-    "category": "",
-    "streams": [
-      {
-        "url": "http://51.161.118.146:8080/ISG03_NBC_SEATTLE_WA_KING/video.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
     "name": "Fox New York",
     "tvg-id": "WNYWDT1.us",
     "logo": "http://techart8018.github.io/tv/logo/fox5.png",
@@ -4623,60 +4401,6 @@
     "streams": [
       {
         "url": "https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WNYW-Monetizer.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "Fox Washington DC",
-    "tvg-id": "WTTGDT1.us",
-    "logo": "http://techart8018.github.io/tv/logo/fox5.png",
-    "country": "",
-    "language": "",
-    "category": "",
-    "streams": [
-      {
-        "url": "http://51.161.118.146:8080/ISG03_FOX_WASHINGTON_DC_WTTG/video.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "Fox Houston",
-    "tvg-id": "KRIVDT1.us",
-    "logo": "http://techart8018.github.io/tv/logo/fox26.png",
-    "country": "",
-    "language": "",
-    "category": "",
-    "streams": [
-      {
-        "url": "http://51.161.118.146:8080/ISG03_FOX_HOUSTON_TX_KRIV/video.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "Fox Seattle",
-    "tvg-id": "KCPQDT1.us",
-    "logo": "http://techart8018.github.io/tv/logo/kcpq.png",
-    "country": "",
-    "language": "",
-    "category": "",
-    "streams": [
-      {
-        "url": "http://51.161.118.146:8080/ISG03_FOX_SEATTLE_WA_KCPQ/video.m3u8",
         "status": "",
         "remark": "",
         "width": 0,
@@ -4941,23 +4665,6 @@
     ]
   },
   {
-    "name": "ITV 1",
-    "tvg-id": "ITV.uk",
-    "logo": "http://techart8018.github.io/tv/logo/itv.png",
-    "country": "US",
-    "language": "English",
-    "category": "",
-    "streams": [
-      {
-        "url": "http://w4.12all.tv:4000/play/itv1/index.m3u8",
-        "status": "online",
-        "width": 1920,
-        "height": 1080,
-        "bitrate": 4582000
-      }
-    ]
-  },
-  {
     "name": "Sundance TV",
     "tvg-id": "SundanceTVEast.us",
     "logo": "http://techart8018.github.io/tv/logo/sundance_tv.png",
@@ -5023,6 +4730,30 @@
         "width": 1920,
         "height": 1080,
         "bitrate": 4681600
+      }
+    ]
+  },
+  {
+    "name": "CGTN",
+    "tvg-id": "CGTN.cn",
+    "logo": "http://techart8018.github.io/tv/logo/cgtn.png",
+    "country": "",
+    "language": "",
+    "category": "",
+    "streams": [
+      {
+        "url": "http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8",
+        "status": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8",
+        "status": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
       }
     ]
   }
