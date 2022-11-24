@@ -4338,6 +4338,55 @@
     ]
   },
   {
+    "name": "凤凰卫视",
+    "tvg-id": "141",
+    "logo": "http://techart8018.github.io/tv/logo/phoenix.png",
+    "country": "",
+    "language": "",
+    "category": "",
+    "streams": [
+      {
+        "url": "http://210.210.155.37/uq2663/h/h157/index2.m3u8",
+        "status": "online",
+        "remark": "",
+        "width": 1024,
+        "height": 576,
+        "bitrate": 2238329
+      },
+      {
+        "url": "https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8",
+        "status": "online",
+        "remark": "",
+        "width": 960,
+        "height": 540
+      }
+    ]
+  },
+  {
+    "name": "CGTN",
+    "tvg-id": "20",
+    "logo": "http://techart8018.github.io/tv/logo/cgtn.png",
+    "country": "",
+    "language": "",
+    "category": "",
+    "streams": [
+      {
+        "url": "http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8",
+        "status": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8",
+        "status": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
     "name": "江苏体育休闲",
     "tvg-id": "",
     "logo": "http://techart8018.github.io/tv/logo/jiangsu_tv.png",
@@ -4614,6 +4663,116 @@
     ]
   },
   {
+    "name": "CBC News",
+    "tvg-id": "CBCNewsHighlights.ca",
+    "logo": "http://techart8018.github.io/tv/logo/cbc_news_network.png",
+    "country": "",
+    "language": "",
+    "category": "",
+    "streams": [
+      {
+        "url": "https://csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8",
+        "status": "online",
+        "width": 1280,
+        "height": 720,
+        "bitrate": 2210000
+      }
+    ]
+  },
+  {
+    "name": "CNA International",
+    "tvg-id": "CNAInternational.sg",
+    "logo": "http://techart8018.github.io/tv/logo/cna.png",
+    "country": "",
+    "language": "",
+    "category": "",
+    "streams": [
+      {
+        "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8",
+        "status": "online",
+        "width": 1920,
+        "height": 1080,
+        "bitrate": 8004449
+      }
+    ]
+  },
+  {
+    "name": "ABC TV AU",
+    "tvg-id": "ABCTV.au",
+    "logo": "http://techart8018.github.io/tv/logo/abc_au.png",
+    "country": "",
+    "language": "",
+    "category": "",
+    "streams": [
+      {
+        "url": "https://c.mjh.nz/101002210221",
+        "status": "online",
+        "width": 1280,
+        "height": 720,
+        "bitrate": 4806463
+      },
+      {
+        "url": "https://c.mjh.nz/101002310231",
+        "status": "online",
+        "width": 1280,
+        "height": 720,
+        "bitrate": 4806265
+      },
+      {
+        "url": "https://c.mjh.nz/101002510251",
+        "status": "online",
+        "width": 1280,
+        "height": 720,
+        "bitrate": 2460136
+      },
+      {
+        "url": "https://c.mjh.nz/101002710271",
+        "status": "online",
+        "width": 1280,
+        "height": 720,
+        "bitrate": 2459727
+      },
+      {
+        "url": "https://c.mjh.nz/101002810281",
+        "status": "online",
+        "width": 1280,
+        "height": 720,
+        "bitrate": 2459529
+      },
+      {
+        "url": "https://c.mjh.nz/3201026102E1",
+        "status": "online",
+        "width": 1280,
+        "height": 720,
+        "bitrate": 2459454
+      }
+    ]
+  },
+  {
+    "name": "ABC News AU",
+    "tvg-id": "",
+    "logo": "http://techart8018.github.io/tv/logo/abc_news_au.png",
+    "country": "",
+    "language": "",
+    "category": "",
+    "streams": [
+      {
+        "url": "https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8",
+        "status": "online",
+        "width": 1280,
+        "height": 720,
+        "bitrate": 4806326
+      },
+      {
+        "url": "https://c.mjh.nz/101002210220",
+        "status": "online",
+        "width": 1280,
+        "height": 720,
+        "bitrate": 4806326
+      }
+    ]
+  },
+  {
     "name": "BBC One",
     "tvg-id": "BBCOneHD.uk",
     "logo": "http://techart8018.github.io/tv/logo/bbc_one.png",
@@ -4734,26 +4893,53 @@
     ]
   },
   {
-    "name": "CGTN",
-    "tvg-id": "CGTN.cn",
-    "logo": "http://techart8018.github.io/tv/logo/cgtn.png",
+    "name": "HBO",
+    "tvg-id": "HBOSlovenia.si",
+    "logo": "http://techart8018.github.io/tv/logo/hbo.png",
     "country": "",
     "language": "",
     "category": "",
     "streams": [
       {
-        "url": "http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8",
-        "status": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      },
+        "url": "https://streamer12.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBOHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
+        "status": "online",
+        "width": 1920,
+        "height": 1080,
+        "bitrate": 4280588
+      }
+    ]
+  },
+  {
+    "name": "HBO 2",
+    "tvg-id": "HBOSlovenia.si",
+    "logo": "http://techart8018.github.io/tv/logo/hbo2.png",
+    "country": "",
+    "language": "",
+    "category": "",
+    "streams": [
       {
-        "url": "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8",
-        "status": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
+        "url": "https://streamer12.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBOCOMEDYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
+        "status": "online",
+        "width": 1920,
+        "height": 1080,
+        "bitrate": 4280588
+      }
+    ]
+  },
+  {
+    "name": "HBO 3",
+    "tvg-id": "HBOSlovenia.si",
+    "logo": "http://techart8018.github.io/tv/logo/hbo3.png",
+    "country": "",
+    "language": "",
+    "category": "",
+    "streams": [
+      {
+        "url": "https://streamer12.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBO3HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
+        "status": "online",
+        "width": 1920,
+        "height": 1080,
+        "bitrate": 4280588
       }
     ]
   }
