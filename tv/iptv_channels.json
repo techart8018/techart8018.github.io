@@ -4423,15 +4423,15 @@
     ]
   },
   {
-    "name": "ABC Washington DC",
-    "tvg-id": "WJLADT1.us",
+    "name": "ABC 7 New York",
+    "tvg-id": "WABCDT1.us",
     "logo": "http://techart8018.github.io/tv/logo/abc7.png",
     "country": "US",
     "language": "English",
     "category": "General",
     "streams": [
       {
-        "url": "http://51.161.118.146:8080/ISG03_ABC_WASHINGTON_DC_WJLA/video.m3u8",
+        "url": "https://v-ny.mybtv.net/live/554.m3u8?NoxusPlus+.m3u8",
         "status": "",
         "remark": "",
         "width": 0,
@@ -4441,13 +4441,57 @@
     ]
   },
   {
-    "name": "Fox New York",
+    "name": "CBS 2 New York",
+    "tvg-id": "WCBSDT1.us",
+    "logo": "http://techart8018.github.io/tv/logo/cbs2.png",
+    "country": "US",
+    "language": "English",
+    "category": "General",
+    "streams": [
+      {
+        "url": "https://v-ny.mybtv.net/live/545.m3u8?NoxusPlus+.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "NBC 4 New York",
+    "tvg-id": "WNBCDT1.us",
+    "logo": "http://techart8018.github.io/tv/logo/wnbc.png",
+    "country": "US",
+    "language": "English",
+    "category": "General",
+    "streams": [
+      {
+        "url": "https://v-ny.mybtv.net/live/548.m3u8?NoxusPlus+.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "Fox 5 New York",
     "tvg-id": "WNYWDT1.us",
     "logo": "http://techart8018.github.io/tv/logo/fox5.png",
     "country": "US",
     "language": "English",
     "category": "General",
     "streams": [
+      {
+        "url": "https://v-ny.mybtv.net/live/550.m3u8?NoxusPlus+.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
       {
         "url": "https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WNYW-Monetizer.m3u8",
         "status": "",
@@ -4846,7 +4890,7 @@
     "logo": "http://techart8018.github.io/tv/logo/amc.png",
     "country": "US",
     "language": "English",
-    "category": "Series",
+    "category": "Movies",
     "streams": [
       {
         "url": "https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/playlist.m3u8",
@@ -4863,7 +4907,7 @@
     "logo": "http://techart8018.github.io/tv/logo/ifc.png",
     "country": "US",
     "language": "English",
-    "category": "Series",
+    "category": "Movies",
     "streams": [
       {
         "url": "https://bcovlive-a.akamaihd.net/045bd3b615254da880c3db79b2e42fd0/us-east-1/6240731308001/playlist.m3u8",
