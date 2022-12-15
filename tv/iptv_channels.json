@@ -4,7 +4,7 @@
     "name": "CCTV-1",
     "logo": "http://techart8018.github.io/tv/logo/cctv1.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "General",
     "streams": [
       {
@@ -182,7 +182,7 @@
     "name": "CCTV-2",
     "logo": "http://techart8018.github.io/tv/logo/cctv2.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "Business",
     "streams": [
       {
@@ -288,7 +288,7 @@
     "name": "CCTV-3",
     "logo": "http://techart8018.github.io/tv/logo/cctv3.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "Music",
     "streams": [
       {
@@ -434,7 +434,7 @@
     "name": "CCTV-4",
     "logo": "http://techart8018.github.io/tv/logo/cctv4.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "News",
     "streams": [
       {
@@ -532,7 +532,7 @@
     "name": "CCTV-5",
     "logo": "http://techart8018.github.io/tv/logo/cctv5.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "Sports",
     "streams": [
       {
@@ -654,7 +654,7 @@
     "name": "CCTV-6",
     "logo": "http://techart8018.github.io/tv/logo/cctv6.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "Movies",
     "streams": [
       {
@@ -816,7 +816,7 @@
     "name": "CCTV-7",
     "logo": "http://techart8018.github.io/tv/logo/cctv7.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "News",
     "streams": [
       {
@@ -890,7 +890,7 @@
     "name": "CCTV-8",
     "logo": "http://techart8018.github.io/tv/logo/cctv8.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "Series",
     "streams": [
       {
@@ -1052,7 +1052,7 @@
     "name": "CCTV-9",
     "logo": "http://techart8018.github.io/tv/logo/cctv9.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "Documentary",
     "streams": [
       {
@@ -1158,7 +1158,7 @@
     "name": "CCTV-10",
     "logo": "http://techart8018.github.io/tv/logo/cctv10.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "Science",
     "streams": [
       {
@@ -1280,7 +1280,7 @@
     "name": "CCTV-11",
     "logo": "http://techart8018.github.io/tv/logo/cctv11.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "Culture",
     "streams": [
       {
@@ -1354,7 +1354,7 @@
     "name": "CCTV-12",
     "logo": "http://techart8018.github.io/tv/logo/cctv12.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "Legislative",
     "streams": [
       {
@@ -1460,7 +1460,7 @@
     "name": "CCTV-13",
     "logo": "http://techart8018.github.io/tv/logo/cctv13.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "News",
     "streams": [
       {
@@ -1638,7 +1638,7 @@
     "name": "CCTV-14",
     "logo": "http://techart8018.github.io/tv/logo/cctv14.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "Kids",
     "streams": [
       {
@@ -1664,7 +1664,7 @@
     "name": "CCTV-15",
     "logo": "http://techart8018.github.io/tv/logo/cctv15.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "Music",
     "streams": [
       {
@@ -1698,7 +1698,7 @@
     "name": "江苏卫视",
     "logo": "http://techart8018.github.io/tv/logo/jiangsu_tv.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "General",
     "streams": [
       {
@@ -1860,7 +1860,7 @@
     "name": "浙江卫视",
     "logo": "http://techart8018.github.io/tv/logo/zhejiang_tv.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "General",
     "streams": [
       {
@@ -2022,7 +2022,7 @@
     "name": "东方卫视",
     "logo": "http://techart8018.github.io/tv/logo/dongfang_tv.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "General",
     "streams": [
       {
@@ -2144,7 +2144,7 @@
     "name": "湖南卫视",
     "logo": "http://techart8018.github.io/tv/logo/hunan_tv.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "General",
     "streams": [
       {
@@ -2306,7 +2306,7 @@
     "name": "北京卫视",
     "logo": "http://techart8018.github.io/tv/logo/beijing_tv.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "General",
     "streams": [
       {
@@ -2452,7 +2452,7 @@
     "tvg-id": "32",
     "logo": "http://techart8018.github.io/tv/logo/anhui_tv.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "General",
     "streams": [
       {
@@ -2582,7 +2582,7 @@
     "tvg-id": "33",
     "logo": "http://techart8018.github.io/tv/logo/guangdong_tv.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "General",
     "streams": [
       {
@@ -2744,7 +2744,7 @@
     "tvg-id": "34",
     "logo": "http://techart8018.github.io/tv/logo/shenzhen_tv.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "General",
     "streams": [
       {
@@ -2866,7 +2866,7 @@
     "tvg-id": "39",
     "logo": "http://techart8018.github.io/tv/logo/tianjin_tv.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "General",
     "streams": [
       {
@@ -3020,7 +3020,7 @@
     "tvg-id": "38",
     "logo": "http://techart8018.github.io/tv/logo/shandong_tv.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "General",
     "streams": [
       {
@@ -3174,7 +3174,7 @@
     "tvg-id": "47",
     "logo": "http://techart8018.github.io/tv/logo/henan_tv.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "General",
     "streams": [
       {
@@ -3256,7 +3256,7 @@
     "tvg-id": "48",
     "logo": "http://techart8018.github.io/tv/logo/hubei_tv.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "General",
     "streams": [
       {
@@ -3402,7 +3402,7 @@
     "tvg-id": "40",
     "logo": "http://techart8018.github.io/tv/logo/chongqing_tv.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "General",
     "streams": [
       {
@@ -3484,7 +3484,7 @@
     "tvg-id": "56",
     "logo": "http://techart8018.github.io/tv/logo/sichuan_tv.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "General",
     "streams": [
       {
@@ -3566,7 +3566,7 @@
     "tvg-id": "44",
     "logo": "http://techart8018.github.io/tv/logo/guizhou_tv.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "General",
     "streams": [
       {
@@ -3624,7 +3624,7 @@
     "tvg-id": "50",
     "logo": "http://techart8018.github.io/tv/logo/jiangxi_tv.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "General",
     "streams": [
       {
@@ -3706,7 +3706,7 @@
     "tvg-id": "43",
     "logo": "http://techart8018.github.io/tv/logo/guangxi_tv.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "General",
     "streams": [
       {
@@ -3796,7 +3796,7 @@
     "tvg-id": "36",
     "logo": "http://techart8018.github.io/tv/logo/liaoning_tv.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "General",
     "streams": [
       {
@@ -3918,7 +3918,7 @@
     "tvg-id": "51",
     "logo": "http://techart8018.github.io/tv/logo/jilin_tv.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "General",
     "streams": [
       {
@@ -4008,7 +4008,7 @@
     "tvg-id": "46",
     "logo": "http://techart8018.github.io/tv/logo/heilongjiang_tv.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "General",
     "streams": [
       {
@@ -4090,7 +4090,7 @@
     "tvg-id": "41",
     "logo": "http://techart8018.github.io/tv/logo/dongnan_tv.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "General",
     "streams": [
       {
@@ -4172,7 +4172,7 @@
     "tvg-id": "68",
     "logo": "http://techart8018.github.io/tv/logo/xiamen_tv.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "General",
     "streams": [
       {
@@ -4238,7 +4238,7 @@
     "tvg-id": "37",
     "logo": "http://techart8018.github.io/tv/logo/hainan_tv.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "General",
     "streams": [
       {
@@ -4256,7 +4256,7 @@
     "tvg-id": "55",
     "logo": "http://techart8018.github.io/tv/logo/shaanxi_tv.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "General",
     "streams": [
       {
@@ -4282,7 +4282,7 @@
     "tvg-id": "58",
     "logo": "http://techart8018.github.io/tv/logo/yunnan_tv.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "General",
     "streams": [
       {
@@ -4316,7 +4316,7 @@
     "tvg-id": "45",
     "logo": "http://techart8018.github.io/tv/logo/hebei_tv.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "General",
     "streams": [
       {
@@ -4342,7 +4342,7 @@
     "tvg-id": "141",
     "logo": "http://techart8018.github.io/tv/logo/phoenix.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "News",
     "streams": [
       {
@@ -4367,7 +4367,7 @@
     "tvg-id": "20",
     "logo": "http://techart8018.github.io/tv/logo/cgtn.png",
     "country": "CN",
-    "language": "English",
+    "language": "eng",
     "category": "General",
     "streams": [
       {
@@ -4391,7 +4391,7 @@
     "tvg-id": "",
     "logo": "http://techart8018.github.io/tv/logo/jiangsu_tv.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "Sports",
     "streams": [
       {
@@ -4409,7 +4409,7 @@
     "tvg-id": "",
     "logo": "http://techart8018.github.io/tv/logo/heimei.png",
     "country": "CN",
-    "language": "Chinese",
+    "language": "zho",
     "category": "Movies",
     "streams": [
       {
@@ -4427,7 +4427,7 @@
     "tvg-id": "WABCDT1.us",
     "logo": "http://techart8018.github.io/tv/logo/abc7.png",
     "country": "US",
-    "language": "English",
+    "language": "eng",
     "category": "General",
     "streams": [
       {
@@ -4445,7 +4445,7 @@
     "tvg-id": "WCBSDT1.us",
     "logo": "http://techart8018.github.io/tv/logo/cbs2.png",
     "country": "US",
-    "language": "English",
+    "language": "eng",
     "category": "General",
     "streams": [
       {
@@ -4463,7 +4463,7 @@
     "tvg-id": "WNBCDT1.us",
     "logo": "http://techart8018.github.io/tv/logo/wnbc.png",
     "country": "US",
-    "language": "English",
+    "language": "eng",
     "category": "General",
     "streams": [
       {
@@ -4481,7 +4481,7 @@
     "tvg-id": "WNYWDT1.us",
     "logo": "http://techart8018.github.io/tv/logo/fox5.png",
     "country": "US",
-    "language": "English",
+    "language": "eng",
     "category": "General",
     "streams": [
       {
@@ -4507,7 +4507,7 @@
     "tvg-id": "FoxNewsNow.us",
     "logo": "http://techart8018.github.io/tv/logo/fox_news_now.png",
     "country": "US",
-    "language": "English",
+    "language": "eng",
     "category": "News",
     "streams": [
       {
@@ -4533,7 +4533,7 @@
     "tvg-id": "CBSNews.us",
     "logo": "http://techart8018.github.io/tv/logo/cbsn.png",
     "country": "US",
-    "language": "English",
+    "language": "eng",
     "category": "News",
     "streams": [
       {
@@ -4567,7 +4567,7 @@
     "tvg-id": "NBCNewsNow.us",
     "logo": "http://techart8018.github.io/tv/logo/nbc_news_now.png",
     "country": "US",
-    "language": "English",
+    "language": "eng",
     "category": "News",
     "streams": [
       {
@@ -4601,7 +4601,7 @@
     "tvg-id": "NewsmaxTV.us",
     "logo": "http://techart8018.github.io/tv/logo/newsmax.png",
     "country": "US",
-    "language": "English",
+    "language": "eng",
     "category": "News",
     "streams": [
       {
@@ -4619,7 +4619,7 @@
     "tvg-id": "CNN.us",
     "logo": "http://techart8018.github.io/tv/logo/cnn.png",
     "country": "US",
-    "language": "English",
+    "language": "eng",
     "category": "News",
     "streams": [
       {
@@ -4693,7 +4693,7 @@
     "tvg-id": "",
     "logo": "http://techart8018.github.io/tv/logo/global_news.png",
     "country": "CA",
-    "language": "English",
+    "language": "eng",
     "category": "News",
     "streams": [
       {
@@ -4711,7 +4711,7 @@
     "tvg-id": "CBCNewsHighlights.ca",
     "logo": "http://techart8018.github.io/tv/logo/cbc_news_network.png",
     "country": "CA",
-    "language": "English",
+    "language": "eng",
     "category": "News",
     "streams": [
       {
@@ -4728,7 +4728,7 @@
     "tvg-id": "CNAInternational.sg",
     "logo": "http://techart8018.github.io/tv/logo/cna.png",
     "country": "SG",
-    "language": "English",
+    "language": "eng",
     "category": "News",
     "streams": [
       {
@@ -4745,7 +4745,7 @@
     "tvg-id": "ABCTV.au",
     "logo": "http://techart8018.github.io/tv/logo/abc_au.png",
     "country": "AU",
-    "language": "English",
+    "language": "eng",
     "category": "General",
     "streams": [
       {
@@ -4797,7 +4797,7 @@
     "tvg-id": "",
     "logo": "http://techart8018.github.io/tv/logo/abc_news_au.png",
     "country": "AU",
-    "language": "English",
+    "language": "eng",
     "category": "News",
     "streams": [
       {
@@ -4821,7 +4821,7 @@
     "tvg-id": "BBCOneHD.uk",
     "logo": "http://techart8018.github.io/tv/logo/bbc_one.png",
     "country": "UK",
-    "language": "English",
+    "language": "eng",
     "category": "General",
     "streams": [
       {
@@ -4838,7 +4838,7 @@
     "tvg-id": "BBCTwoHD.uk",
     "logo": "http://techart8018.github.io/tv/logo/bbc_two.png",
     "country": "UK",
-    "language": "English",
+    "language": "eng",
     "category": "General",
     "streams": [
       {
@@ -4855,7 +4855,7 @@
     "tvg-id": "BBCAmericaEast.us",
     "logo": "http://techart8018.github.io/tv/logo/bbc_america.png",
     "country": "US",
-    "language": "English",
+    "language": "eng",
     "category": "Series",
     "streams": [
       {
@@ -4872,7 +4872,7 @@
     "tvg-id": "SundanceTVEast.us",
     "logo": "http://techart8018.github.io/tv/logo/sundance_tv.png",
     "country": "US",
-    "language": "English",
+    "language": "eng",
     "category": "Series",
     "streams": [
       {
@@ -4889,7 +4889,7 @@
     "tvg-id": "AMCEast.us",
     "logo": "http://techart8018.github.io/tv/logo/amc.png",
     "country": "US",
-    "language": "English",
+    "language": "eng",
     "category": "Movies",
     "streams": [
       {
@@ -4906,7 +4906,7 @@
     "tvg-id": "IFCEast.us",
     "logo": "http://techart8018.github.io/tv/logo/ifc.png",
     "country": "US",
-    "language": "English",
+    "language": "eng",
     "category": "Movies",
     "streams": [
       {
@@ -4923,7 +4923,7 @@
     "tvg-id": "MovieSphere.us",
     "logo": "http://techart8018.github.io/tv/logo/movie_sphere.png",
     "country": "US",
-    "language": "English",
+    "language": "eng",
     "category": "Movies",
     "streams": [
       {
@@ -4975,7 +4975,7 @@
     "tvg-id": "HBOSlovenia.si",
     "logo": "http://techart8018.github.io/tv/logo/hbo.png",
     "country": "US",
-    "language": "English",
+    "language": "eng",
     "category": "Movies",
     "streams": [
       {
@@ -4992,7 +4992,7 @@
     "tvg-id": "HBOSlovenia.si",
     "logo": "http://techart8018.github.io/tv/logo/hbo2.png",
     "country": "US",
-    "language": "English",
+    "language": "eng",
     "category": "Movies",
     "streams": [
       {
@@ -5009,7 +5009,7 @@
     "tvg-id": "HBOSlovenia.si",
     "logo": "http://techart8018.github.io/tv/logo/hbo3.png",
     "country": "US",
-    "language": "English",
+    "language": "eng",
     "category": "Movies",
     "streams": [
       {
