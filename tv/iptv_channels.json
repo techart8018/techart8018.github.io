@@ -1694,6 +1694,31 @@
     ]
   },
   {
+    "name": "凤凰卫视",
+    "tvg-id": "141",
+    "logo": "http://techart8018.github.io/tv/logo/phoenix.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "News",
+    "streams": [
+      {
+        "url": "http://210.210.155.37/uq2663/h/h157/index2.m3u8",
+        "status": "online",
+        "remark": "",
+        "width": 1024,
+        "height": 576,
+        "bitrate": 2238329
+      },
+      {
+        "url": "https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8",
+        "status": "online",
+        "remark": "",
+        "width": 960,
+        "height": 540
+      }
+    ]
+  },
+  {
     "tvg-id": "29",
     "name": "江苏卫视",
     "logo": "http://techart8018.github.io/tv/logo/jiangsu_tv.png",
@@ -4338,55 +4363,6 @@
     ]
   },
   {
-    "name": "凤凰卫视",
-    "tvg-id": "141",
-    "logo": "http://techart8018.github.io/tv/logo/phoenix.png",
-    "country": "CN",
-    "language": "zho",
-    "category": "News",
-    "streams": [
-      {
-        "url": "http://210.210.155.37/uq2663/h/h157/index2.m3u8",
-        "status": "online",
-        "remark": "",
-        "width": 1024,
-        "height": 576,
-        "bitrate": 2238329
-      },
-      {
-        "url": "https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8",
-        "status": "online",
-        "remark": "",
-        "width": 960,
-        "height": 540
-      }
-    ]
-  },
-  {
-    "name": "CGTN",
-    "tvg-id": "20",
-    "logo": "http://techart8018.github.io/tv/logo/cgtn.png",
-    "country": "CN",
-    "language": "eng",
-    "category": "General",
-    "streams": [
-      {
-        "url": "http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8",
-        "status": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      },
-      {
-        "url": "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8",
-        "status": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
     "name": "江苏体育休闲",
     "tvg-id": "",
     "logo": "http://techart8018.github.io/tv/logo/jiangsu_tv.png",
@@ -4416,6 +4392,30 @@
         "url": "http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8",
         "status": "",
         "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CGTN",
+    "tvg-id": "20",
+    "logo": "http://techart8018.github.io/tv/logo/cgtn.png",
+    "country": "CN",
+    "language": "eng",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8",
+        "status": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8",
+        "status": "",
         "width": 0,
         "height": 0,
         "bitrate": 0
@@ -4689,6 +4689,60 @@
     ]
   },
   {
+    "name": "PBS World",
+    "tvg-id": "WorldChannel.us",
+    "logo": "http://techart8018.github.io/tv/logo/pbs_world.png",
+    "country": "US",
+    "language": "eng",
+    "category": "Education",
+    "streams": [
+      {
+        "url": "https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "Thirteen PBS",
+    "tvg-id": "WNETDT1.us",
+    "logo": "http://techart8018.github.io/tv/logo/pbs13.png",
+    "country": "US",
+    "language": "eng",
+    "category": "Education",
+    "streams": [
+      {
+        "url": "http://v-ny.theus6tv.duckdns.org/hls/13.1/playlist.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "WLIW 21",
+    "tvg-id": "WLIWDT1.us",
+    "logo": "http://techart8018.github.io/tv/logo/wliw21.png",
+    "country": "US",
+    "language": "eng",
+    "category": "Education",
+    "streams": [
+      {
+        "url": "http://v-ny.theus6tv.duckdns.org/hls/21.1/playlist.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
     "name": "Global News",
     "tvg-id": "",
     "logo": "http://techart8018.github.io/tv/logo/global_news.png",
@@ -4817,6 +4871,23 @@
     ]
   },
   {
+    "name": "Sky News",
+    "tvg-id": "SkyNews.uk",
+    "logo": "http://techart8018.github.io/tv/logo/sky_news.png",
+    "country": "UK",
+    "language": "eng",
+    "category": "General",
+    "streams": [
+      {
+        "url": "https://siloh.pluto.tv:443/lilo/production/SkyNews/master.m3u8",
+        "status": "online",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
     "name": "BBC One",
     "tvg-id": "BBCOneHD.uk",
     "logo": "http://techart8018.github.io/tv/logo/bbc_one.png",
@@ -4873,7 +4944,7 @@
     "logo": "http://techart8018.github.io/tv/logo/sundance_tv.png",
     "country": "US",
     "language": "eng",
-    "category": "Series",
+    "category": "Movies",
     "streams": [
       {
         "url": "https://bcovlive-a.akamaihd.net/4d972ec6f41241f2b4286f8bdcc8dae9/us-east-1/6240731308001/playlist.m3u8",
@@ -4911,6 +4982,23 @@
     "streams": [
       {
         "url": "https://bcovlive-a.akamaihd.net/045bd3b615254da880c3db79b2e42fd0/us-east-1/6240731308001/playlist.m3u8",
+        "status": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CineLife",
+    "tvg-id": "CineLife.us",
+    "logo": "http://techart8018.github.io/tv/logo/cine_life.png",
+    "country": "US",
+    "language": "eng",
+    "category": "Movies",
+    "streams": [
+      {
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinelife/playlist.m3u8",
         "status": "",
         "width": 0,
         "height": 0,
