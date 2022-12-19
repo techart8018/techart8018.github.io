@@ -1702,19 +1702,19 @@
     "category": "News",
     "streams": [
       {
+        "url": "https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8",
+        "status": "online",
+        "remark": "",
+        "width": 960,
+        "height": 540
+      },
+      {
         "url": "http://210.210.155.37/uq2663/h/h157/index2.m3u8",
         "status": "online",
         "remark": "",
         "width": 1024,
         "height": 576,
         "bitrate": 2238329
-      },
-      {
-        "url": "https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8",
-        "status": "online",
-        "remark": "",
-        "width": 960,
-        "height": 540
       }
     ]
   },
@@ -4455,6 +4455,14 @@
         "width": 0,
         "height": 0,
         "bitrate": 0
+      },
+      {
+        "url": "http://v-ny.theus6tv.duckdns.org/hls/2.1/playlist.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
       }
     ]
   },
@@ -4473,6 +4481,14 @@
         "width": 0,
         "height": 0,
         "bitrate": 0
+      },
+      {
+        "url": "http://v-ny.theus6tv.duckdns.org/hls/4.1/playlist.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
       }
     ]
   },
@@ -4486,6 +4502,14 @@
     "streams": [
       {
         "url": "https://v-ny.mybtv.net/live/550.m3u8?NoxusPlus+.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://v-ny.theus6tv.duckdns.org/hls/5.1/playlist.m3u8",
         "status": "",
         "remark": "",
         "width": 0,
@@ -4512,6 +4536,40 @@
     "streams": [
       {
         "url": "https://v-ny.mybtv.net/live/562.m3u8?NoxusPlus+.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://v-ny.theus6tv.duckdns.org/hls/11.1/playlist.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "my9 NY",
+    "tvg-id": "WWORDT1.us",
+    "logo": "http://techart8018.github.io/tv/logo/my9.png",
+    "country": "US",
+    "language": "eng",
+    "category": "General",
+    "streams": [
+      {
+        "url": "https://v-ny.mybtv.net/live/559.m3u8?NoxusPlus+.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://v-ny.theus6tv.duckdns.org/hls/9.1/playlist.m3u8",
         "status": "",
         "remark": "",
         "width": 0,
@@ -4577,7 +4635,7 @@
   {
     "name": "CBS 5 SF",
     "tvg-id": "KPIXDT1.us",
-    "logo": "http://techart8018.github.io/tv/logo/kpix.png",
+    "logo": "http://techart8018.github.io/tv/logo/cbs5.png",
     "country": "US",
     "language": "eng",
     "category": "General",
@@ -4593,7 +4651,7 @@
     ]
   },
   {
-    "name": "NBC 5 BayArea",
+    "name": "NBC BayArea",
     "tvg-id": "KNTVDT1.us",
     "logo": "http://techart8018.github.io/tv/logo/kntv.png",
     "country": "US",
@@ -5164,6 +5222,13 @@
     "streams": [
       {
         "url": "https://v-ny.mybtv.net/live/608.m3u8?NoxusPlus+.m3u8",
+        "status": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://v-ny.theus6tv.duckdns.org/hls/31.1/playlist.m3u8",
         "status": "",
         "width": 0,
         "height": 0,
