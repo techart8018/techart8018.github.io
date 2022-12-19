@@ -4665,6 +4665,78 @@
     ]
   },
   {
+    "name": "ABC 15 Arizona",
+    "tvg-id": "KNXVDT1.us",
+    "logo": "http://techart8018.github.io/tv/logo/knxv.png",
+    "country": "US",
+    "language": "eng",
+    "category": "General",
+    "streams": [
+      {
+        "url": "https://v-px.mybtv.net/live/27.m3u8?NoxusPlus+.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CBS 5 Phoenix",
+    "tvg-id": "KPHODT1.us",
+    "logo": "http://techart8018.github.io/tv/logo/cbs5.png",
+    "country": "US",
+    "language": "eng",
+    "category": "General",
+    "streams": [
+      {
+        "url": "https://v-px.mybtv.net/live/48.m3u8?NoxusPlus+.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "NBC Phoenix",
+    "tvg-id": "KPNXDT1.us",
+    "logo": "http://techart8018.github.io/tv/logo/kpnx.png",
+    "country": "US",
+    "language": "eng",
+    "category": "General",
+    "streams": [
+      {
+        "url": "https://v-px.mybtv.net/live/55.m3u8?NoxusPlus+.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "Fox 10 Phoenix",
+    "tvg-id": "KSAZDT1.us",
+    "logo": "http://techart8018.github.io/tv/logo/fox10.png",
+    "country": "US",
+    "language": "eng",
+    "category": "General",
+    "streams": [
+      {
+        "url": "https://v-px.mybtv.net/live/234.m3u8?NoxusPlus+.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
     "name": "Fox News Now",
     "tvg-id": "FoxNewsNow.us",
     "logo": "http://techart8018.github.io/tv/logo/fox_news_now.png",
