@@ -4503,6 +4503,168 @@
     ]
   },
   {
+    "name": "WPIX 11",
+    "tvg-id": "WPIXDT1.us",
+    "logo": "http://techart8018.github.io/tv/logo/wpix.png",
+    "country": "US",
+    "language": "eng",
+    "category": "General",
+    "streams": [
+      {
+        "url": "https://v-ny.mybtv.net/live/562.m3u8?NoxusPlus+.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "PBS NY",
+    "tvg-id": "WNETDT1.us",
+    "logo": "http://techart8018.github.io/tv/logo/pbs13.png",
+    "country": "US",
+    "language": "eng",
+    "category": "Education",
+    "streams": [
+      {
+        "url": "https://v-ny.mybtv.net/live/567.m3u8?NoxusPlus+.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "WLIW 21",
+    "tvg-id": "WLIWDT1.us",
+    "logo": "http://techart8018.github.io/tv/logo/wliw21.png",
+    "country": "US",
+    "language": "eng",
+    "category": "Education",
+    "streams": [
+      {
+        "url": "https://v-ny.mybtv.net/live/575.m3u8?NoxusPlus+.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "ABC 7 SF",
+    "tvg-id": "KGODT1.us",
+    "logo": "http://techart8018.github.io/tv/logo/abc7.png",
+    "country": "US",
+    "language": "eng",
+    "category": "General",
+    "streams": [
+      {
+        "url": "https://v-ca.mybtv.net/live/119.m3u8?NoxusPlus+.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CBS 5 SF",
+    "tvg-id": "KPIXDT1.us",
+    "logo": "http://techart8018.github.io/tv/logo/kpix.png",
+    "country": "US",
+    "language": "eng",
+    "category": "General",
+    "streams": [
+      {
+        "url": "https://v-ca.mybtv.net/live/162.m3u8?NoxusPlus+.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "NBC 5 BayArea",
+    "tvg-id": "KNTVDT1.us",
+    "logo": "http://techart8018.github.io/tv/logo/kntv.png",
+    "country": "US",
+    "language": "eng",
+    "category": "General",
+    "streams": [
+      {
+        "url": "https://v-ca.mybtv.net/live/121.m3u8?NoxusPlus+.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "Fox 2 SF",
+    "tvg-id": "KTVUDT1.us",
+    "logo": "http://techart8018.github.io/tv/logo/fox_2_sf.png",
+    "country": "US",
+    "language": "eng",
+    "category": "General",
+    "streams": [
+      {
+        "url": "https://v-ca.mybtv.net/live/170.m3u8?NoxusPlus+.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "NBC LA",
+    "tvg-id": "KNBCDT1.us",
+    "logo": "http://techart8018.github.io/tv/logo/knbc.png",
+    "country": "US",
+    "language": "eng",
+    "category": "General",
+    "streams": [
+      {
+        "url": "https://v-la.mybtv.net/live/82.m3u8?NoxusPlus+.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "KTLA5",
+    "tvg-id": "KTLADT1.us",
+    "logo": "http://techart8018.github.io/tv/logo/ktla.png",
+    "country": "US",
+    "language": "eng",
+    "category": "General",
+    "streams": [
+      {
+        "url": "https://v-la.mybtv.net/live/164.m3u8?NoxusPlus+.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
     "name": "Fox News Now",
     "tvg-id": "FoxNewsNow.us",
     "logo": "http://techart8018.github.io/tv/logo/fox_news_now.png",
@@ -4707,33 +4869,15 @@
     ]
   },
   {
-    "name": "Thirteen PBS",
-    "tvg-id": "WNETDT1.us",
-    "logo": "http://techart8018.github.io/tv/logo/pbs13.png",
-    "country": "US",
+    "name": "DW News",
+    "tvg-id": "",
+    "logo": "http://techart8018.github.io/tv/logo/dw.png",
+    "country": "DE",
     "language": "eng",
-    "category": "Education",
+    "category": "News",
     "streams": [
       {
-        "url": "http://v-ny.theus6tv.duckdns.org/hls/13.1/playlist.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "WLIW 21",
-    "tvg-id": "WLIWDT1.us",
-    "logo": "http://techart8018.github.io/tv/logo/wliw21.png",
-    "country": "US",
-    "language": "eng",
-    "category": "Education",
-    "streams": [
-      {
-        "url": "http://v-ny.theus6tv.duckdns.org/hls/21.1/playlist.m3u8",
+        "url": "https://v-ca.mybtv.net/live/189.m3u8?NoxusPlus+.m3u8",
         "status": "",
         "remark": "",
         "width": 0,
@@ -4935,6 +5079,23 @@
         "width": 1280,
         "height": 720,
         "bitrate": 2654208
+      }
+    ]
+  },
+  {
+    "name": "ION",
+    "tvg-id": "WPXNDT1.us",
+    "logo": "http://techart8018.github.io/tv/logo/ion.png",
+    "country": "US",
+    "language": "eng",
+    "category": "Movies",
+    "streams": [
+      {
+        "url": "https://v-ny.mybtv.net/live/608.m3u8?NoxusPlus+.m3u8",
+        "status": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
       }
     ]
   },
