@@ -4668,6 +4668,109 @@
     ]
   },
   {
+    "name": "ABC 7 LA",
+    "tvg-id": "KABCDT1.us",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/abc7.png",
+    "country": "US",
+    "language": "eng",
+    "category": "General",
+    "streams": [
+      {
+        "url": "https://v-la.mybtv.net/live/88.m3u8?NoxusPlus+.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CBS 2 LA",
+    "tvg-id": "KCBSDT1.us",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cbs2.png",
+    "country": "US",
+    "language": "eng",
+    "category": "General",
+    "streams": [
+      {
+        "url": "https://v-la.mybtv.net/live/161.m3u8?NoxusPlus+.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "NBC 4 LA",
+    "tvg-id": "KNBCDT1.us",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/knbc.png",
+    "country": "US",
+    "language": "eng",
+    "category": "General",
+    "streams": [
+      {
+        "url": "https://v-la.mybtv.net/live/82.m3u8?NoxusPlus+.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "KTLA 5",
+    "tvg-id": "KTLADT1.us",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/ktla.png",
+    "country": "US",
+    "language": "eng",
+    "category": "General",
+    "streams": [
+      {
+        "url": "https://v-la.mybtv.net/live/164.m3u8?NoxusPlus+.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "KCOP 13",
+    "tvg-id": "KCOPDT1.us",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/kcop.png",
+    "country": "US",
+    "language": "eng",
+    "category": "General",
+    "streams": [
+      {
+        "url": "https://v-la.mybtv.net/live/166.m3u8?NoxusPlus+.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "https://v-la.mybtv.net/live/270.m3u8?NoxusPlus+.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
     "name": "ABC 7 SF",
     "tvg-id": "KGODT1.us",
     "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
@@ -4735,101 +4838,6 @@
     "streams": [
       {
         "url": "https://v-ca.mybtv.net/live/170.m3u8?NoxusPlus+.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "ABC 7 LA",
-    "tvg-id": "KABCDT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
-    "logo": "http://techart8018.github.io/tv/logo/abc7.png",
-    "country": "US",
-    "language": "eng",
-    "category": "General",
-    "streams": [
-      {
-        "url": "https://v-la.mybtv.net/live/88.m3u8?NoxusPlus+.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "CBS 2 LA",
-    "tvg-id": "KCBSDT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
-    "logo": "http://techart8018.github.io/tv/logo/cbs2.png",
-    "country": "US",
-    "language": "eng",
-    "category": "General",
-    "streams": [
-      {
-        "url": "https://v-la.mybtv.net/live/161.m3u8?NoxusPlus+.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "NBC LA",
-    "tvg-id": "KNBCDT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
-    "logo": "http://techart8018.github.io/tv/logo/knbc.png",
-    "country": "US",
-    "language": "eng",
-    "category": "General",
-    "streams": [
-      {
-        "url": "https://v-la.mybtv.net/live/82.m3u8?NoxusPlus+.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "KTLA",
-    "tvg-id": "KTLADT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
-    "logo": "http://techart8018.github.io/tv/logo/ktla.png",
-    "country": "US",
-    "language": "eng",
-    "category": "General",
-    "streams": [
-      {
-        "url": "https://v-la.mybtv.net/live/164.m3u8?NoxusPlus+.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "My13 LA",
-    "tvg-id": "KCOPDT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
-    "logo": "http://techart8018.github.io/tv/logo/kcop.png",
-    "country": "US",
-    "language": "eng",
-    "category": "General",
-    "streams": [
-      {
-        "url": "https://v-la.mybtv.net/live/166.m3u8?NoxusPlus+.m3u8",
         "status": "",
         "remark": "",
         "width": 0,
@@ -5291,42 +5299,6 @@
         "width": 0,
         "height": 0,
         "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "BBC One",
-    "tvg-id": "BBCOneHD.uk",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/uk.xml.gz",
-    "logo": "http://techart8018.github.io/tv/logo/bbc_one.png",
-    "country": "UK",
-    "language": "eng",
-    "category": "General",
-    "streams": [
-      {
-        "url": "http://w4.12all.tv:4000/play/bbc1/index.m3u8",
-        "status": "online",
-        "width": 1280,
-        "height": 720,
-        "bitrate": 11210000
-      }
-    ]
-  },
-  {
-    "name": "BBC Two",
-    "tvg-id": "BBCTwoHD.uk",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/uk.xml.gz",
-    "logo": "http://techart8018.github.io/tv/logo/bbc_two.png",
-    "country": "UK",
-    "language": "eng",
-    "category": "General",
-    "streams": [
-      {
-        "url": "http://w4.12all.tv:4000/play/bbc2/index.m3u8",
-        "status": "online",
-        "width": 1280,
-        "height": 720,
-        "bitrate": 5655000
       }
     ]
   },
