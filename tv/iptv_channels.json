@@ -434,8 +434,8 @@
   },
   {
     "name": "CCTV-4",
-    "tvg-id": "CCTV4.cn",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "5",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/cctv4.png",
     "country": "CN",
     "language": "zho",
@@ -1469,8 +1469,8 @@
   },
   {
     "name": "CCTV-13",
-    "tvg-id": "CCTV13.cn",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "14",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/cctv13.png",
     "country": "CN",
     "language": "zho",
@@ -1710,8 +1710,8 @@
   },
   {
     "name": "凤凰卫视",
-    "tvg-id": "PhoenixChineseChannel.hk",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/hk.xml.gz",
+    "tvg-id": "141",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/phoenix.png",
     "country": "CN",
     "language": "zho",
@@ -2495,7 +2495,7 @@
   },
   {
     "name": "安徽卫视",
-    "tvg-id": "AnhuiSatelliteTV.cn",
+    "tvg-id": "AnhuiTV.cn",
     "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/anhui_tv.png",
     "country": "CN",
@@ -3222,7 +3222,7 @@
   },
   {
     "name": "河南卫视",
-    "tvg-id": "HenanTV.cn",
+    "tvg-id": "HenanTVSatellite.cn",
     "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/henan_tv.png",
     "country": "CN",
@@ -3535,7 +3535,7 @@
   },
   {
     "name": "四川卫视",
-    "tvg-id": "SichuanSatelliteTV.cn",
+    "tvg-id": "SichuanTV1.cn",
     "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/sichuan_tv.png",
     "country": "CN",
