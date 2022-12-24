@@ -434,7 +434,7 @@
   },
   {
     "name": "CCTV-4",
-    "tvg-id": "5",
+    "tvg-id": "4",
     "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/cctv4.png",
     "country": "CN",
@@ -4921,7 +4921,7 @@
   },
   {
     "name": "NBC News Now",
-    "tvg-id": "NBCNewsNow.us",
+    "tvg-id": "NBCNewsNOW.us",
     "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/nbc_news_now.png",
     "country": "US",
@@ -5069,8 +5069,8 @@
   },
   {
     "name": "DW News",
-    "tvg-id": "",
-    "tvg-url": "",
+    "tvg-id": "DWEnglish.de",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/dw.png",
     "country": "DE",
     "language": "eng",
