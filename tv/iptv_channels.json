@@ -5418,8 +5418,8 @@
     ]
   },
   {
-    "name": "MovieSphere",
-    "tvg-id": "MovieSphere.us",
+    "name": "MovieSphere UK",
+    "tvg-id": "MovieSphere.uk",
     "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/movie_sphere.png",
     "country": "US",
@@ -5439,7 +5439,18 @@
         "width": 1920,
         "height": 1080,
         "bitrate": 4681600
-      },
+      }
+    ]
+  },
+  {
+    "name": "MovieSphere",
+    "tvg-id": "MovieSphere.us",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/movie_sphere.png",
+    "country": "US",
+    "language": "eng",
+    "category": "Movies",
+    "streams": [
       {
         "url": "https://moviesphere-plex.amagi.tv/playlist.m3u8",
         "status": "online",
