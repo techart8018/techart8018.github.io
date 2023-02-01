@@ -5362,39 +5362,14 @@
   {
     "name": "Rakuten TV Action Movies UK",
     "tvg-id": "RakutenTVActionMoviesUK.uk",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/en/plex.tv.xml.gz",
+    "tvg-url": "",
     "logo": "http://techart8018.github.io/tv/logo/rakuten_tv.png",
     "country": "UK",
     "language": "eng",
     "category": "Movies",
     "streams": [
       {
-        "url": "https://moviesphereuk-rakuten.amagi.tv/playlist.m3u8",
-        "status": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "Pluto TV Spotlight",
-    "tvg-id": "PlutoTVSpotlight.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/en/i.mjh.nz.xml",
-    "logo": "http://techart8018.github.io/tv/logo/pluto_spotlight.png",
-    "country": "US",
-    "language": "eng",
-    "category": "Movies",
-    "streams": [
-      {
-        "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ba3fb9c4b078e0f37ad34e8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=51&terminate=false&userId=",
-        "status": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      },
-      {
-        "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+        "url": "https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8",
         "status": "",
         "width": 0,
         "height": 0,
@@ -5412,7 +5387,14 @@
     "category": "Movies",
     "streams": [
       {
-        "url": "https://moviesphereuk-rakuten.amagi.tv/playlist.m3u8",
+        "url": "https://spotlight-vizio.amagi.tv/playlist.m3u8",
+        "status": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "https://spotlight-redbox.amagi.tv/playlist.m3u8",
         "status": "",
         "width": 0,
         "height": 0,
