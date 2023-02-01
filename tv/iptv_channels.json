@@ -1,8 +1,8 @@
 [
   {
     "name": "CCTV-1",
-    "tvg-id": "CCTV1.cn",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "1",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/cctv1.png",
     "country": "CN",
     "language": "zho",
@@ -180,8 +180,8 @@
   },
   {
     "name": "CCTV-2",
-    "tvg-id": "CCTV2.cn",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "2",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/cctv2.png",
     "country": "CN",
     "language": "zho",
@@ -287,8 +287,8 @@
   },
   {
     "name": "CCTV-3",
-    "tvg-id": "CCTV3.cn",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "3",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/cctv3.png",
     "country": "CN",
     "language": "zho",
@@ -533,8 +533,8 @@
   },
   {
     "name": "CCTV-5",
-    "tvg-id": "CCTV5.cn",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "5",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/cctv5.png",
     "country": "CN",
     "language": "zho",
@@ -656,8 +656,8 @@
   },
   {
     "name": "CCTV-6",
-    "tvg-id": "CCTV6.cn",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "7",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/cctv6.png",
     "country": "CN",
     "language": "zho",
@@ -819,8 +819,8 @@
   },
   {
     "name": "CCTV-7",
-    "tvg-id": "CCTV7.cn",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "8",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/cctv7.png",
     "country": "CN",
     "language": "zho",
@@ -894,8 +894,8 @@
   },
   {
     "name": "CCTV-8",
-    "tvg-id": "CCTV8.cn",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "9",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/cctv8.png",
     "country": "CN",
     "language": "zho",
@@ -1057,8 +1057,8 @@
   },
   {
     "name": "CCTV-9",
-    "tvg-id": "CCTV9.cn",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "10",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/cctv9.png",
     "country": "CN",
     "language": "zho",
@@ -1164,8 +1164,8 @@
   },
   {
     "name": "CCTV-10",
-    "tvg-id": "CCTV10.cn",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "11",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/cctv10.png",
     "country": "CN",
     "language": "zho",
@@ -1287,8 +1287,8 @@
   },
   {
     "name": "CCTV-11",
-    "tvg-id": "CCTV11.cn",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "12",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/cctv11.png",
     "country": "CN",
     "language": "zho",
@@ -1362,8 +1362,8 @@
   },
   {
     "name": "CCTV-12",
-    "tvg-id": "CCTV12.cn",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "13",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/cctv12.png",
     "country": "CN",
     "language": "zho",
@@ -1648,8 +1648,8 @@
   },
   {
     "name": "CCTV-14",
-    "tvg-id": "CCTV14.cn",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "15",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/cctv14.png",
     "country": "CN",
     "language": "zho",
@@ -1675,8 +1675,8 @@
   },
   {
     "name": "CCTV-15",
-    "tvg-id": "CCTV15.cn",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "16",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/cctv15.png",
     "country": "CN",
     "language": "zho",
@@ -1736,8 +1736,8 @@
   },
   {
     "name": "江苏卫视",
-    "tvg-id": "JiangsuSatelliteTV.cn",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "29",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/jiangsu_tv.png",
     "country": "CN",
     "language": "zho",
@@ -1899,8 +1899,8 @@
   },
   {
     "name": "浙江卫视",
-    "tvg-id": "ZhejiangSatelliteTV.cn",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "28",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/zhejiang_tv.png",
     "country": "CN",
     "language": "zho",
@@ -2062,8 +2062,8 @@
   },
   {
     "name": "东方卫视",
-    "tvg-id": "DragonTV.cn",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "31",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/dongfang_tv.png",
     "country": "CN",
     "language": "zho",
@@ -2185,8 +2185,8 @@
   },
   {
     "name": "湖南卫视",
-    "tvg-id": "HunanTV.cn",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "27",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/hunan_tv.png",
     "country": "CN",
     "language": "zho",
@@ -2348,8 +2348,8 @@
   },
   {
     "name": "北京卫视",
-    "tvg-id": "BeijingSatelliteTV.cn",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "30",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/beijing_tv.png",
     "country": "CN",
     "language": "zho",
@@ -2495,8 +2495,8 @@
   },
   {
     "name": "安徽卫视",
-    "tvg-id": "AnhuiTV.cn",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "32",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/anhui_tv.png",
     "country": "CN",
     "language": "zho",
@@ -2626,8 +2626,8 @@
   },
   {
     "name": "广东卫视",
-    "tvg-id": "GuangdongSatelliteTV.cn",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "33",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/guangdong_tv.png",
     "country": "CN",
     "language": "zho",
@@ -2789,8 +2789,8 @@
   },
   {
     "name": "深圳卫视",
-    "tvg-id": "ShenzhenSatelliteTV.cn",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "34",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/shenzhen_tv.png",
     "country": "CN",
     "language": "zho",
@@ -2912,8 +2912,8 @@
   },
   {
     "name": "天津卫视",
-    "tvg-id": "TianjinTV.cn",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "39",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/tianjin_tv.png",
     "country": "CN",
     "language": "zho",
@@ -3067,8 +3067,8 @@
   },
   {
     "name": "山东卫视",
-    "tvg-id": "ShandongTV.cn",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "38",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/shandong_tv.png",
     "country": "CN",
     "language": "zho",
@@ -3222,8 +3222,8 @@
   },
   {
     "name": "河南卫视",
-    "tvg-id": "HenanTVSatellite.cn",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "47",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/henan_tv.png",
     "country": "CN",
     "language": "zho",
@@ -3305,8 +3305,8 @@
   },
   {
     "name": "湖北卫视",
-    "tvg-id": "HubeiSatelliteTV.cn",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "48",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/hubei_tv.png",
     "country": "CN",
     "language": "zho",
@@ -3452,8 +3452,8 @@
   },
   {
     "name": "重庆卫视",
-    "tvg-id": "ChongqingTV.cn",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "40",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/chongqing_tv.png",
     "country": "CN",
     "language": "zho",
@@ -3535,8 +3535,8 @@
   },
   {
     "name": "四川卫视",
-    "tvg-id": "SichuanTV1.cn",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "56",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/sichuan_tv.png",
     "country": "CN",
     "language": "zho",
@@ -3618,8 +3618,8 @@
   },
   {
     "name": "贵州卫视",
-    "tvg-id": "GuizhouTV.cn",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "44",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/guizhou_tv.png",
     "country": "CN",
     "language": "zho",
@@ -3677,8 +3677,8 @@
   },
   {
     "name": "江西卫视",
-    "tvg-id": "JiangxiTV.cn",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "50",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/jiangxi_tv.png",
     "country": "CN",
     "language": "zho",
@@ -3760,8 +3760,8 @@
   },
   {
     "name": "广西卫视",
-    "tvg-id": "GuangxiTV.cn",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "43",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/guangxi_tv.png",
     "country": "CN",
     "language": "zho",
@@ -3851,8 +3851,8 @@
   },
   {
     "name": "辽宁卫视",
-    "tvg-id": "LiaoningTV.cn",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "36",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/liaoning_tv.png",
     "country": "CN",
     "language": "zho",
@@ -3974,8 +3974,8 @@
   },
   {
     "name": "吉林卫视",
-    "tvg-id": "JilinTVStation.cn",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "51",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/jilin_tv.png",
     "country": "CN",
     "language": "zho",
@@ -4065,8 +4065,8 @@
   },
   {
     "name": "黑龙江卫视",
-    "tvg-id": "HeilongjiangTV.cn",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "46",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/heilongjiang_tv.png",
     "country": "CN",
     "language": "zho",
@@ -4148,8 +4148,8 @@
   },
   {
     "name": "东南卫视",
-    "tvg-id": "FujianSouthEastTV.cn",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "41",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/dongnan_tv.png",
     "country": "CN",
     "language": "zho",
@@ -4231,8 +4231,8 @@
   },
   {
     "name": "厦门卫视",
-    "tvg-id": "XiamenStarTVChina.cn",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "68",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/xiamen_tv.png",
     "country": "CN",
     "language": "zho",
@@ -4298,8 +4298,8 @@
   },
   {
     "name": "海南卫视",
-    "tvg-id": "HainanSatelliteTV.cn",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "37",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/hainan_tv.png",
     "country": "CN",
     "language": "zho",
@@ -4317,8 +4317,8 @@
   },
   {
     "name": "陕西卫视",
-    "tvg-id": "ShaanxiSatelliteTV.cn",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "55",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/shaanxi_tv.png",
     "country": "CN",
     "language": "zho",
@@ -4344,8 +4344,8 @@
   },
   {
     "name": "云南卫视",
-    "tvg-id": "YunnanTV1.cn",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "58",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/yunnan_tv.png",
     "country": "CN",
     "language": "zho",
@@ -4379,8 +4379,8 @@
   },
   {
     "name": "河北卫视",
-    "tvg-id": "HebeiTV.cn",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "45",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/hebei_tv.png",
     "country": "CN",
     "language": "zho",
@@ -4424,28 +4424,9 @@
     ]
   },
   {
-    "name": "黑莓电影",
-    "tvg-id": "",
-    "tvg-url": "",
-    "logo": "http://techart8018.github.io/tv/logo/heimei.png",
-    "country": "CN",
-    "language": "zho",
-    "category": "Movies",
-    "streams": [
-      {
-        "url": "http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
     "name": "CGTN",
-    "tvg-id": "CGTN.cn",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "20",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/cgtn.png",
     "country": "CN",
     "language": "eng",
@@ -4470,7 +4451,7 @@
   {
     "name": "ABC 7 New York",
     "tvg-id": "WABCDT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/abc7.png",
     "country": "US",
     "language": "eng",
@@ -4489,7 +4470,7 @@
   {
     "name": "CBS 2 New York",
     "tvg-id": "WCBSDT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/cbs2.png",
     "country": "US",
     "language": "eng",
@@ -4516,7 +4497,7 @@
   {
     "name": "NBC 4 New York",
     "tvg-id": "WNBCDT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/wnbc.png",
     "country": "US",
     "language": "eng",
@@ -4543,7 +4524,7 @@
   {
     "name": "Fox 5 New York",
     "tvg-id": "WNYWDT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/fox5.png",
     "country": "US",
     "language": "eng",
@@ -4578,7 +4559,7 @@
   {
     "name": "WPIX 11",
     "tvg-id": "WPIXDT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/wpix.png",
     "country": "US",
     "language": "eng",
@@ -4605,7 +4586,7 @@
   {
     "name": "My9 NJ",
     "tvg-id": "WWORDT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/my9.png",
     "country": "US",
     "language": "eng",
@@ -4630,47 +4611,9 @@
     ]
   },
   {
-    "name": "PBS NY",
-    "tvg-id": "WNETDT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
-    "logo": "http://techart8018.github.io/tv/logo/pbs13.png",
-    "country": "US",
-    "language": "eng",
-    "category": "Education",
-    "streams": [
-      {
-        "url": "https://v-ny.mybtv.net/live/567.m3u8?NoxusPlus+.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "WLIW 21",
-    "tvg-id": "WLIWDT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
-    "logo": "http://techart8018.github.io/tv/logo/wliw21.png",
-    "country": "US",
-    "language": "eng",
-    "category": "Education",
-    "streams": [
-      {
-        "url": "https://v-ny.mybtv.net/live/575.m3u8?NoxusPlus+.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
     "name": "ABC 7 LA",
     "tvg-id": "KABCDT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/abc7.png",
     "country": "US",
     "language": "eng",
@@ -4689,7 +4632,7 @@
   {
     "name": "CBS 2 LA",
     "tvg-id": "KCBSDT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/cbs2.png",
     "country": "US",
     "language": "eng",
@@ -4708,7 +4651,7 @@
   {
     "name": "NBC 4 LA",
     "tvg-id": "KNBCDT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/knbc.png",
     "country": "US",
     "language": "eng",
@@ -4727,7 +4670,7 @@
   {
     "name": "KTLA 5",
     "tvg-id": "KTLADT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/ktla.png",
     "country": "US",
     "language": "eng",
@@ -4746,7 +4689,7 @@
   {
     "name": "KCOP 13",
     "tvg-id": "KCOPDT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/kcop.png",
     "country": "US",
     "language": "eng",
@@ -4773,7 +4716,7 @@
   {
     "name": "ABC 7 SF",
     "tvg-id": "KGODT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/abc7.png",
     "country": "US",
     "language": "eng",
@@ -4792,7 +4735,7 @@
   {
     "name": "CBS 5 SF",
     "tvg-id": "KPIXDT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/cbs5.png",
     "country": "US",
     "language": "eng",
@@ -4811,7 +4754,7 @@
   {
     "name": "NBC BayArea",
     "tvg-id": "KNTVDT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/kntv.png",
     "country": "US",
     "language": "eng",
@@ -4830,7 +4773,7 @@
   {
     "name": "Fox 2 SF",
     "tvg-id": "KTVUDT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/fox_2_sf.png",
     "country": "US",
     "language": "eng",
@@ -4849,7 +4792,7 @@
   {
     "name": "ABC 15 Arizona",
     "tvg-id": "KNXVDT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/knxv.png",
     "country": "US",
     "language": "eng",
@@ -4868,7 +4811,7 @@
   {
     "name": "CBS 5 Phoenix",
     "tvg-id": "KPHODT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/cbs5.png",
     "country": "US",
     "language": "eng",
@@ -4887,7 +4830,7 @@
   {
     "name": "NBC Phoenix",
     "tvg-id": "KPNXDT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/kpnx.png",
     "country": "US",
     "language": "eng",
@@ -4906,7 +4849,7 @@
   {
     "name": "Fox 10 Phoenix",
     "tvg-id": "KSAZDT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/fox10.png",
     "country": "US",
     "language": "eng",
@@ -4924,8 +4867,8 @@
   },
   {
     "name": "Fox News Now",
-    "tvg-id": "FoxNewsNow.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
+    "tvg-id": "LiveNOWfromFOX.us",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/xumo.tv.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/fox_news_now.png",
     "country": "US",
     "language": "eng",
@@ -4952,7 +4895,7 @@
   {
     "name": "CBSN",
     "tvg-id": "CBSNews.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/xumo.tv.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/cbsn.png",
     "country": "US",
     "language": "eng",
@@ -4987,7 +4930,7 @@
   {
     "name": "NBC News Now",
     "tvg-id": "NBCNewsNOW.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/xumo.tv.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/nbc_news_now.png",
     "country": "US",
     "language": "eng",
@@ -5022,7 +4965,7 @@
   {
     "name": "Newsmax",
     "tvg-id": "NewsmaxTV.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/newsmax.png",
     "country": "US",
     "language": "eng",
@@ -5041,7 +4984,7 @@
   {
     "name": "CNN",
     "tvg-id": "CNN.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/cnn.png",
     "country": "US",
     "language": "eng",
@@ -5116,7 +5059,7 @@
   {
     "name": "PBS World",
     "tvg-id": "WorldChannel.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
+    "tvg-url": "",
     "logo": "http://techart8018.github.io/tv/logo/pbs_world.png",
     "country": "US",
     "language": "eng",
@@ -5133,27 +5076,8 @@
     ]
   },
   {
-    "name": "DW News",
-    "tvg-id": "DWEnglish.de",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
-    "logo": "http://techart8018.github.io/tv/logo/dw.png",
-    "country": "DE",
-    "language": "eng",
-    "category": "News",
-    "streams": [
-      {
-        "url": "https://v-ca.mybtv.net/live/189.m3u8?NoxusPlus+.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
     "name": "Global News",
-    "tvg-id": "",
+    "tvg-id": "GlobalNews.ca",
     "tvg-url": "",
     "logo": "http://techart8018.github.io/tv/logo/global_news.png",
     "country": "CA",
@@ -5173,7 +5097,7 @@
   {
     "name": "CBC News",
     "tvg-id": "CBCNewsHighlights.ca",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/ca.xml.gz",
+    "tvg-url": "",
     "logo": "http://techart8018.github.io/tv/logo/cbc_news_network.png",
     "country": "CA",
     "language": "eng",
@@ -5190,8 +5114,8 @@
   },
   {
     "name": "CNA International",
-    "tvg-id": "CNAInternational.sg",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-id": "6139",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/cna.png",
     "country": "SG",
     "language": "eng",
@@ -5209,7 +5133,7 @@
   {
     "name": "ABC TV AU",
     "tvg-id": "ABCTV.au",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/au.xml.gz",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/ontvtonight.com.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/abc_au.png",
     "country": "AU",
     "language": "eng",
@@ -5261,8 +5185,8 @@
   },
   {
     "name": "ABC News AU",
-    "tvg-id": "",
-    "tvg-url": "",
+    "tvg-id": "ABCNewsAustralia.au",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/ontvtonight.com.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/abc_news_au.png",
     "country": "AU",
     "language": "eng",
@@ -5287,7 +5211,7 @@
   {
     "name": "Sky News",
     "tvg-id": "SkyNewsInternational.uk",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/cn.xml.gz",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/epg.i-cable.com.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/sky_news.png",
     "country": "UK",
     "language": "eng",
@@ -5305,7 +5229,7 @@
   {
     "name": "BBC America",
     "tvg-id": "BBCAmericaEast.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/bbc_america.png",
     "country": "US",
     "language": "eng",
@@ -5323,7 +5247,7 @@
   {
     "name": "ION",
     "tvg-id": "WPXNDT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/ion.png",
     "country": "US",
     "language": "eng",
@@ -5348,7 +5272,7 @@
   {
     "name": "Sundance TV",
     "tvg-id": "SundanceTVEast.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/sundance_tv.png",
     "country": "US",
     "language": "eng",
@@ -5366,7 +5290,7 @@
   {
     "name": "AMC",
     "tvg-id": "AMCEast.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/amc.png",
     "country": "US",
     "language": "eng",
@@ -5384,7 +5308,7 @@
   {
     "name": "IFC",
     "tvg-id": "IFCEast.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/ifc.png",
     "country": "US",
     "language": "eng",
@@ -5402,7 +5326,7 @@
   {
     "name": "CineLife",
     "tvg-id": "CineLife.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/xumo.tv.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/cine_life.png",
     "country": "US",
     "language": "eng",
@@ -5418,9 +5342,88 @@
     ]
   },
   {
+    "name": "Rakuten TV Comedy Movies UK",
+    "tvg-id": "RakutenTVComedyMoviesUK.uk",
+    "tvg-url": "",
+    "logo": "http://techart8018.github.io/tv/logo/rakuten_tv.png",
+    "country": "UK",
+    "language": "eng",
+    "category": "Movies",
+    "streams": [
+      {
+        "url": "https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "status": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "Rakuten TV Action Movies UK",
+    "tvg-id": "RakutenTVActionMoviesUK.uk",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/plex.tv.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/rakuten_tv.png",
+    "country": "UK",
+    "language": "eng",
+    "category": "Movies",
+    "streams": [
+      {
+        "url": "https://moviesphereuk-rakuten.amagi.tv/playlist.m3u8",
+        "status": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "Pluto TV Spotlight",
+    "tvg-id": "PlutoTVSpotlight.us",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/i.mjh.nz.xml",
+    "logo": "http://techart8018.github.io/tv/logo/pluto_spotlight.png",
+    "country": "US",
+    "language": "eng",
+    "category": "Movies",
+    "streams": [
+      {
+        "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ba3fb9c4b078e0f37ad34e8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=51&terminate=false&userId=",
+        "status": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+        "status": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "Redbox Spotlight",
+    "tvg-id": "RedboxSpotlight.us",
+    "tvg-url": "",
+    "logo": "http://techart8018.github.io/tv/logo/redbox.png",
+    "country": "US",
+    "language": "eng",
+    "category": "Movies",
+    "streams": [
+      {
+        "url": "https://moviesphereuk-rakuten.amagi.tv/playlist.m3u8",
+        "status": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
     "name": "MovieSphere UK",
     "tvg-id": "MovieSphere.uk",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/plex.tv.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/movie_sphere.png",
     "country": "US",
     "language": "eng",
@@ -5445,7 +5448,7 @@
   {
     "name": "MovieSphere",
     "tvg-id": "MovieSphere.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/us.xml.gz",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/plex.tv.xml.gz",
     "logo": "http://techart8018.github.io/tv/logo/movie_sphere.png",
     "country": "US",
     "language": "eng",
