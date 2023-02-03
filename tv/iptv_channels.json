@@ -5057,25 +5057,6 @@
     ]
   },
   {
-    "name": "PBS World",
-    "tvg-id": "WorldChannel.us",
-    "tvg-url": "",
-    "logo": "http://techart8018.github.io/tv/logo/pbs_world.png",
-    "country": "US",
-    "language": "eng",
-    "category": "Education",
-    "streams": [
-      {
-        "url": "https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
     "name": "Global News",
     "tvg-id": "GlobalNews.ca",
     "tvg-url": "",
@@ -5342,10 +5323,10 @@
     ]
   },
   {
-    "name": "Rakuten TV Comedy Movies UK",
+    "name": "Rakuten Comedy Movies",
     "tvg-id": "RakutenTVComedyMoviesUK.uk",
     "tvg-url": "",
-    "logo": "http://techart8018.github.io/tv/logo/rakuten_tv.png",
+    "logo": "http://techart8018.github.io/tv/logo/rakuten_comedy.png",
     "country": "UK",
     "language": "eng",
     "category": "Movies",
@@ -5360,10 +5341,10 @@
     ]
   },
   {
-    "name": "Rakuten TV Action Movies UK",
+    "name": "Rakuten Action Movies",
     "tvg-id": "RakutenTVActionMoviesUK.uk",
     "tvg-url": "",
-    "logo": "http://techart8018.github.io/tv/logo/rakuten_tv.png",
+    "logo": "http://techart8018.github.io/tv/logo/rakuten_action.png",
     "country": "UK",
     "language": "eng",
     "category": "Movies",
@@ -5406,7 +5387,7 @@
     "name": "MovieSphere UK",
     "tvg-id": "MovieSphere.uk",
     "tvg-url": "https://iptv-org.github.io/epg/guides/en/plex.tv.xml.gz",
-    "logo": "http://techart8018.github.io/tv/logo/movie_sphere.png",
+    "logo": "http://techart8018.github.io/tv/logo/movie_sphere_uk.png",
     "country": "US",
     "language": "eng",
     "category": "Movies",
