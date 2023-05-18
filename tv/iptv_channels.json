@@ -4449,433 +4449,16 @@
     ]
   },
   {
-    "name": "ABC 7 New York",
-    "tvg-id": "WABCDT1.us",
+    "name": "CNN",
+    "tvg-id": "CNN.us",
     "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
-    "logo": "http://techart8018.github.io/tv/logo/abc7.png",
-    "country": "US",
-    "language": "eng",
-    "category": "General",
-    "streams": [
-      {
-        "url": "https://v-ny.mybtv.net/live/554.m3u8?NoxusPlus+.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "CBS 2 New York",
-    "tvg-id": "WCBSDT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
-    "logo": "http://techart8018.github.io/tv/logo/cbs2.png",
-    "country": "US",
-    "language": "eng",
-    "category": "General",
-    "streams": [
-      {
-        "url": "https://v-ny.mybtv.net/live/545.m3u8?NoxusPlus+.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      },
-      {
-        "url": "http://v-ny.theus6tv.duckdns.org/hls/2.1/playlist.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "NBC 4 New York",
-    "tvg-id": "WNBCDT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
-    "logo": "http://techart8018.github.io/tv/logo/wnbc.png",
-    "country": "US",
-    "language": "eng",
-    "category": "General",
-    "streams": [
-      {
-        "url": "https://v-ny.mybtv.net/live/548.m3u8?NoxusPlus+.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      },
-      {
-        "url": "http://v-ny.theus6tv.duckdns.org/hls/4.1/playlist.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "Fox 5 New York",
-    "tvg-id": "WNYWDT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
-    "logo": "http://techart8018.github.io/tv/logo/fox5.png",
-    "country": "US",
-    "language": "eng",
-    "category": "General",
-    "streams": [
-      {
-        "url": "https://v-ny.mybtv.net/live/550.m3u8?NoxusPlus+.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      },
-      {
-        "url": "http://v-ny.theus6tv.duckdns.org/hls/5.1/playlist.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      },
-      {
-        "url": "https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WNYW-Monetizer.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "WPIX 11",
-    "tvg-id": "WPIXDT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
-    "logo": "http://techart8018.github.io/tv/logo/wpix.png",
-    "country": "US",
-    "language": "eng",
-    "category": "General",
-    "streams": [
-      {
-        "url": "https://v-ny.mybtv.net/live/562.m3u8?NoxusPlus+.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      },
-      {
-        "url": "http://v-ny.theus6tv.duckdns.org/hls/11.1/playlist.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "My9 NJ",
-    "tvg-id": "WWORDT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
-    "logo": "http://techart8018.github.io/tv/logo/my9.png",
-    "country": "US",
-    "language": "eng",
-    "category": "General",
-    "streams": [
-      {
-        "url": "https://v-ny.mybtv.net/live/559.m3u8?NoxusPlus+.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      },
-      {
-        "url": "http://v-ny.theus6tv.duckdns.org/hls/9.1/playlist.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "ABC 7 LA",
-    "tvg-id": "KABCDT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
-    "logo": "http://techart8018.github.io/tv/logo/abc7.png",
-    "country": "US",
-    "language": "eng",
-    "category": "General",
-    "streams": [
-      {
-        "url": "https://v-la.mybtv.net/live/88.m3u8?NoxusPlus+.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "CBS 2 LA",
-    "tvg-id": "KCBSDT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
-    "logo": "http://techart8018.github.io/tv/logo/cbs2.png",
-    "country": "US",
-    "language": "eng",
-    "category": "General",
-    "streams": [
-      {
-        "url": "https://v-la.mybtv.net/live/161.m3u8?NoxusPlus+.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "NBC 4 LA",
-    "tvg-id": "KNBCDT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
-    "logo": "http://techart8018.github.io/tv/logo/knbc.png",
-    "country": "US",
-    "language": "eng",
-    "category": "General",
-    "streams": [
-      {
-        "url": "https://v-la.mybtv.net/live/82.m3u8?NoxusPlus+.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "KTLA 5",
-    "tvg-id": "KTLADT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
-    "logo": "http://techart8018.github.io/tv/logo/ktla.png",
-    "country": "US",
-    "language": "eng",
-    "category": "General",
-    "streams": [
-      {
-        "url": "https://v-la.mybtv.net/live/164.m3u8?NoxusPlus+.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "KCOP 13",
-    "tvg-id": "KCOPDT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
-    "logo": "http://techart8018.github.io/tv/logo/kcop.png",
-    "country": "US",
-    "language": "eng",
-    "category": "General",
-    "streams": [
-      {
-        "url": "https://v-la.mybtv.net/live/166.m3u8?NoxusPlus+.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      },
-      {
-        "url": "https://v-la.mybtv.net/live/270.m3u8?NoxusPlus+.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "ABC 7 SF",
-    "tvg-id": "KGODT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
-    "logo": "http://techart8018.github.io/tv/logo/abc7.png",
-    "country": "US",
-    "language": "eng",
-    "category": "General",
-    "streams": [
-      {
-        "url": "https://v-ca.mybtv.net/live/119.m3u8?NoxusPlus+.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "CBS 5 SF",
-    "tvg-id": "KPIXDT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
-    "logo": "http://techart8018.github.io/tv/logo/cbs5.png",
-    "country": "US",
-    "language": "eng",
-    "category": "General",
-    "streams": [
-      {
-        "url": "https://v-ca.mybtv.net/live/162.m3u8?NoxusPlus+.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "NBC BayArea",
-    "tvg-id": "KNTVDT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
-    "logo": "http://techart8018.github.io/tv/logo/kntv.png",
-    "country": "US",
-    "language": "eng",
-    "category": "General",
-    "streams": [
-      {
-        "url": "https://v-ca.mybtv.net/live/121.m3u8?NoxusPlus+.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "Fox 2 SF",
-    "tvg-id": "KTVUDT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
-    "logo": "http://techart8018.github.io/tv/logo/fox_2_sf.png",
-    "country": "US",
-    "language": "eng",
-    "category": "General",
-    "streams": [
-      {
-        "url": "https://v-ca.mybtv.net/live/170.m3u8?NoxusPlus+.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "ABC 15 Arizona",
-    "tvg-id": "KNXVDT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
-    "logo": "http://techart8018.github.io/tv/logo/knxv.png",
-    "country": "US",
-    "language": "eng",
-    "category": "General",
-    "streams": [
-      {
-        "url": "https://v-px.mybtv.net/live/27.m3u8?NoxusPlus+.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "CBS 5 Phoenix",
-    "tvg-id": "KPHODT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
-    "logo": "http://techart8018.github.io/tv/logo/cbs5.png",
-    "country": "US",
-    "language": "eng",
-    "category": "General",
-    "streams": [
-      {
-        "url": "https://v-px.mybtv.net/live/48.m3u8?NoxusPlus+.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "NBC Phoenix",
-    "tvg-id": "KPNXDT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
-    "logo": "http://techart8018.github.io/tv/logo/kpnx.png",
-    "country": "US",
-    "language": "eng",
-    "category": "General",
-    "streams": [
-      {
-        "url": "https://v-px.mybtv.net/live/55.m3u8?NoxusPlus+.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "Fox 10 Phoenix",
-    "tvg-id": "KSAZDT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
-    "logo": "http://techart8018.github.io/tv/logo/fox10.png",
-    "country": "US",
-    "language": "eng",
-    "category": "General",
-    "streams": [
-      {
-        "url": "https://v-px.mybtv.net/live/234.m3u8?NoxusPlus+.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "Fox News Now",
-    "tvg-id": "LiveNOWfromFOX.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/en/xumo.tv.xml.gz",
-    "logo": "http://techart8018.github.io/tv/logo/fox_news_now.png",
+    "logo": "http://techart8018.github.io/tv/logo/cnn.png",
     "country": "US",
     "language": "eng",
     "category": "News",
     "streams": [
       {
-        "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
+        "url": "https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8",
         "status": "",
         "remark": "",
         "width": 0,
@@ -4883,7 +4466,71 @@
         "bitrate": 0
       },
       {
-        "url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
+        "url": "https://d30x5vsa85tvmd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7y561g9sa9uht/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5421f71da6af422839419cb3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=209&terminate=false&userId=",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://38.127.211.18/live/c2eds/CNN/HLS/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "https://16live00.akamaized.net/CNN/index.m3u8",
         "status": "",
         "remark": "",
         "width": 0,
@@ -4963,6 +4610,33 @@
     ]
   },
   {
+    "name": "Fox News Now",
+    "tvg-id": "LiveNOWfromFOX.us",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/xumo.tv.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/fox_news_now.png",
+    "country": "US",
+    "language": "eng",
+    "category": "News",
+    "streams": [
+      {
+        "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
     "name": "Newsmax",
     "tvg-id": "NewsmaxTV.us",
     "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
@@ -4973,81 +4647,6 @@
     "streams": [
       {
         "url": "https://nmxairy.akamaized.net/hls/live/529965/Live_1/index.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "CNN",
-    "tvg-id": "CNN.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
-    "logo": "http://techart8018.github.io/tv/logo/cnn.png",
-    "country": "US",
-    "language": "eng",
-    "category": "News",
-    "streams": [
-      {
-        "url": "https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      },
-      {
-        "url": "https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      },
-      {
-        "url": "https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      },
-      {
-        "url": "https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      },
-      {
-        "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5421f71da6af422839419cb3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=209&terminate=false&userId=",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      },
-      {
-        "url": "http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      },
-      {
-        "url": "http://38.127.211.18/live/c2eds/CNN/HLS/index.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      },
-      {
-        "url": "https://16live00.akamaized.net/CNN/index.m3u8",
         "status": "",
         "remark": "",
         "width": 0,
@@ -5222,31 +4821,6 @@
         "width": 1280,
         "height": 720,
         "bitrate": 2654208
-      }
-    ]
-  },
-  {
-    "name": "ION",
-    "tvg-id": "WPXNDT1.us",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
-    "logo": "http://techart8018.github.io/tv/logo/ion.png",
-    "country": "US",
-    "language": "eng",
-    "category": "Movies",
-    "streams": [
-      {
-        "url": "https://v-ny.mybtv.net/live/608.m3u8?NoxusPlus+.m3u8",
-        "status": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      },
-      {
-        "url": "http://v-ny.theus6tv.duckdns.org/hls/31.1/playlist.m3u8",
-        "status": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
       }
     ]
   },
