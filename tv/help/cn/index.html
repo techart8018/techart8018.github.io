@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Live TV by TechArt - Import channels</title>
+<style>
+div {
+  border: 0px;
+  padding-right: 30px;
+  padding-left: 30px;
+};
+table,th, td {border:0px;};
+</style>
+</head>
+<body>
+
+<script>
+  function copyText(id, btnId) {
+    var copyText = document.getElementById(id);
+    var btn = document.getElementById(btnId);
+    copyText.select();
+    copyText.setSelectionRange(0, 99999);
+    navigator.clipboard.writeText(copyText.value);
+    btn.innerHTML = '已复制'
+    
+    setTimeout(recoverBtnText, 2000, btnId)
+  }
+  
+  function recoverBtnText(btnId) {
+    var btn = document.getElementById(btnId);
+    btn.innerHTML = '复制链接'
+  }
+</script>
+
+<div>
+  <center><h1 style="font-family:verdana;font-size:40px;color:grey">通过M3U链接导入频道列表</h1></center>
+  <br/>
+
+  <p style="font-family:verdana;font-size:30px;color:grey">1. 复制一个频道列表链接</p>
+  <p style="font-family:verdana;font-size:30px;color:grey">2. 在设置界面点击“导入频道列表”</p>
+  <p style="font-family:verdana;font-size:30px;color:grey">3. 在输入框内粘贴，点击“导入”</p>
+  <br/>
+  <p style="font-family:verdana;font-size:20px;color:grey">注意: 本软件不提供电视频道视频源，请联系当地网络电视提供商获取。下面的链接仅供测试使用，测试完毕后请立即删除。</p>
+  <br/>
+  <br/>
+
+  <input type="url" id="url1" value="https://techart8018.github.io/tv/channels.m3u" style="width:600px;font-size:30px;color:grey;margin-right:30px;margin-top:25px"><button id="btn1" onclick="copyText('url1', 'btn1')" style="font-size:30px;color:grey;">复制链接</button>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+
+  <center>
+    <p>
+      <a href="https://techart8018.github.io" style="font-family:verdana;font-size:50px;text-decoration:none;"><img src="https://techart8018.github.io/images/home.png" alt="Home Page" height="50"  style="margin-right:20px"/>Home</a>
+    </p>
+  </center>
+
+  <br/>
+  <br/>
+
+</div>
+</body>
+</html>
