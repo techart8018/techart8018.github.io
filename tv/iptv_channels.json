@@ -1829,6 +1829,44 @@
     ]
   },
   {
+    "name": "CCTV-16",
+    "tvg-id": "7249",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cctv16.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "Music",
+    "streams": [
+      {
+        "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CCTV-17",
+    "tvg-id": "17",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cctv17.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "Music",
+    "streams": [
+      {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
     "name": "凤凰卫视",
     "tvg-id": "141",
     "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
