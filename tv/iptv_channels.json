@@ -4850,6 +4850,13 @@
     "category": "General",
     "streams": [
       {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8",
+        "status": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
         "url": "http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8",
         "status": "",
         "width": 0,

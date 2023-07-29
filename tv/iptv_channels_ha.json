@@ -1,0 +1,1606 @@
+[
+  {
+    "name": "CCTV-1",
+    "tvg-id": "1",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cctv1.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227163/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CCTV-2",
+    "tvg-id": "2",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cctv2.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "Business",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227165/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226306/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CCTV-3",
+    "tvg-id": "3",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cctv3.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "Music",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226308/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226461/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CCTV-4",
+    "tvg-id": "4",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cctv4.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "News",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227167/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226303/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CCTV-5",
+    "tvg-id": "5",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cctv5.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "Sports",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226305/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226487/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CCTV-6",
+    "tvg-id": "7",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cctv6.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "Movies",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226485/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226637/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CCTV-7",
+    "tvg-id": "8",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cctv7.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "News",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227180/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226486/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CCTV-8",
+    "tvg-id": "9",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cctv8.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "Series",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226484/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226687/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CCTV-9",
+    "tvg-id": "10",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cctv9.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "Documentary",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227182/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226482/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CCTV-10",
+    "tvg-id": "11",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cctv10.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "Science",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227169/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226483/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CCTV-11",
+    "tvg-id": "12",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cctv11.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "Culture",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226481/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CCTV-12",
+    "tvg-id": "13",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cctv12.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "Legislative",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227184/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226560/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CCTV-13",
+    "tvg-id": "14",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cctv13.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "News",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227186/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CCTV-14",
+    "tvg-id": "15",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cctv14.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "Kids",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226572/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227173/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CCTV-15",
+    "tvg-id": "16",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cctv15.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "Music",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226478/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226590/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CCTV-16",
+    "tvg-id": "7249",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cctv16.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "Sports",
+    "streams": [
+      {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CCTV-17",
+    "tvg-id": "17",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cctv17.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "Music",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226630/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CCTV-5+",
+    "tvg-id": "6",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cctv5p.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "Sports",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226609/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "凤凰卫视",
+    "tvg-id": "141",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/phoenix.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "News",
+    "streams": [
+      {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "河南卫视",
+    "tvg-id": "47",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/henan_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226639/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225767/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "湖南卫视",
+    "tvg-id": "27",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/hunan_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227205/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226431/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "东方卫视",
+    "tvg-id": "31",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/dongfang_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227199/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "江苏卫视",
+    "tvg-id": "29",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/jiangsu_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227228/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "浙江卫视",
+    "tvg-id": "28",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/zhejiang_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227202/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226448/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "北京卫视",
+    "tvg-id": "30",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/beijing_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227232/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226452/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "安徽卫视",
+    "tvg-id": "32",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/anhui_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227230/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226455/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "广东卫视",
+    "tvg-id": "33",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/guangdong_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226525/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "深圳卫视",
+    "tvg-id": "34",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/shenzhen_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227203/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226426/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225752/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "天津卫视",
+    "tvg-id": "39",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/tianjin_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227209/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226422/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225765/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "山东卫视",
+    "tvg-id": "38",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/shandong_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227234/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "湖北卫视",
+    "tvg-id": "48",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/hubei_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226424/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227238/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226206/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "重庆卫视",
+    "tvg-id": "40",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/chongqing_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226420/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227220/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "四川卫视",
+    "tvg-id": "56",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/sichuan_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226429/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226573/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "贵州卫视",
+    "tvg-id": "44",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/guizhou_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226632/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "江西卫视",
+    "tvg-id": "50",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/jiangxi_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226594/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "广西卫视",
+    "tvg-id": "43",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/guangxi_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227242/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225770/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "辽宁卫视",
+    "tvg-id": "36",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/liaoning_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227236/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226210/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "吉林卫视",
+    "tvg-id": "51",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/jilin_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226684/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "黑龙江卫视",
+    "tvg-id": "46",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/heilongjiang_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227207/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226453/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "东南卫视",
+    "tvg-id": "41",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/dongnan_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226423/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226720/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "厦门卫视",
+    "tvg-id": "68",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/xiamen_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "海南卫视",
+    "tvg-id": "37",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/hainan_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226417/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226562/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "云南卫视",
+    "tvg-id": "58",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/yunnan_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226427/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226660/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225751/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "河北卫视",
+    "tvg-id": "45",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/hebei_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226611/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "陕西卫视",
+    "tvg-id": "55",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/shaanxi_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226458/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CGTN",
+    "tvg-id": "20",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cgtn.png",
+    "country": "CN",
+    "language": "eng",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8",
+        "status": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "安阳新闻综合",
+    "tvg-id": "",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/ay_news.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "News",
+    "streams": [
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226386/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226634/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  }
+]
