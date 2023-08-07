@@ -1554,6 +1554,24 @@
     ]
   },
   {
+    "name": "Dateline 24/7",
+    "tvg-id": "",
+    "tvg-url": "",
+    "logo": "http://techart8018.github.io/tv/logo/dateline_24_7.png",
+    "country": "US",
+    "language": "eng",
+    "category": "Documentary",
+    "streams": [
+      {
+        "url": "https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8",
+        "status": "online",
+        "width": 1920,
+        "height": 1080,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
     "name": "BBC America",
     "tvg-id": "BBCAmericaEast.us",
     "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
