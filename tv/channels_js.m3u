@@ -1,0 +1,98 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/cctv1.png" tvg-country="CN" tvg-language="zho" group-title="general",CCTV-1 综合
+http://ott.mobaibox.com/PLTV/3/224/3221227375/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/cctv2.png" tvg-country="CN" tvg-language="zho" group-title="business",CCTV-2 财经
+http://ott.mobaibox.com/PLTV/3/224/3221226993/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/cctv3.png" tvg-country="CN" tvg-language="zho" group-title="music",CCTV-3 综艺
+http://ott.mobaibox.com/PLTV/3/224/3221227481/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/cctv4.png" tvg-country="CN" tvg-language="zho" group-title="news",CCTV-4 中文国际
+http://ott.mobaibox.com/PLTV/3/224/3221227378/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/cctv5.png" tvg-country="CN" tvg-language="zho" group-title="sports",CCTV-5 体育
+http://ott.mobaibox.com/PLTV/3/224/3221227298/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/cctv5p.png" tvg-country="CN" tvg-language="zho" group-title="sports",CCTV-5+ 体育赛事
+http://ott.mobaibox.com/PLTV/3/224/3221227381/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/cctv6.png" tvg-country="CN" tvg-language="zho" group-title="movies",CCTV-6 电影
+http://ott.mobaibox.com/PLTV/3/224/3221227209/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/cctv7.png" tvg-country="CN" tvg-language="zho" group-title="news",CCTV-7 国防军事
+http://ott.mobaibox.com/PLTV/3/224/3221227314/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/cctv8.png" tvg-country="CN" tvg-language="zho" group-title="series",CCTV-8 电视剧
+http://ott.mobaibox.com/PLTV/3/224/3221227304/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/cctv9.png" tvg-country="CN" tvg-language="zho" group-title="documentary",CCTV-9 记录
+http://ott.mobaibox.com/PLTV/3/224/3221225532/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/cctv10.png" tvg-country="CN" tvg-language="zho" group-title="science",CCTV-10 科教
+http://ott.mobaibox.com/PLTV/3/224/3221227317/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/cctv11.png" tvg-country="CN" tvg-language="zho" group-title="culture",CCTV-11 戏曲
+http://ott.mobaibox.com/PLTV/3/224/3221227524/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/cctv12.png" tvg-country="CN" tvg-language="zho" group-title="legislative",CCTV-12 社会与法
+http://ott.mobaibox.com/PLTV/3/224/3221225556/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/cctv13.png" tvg-country="CN" tvg-language="zho" group-title="news",CCTV-13 新闻
+http://ott.mobaibox.com/PLTV/3/224/3221225560/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/cctv14.png" tvg-country="CN" tvg-language="zho" group-title="kids",CCTV-14 少儿
+http://ott.mobaibox.com/PLTV/3/224/3221227201/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/cctv15.png" tvg-country="CN" tvg-language="zho" group-title="music",CCTV-15 音乐
+http://ott.mobaibox.com/PLTV/3/224/3221227538/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/cctv16.png" tvg-country="CN" tvg-language="zho" group-title="sports",CCTV-16 奥林匹克
+http://ott.mobaibox.com/PLTV/3/224/3221228320/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/cctv17.png" tvg-country="CN" tvg-language="zho" group-title="general",CCTV-17 农业农村
+http://ott.mobaibox.com/PLTV/3/224/3221227578/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/jiangsu_tv.png" tvg-country="CN" tvg-language="zho" group-title="general",江苏卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227402/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/zhejiang_tv.png" tvg-country="CN" tvg-language="zho" group-title="general",浙江卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227393/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/dongfang_tv.png" tvg-country="CN" tvg-language="zho" group-title="general",东方卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227396/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/hunan_tv.png" tvg-country="CN" tvg-language="zho" group-title="general",湖南卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227320/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/beijing_tv.png" tvg-country="CN" tvg-language="zho" group-title="general",北京卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227390/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/anhui_tv.png" tvg-country="CN" tvg-language="zho" group-title="general",安徽卫视
+http://ott.mobaibox.com/PLTV/3/224/3221225634/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/henan_tv.png" tvg-country="CN" tvg-language="zho" group-title="general",河南卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227521/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/guangdong_tv.png" tvg-country="CN" tvg-language="zho" group-title="general",广东卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227399/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/shenzhen_tv.png" tvg-country="CN" tvg-language="zho" group-title="general",深圳卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227307/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/tianjin_tv.png" tvg-country="CN" tvg-language="zho" group-title="general",天津卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227382/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/shandong_tv.png" tvg-country="CN" tvg-language="zho" group-title="general",山东卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227310/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/hubei_tv.png" tvg-country="CN" tvg-language="zho" group-title="general",湖北卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227377/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/chongqing_tv.png" tvg-country="CN" tvg-language="zho" group-title="general",重庆卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227632/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/sichuan_tv.png" tvg-country="CN" tvg-language="zho" group-title="general",四川卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227556/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/guizhou_tv.png" tvg-country="CN" tvg-language="zho" group-title="general",贵州卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227551/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/jiangxi_tv.png" tvg-country="CN" tvg-language="zho" group-title="general",江西卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228557/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/guangxi_tv.png" tvg-country="CN" tvg-language="zho" group-title="general",广西卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228183/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/liaoning_tv.png" tvg-country="CN" tvg-language="zho" group-title="general",辽宁卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227380/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/jilin_tv.png" tvg-country="CN" tvg-language="zho" group-title="general",吉林卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228028/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/heilongjiang_tv.png" tvg-country="CN" tvg-language="zho" group-title="general",黑龙江卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227323/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/dongnan_tv.png" tvg-country="CN" tvg-language="zho" group-title="general",东南卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227553/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/xiamen_tv.png" tvg-country="CN" tvg-language="zho" group-title="general",厦门卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/hainan_tv.png" tvg-country="CN" tvg-language="zho" group-title="general",海南卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228139/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/yunnan_tv.png" tvg-country="CN" tvg-language="zho" group-title="general",云南卫视
+http://ott.mobaibox.com/PLTV/3/224/3221225591/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/hebei_tv.png" tvg-country="CN" tvg-language="zho" group-title="general",河北卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227545/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/shaanxi_tv.png" tvg-country="CN" tvg-language="zho" group-title="general",陕西卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227583/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/qinghai_tv.png" tvg-country="CN" tvg-language="zho" group-title="general",青海卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/gansu_tv.png" tvg-country="CN" tvg-language="zho" group-title="general",甘肃卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/neimenggu_tv.png" tvg-country="CN" tvg-language="zho" group-title="general",内蒙古卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227557/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://techart8018.github.io/tv/logo/shanxi_tv.png" tvg-country="CN" tvg-language="zho" group-title="general",山西卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227559/index.m3u8
+

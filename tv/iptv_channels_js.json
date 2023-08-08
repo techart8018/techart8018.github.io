@@ -76,7 +76,7 @@
     "logo": "http://techart8018.github.io/tv/logo/cctv3.png",
     "country": "CN",
     "language": "zho",
-    "category": "Music",
+    "category": "Entertainment",
     "streams": [
       {
         "url": "http://ott.mobaibox.com/PLTV/3/224/3221227481/index.m3u8",
@@ -549,44 +549,6 @@
       },
       {
         "url": "http://ott.mobaibox.com/PLTV/3/224/3221228407/index.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "凤凰卫视",
-    "tvg-id": "141",
-    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
-    "logo": "http://techart8018.github.io/tv/logo/phoenix.png",
-    "country": "CN",
-    "language": "zho",
-    "category": "News",
-    "streams": [
-      {
-        "url": "http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
-    "name": "凤凰资讯",
-    "tvg-id": "142",
-    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
-    "logo": "http://techart8018.github.io/tv/logo/phoenix_news.png",
-    "country": "CN",
-    "language": "zho",
-    "category": "News",
-    "streams": [
-      {
-        "url": "http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8",
         "status": "",
         "remark": "",
         "width": 0,
@@ -1381,6 +1343,44 @@
     ]
   },
   {
+    "name": "内蒙古卫视",
+    "tvg-id": "52",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/neimenggu_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://ott.mobaibox.com/PLTV/3/224/3221227557/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "山西卫视",
+    "tvg-id": "54",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/shanxi_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://ott.mobaibox.com/PLTV/3/224/3221227559/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
     "name": "陕西卫视",
     "tvg-id": "55",
     "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
@@ -1390,7 +1390,7 @@
     "category": "General",
     "streams": [
       {
-        "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226458/index.m3u8",
+        "url": "http://ott.mobaibox.com/PLTV/3/224/3221227583/index.m3u8",
         "status": "",
         "remark": "",
         "width": 0,
@@ -1399,6 +1399,44 @@
       },
       {
         "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "凤凰卫视",
+    "tvg-id": "141",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/phoenix.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "News",
+    "streams": [
+      {
+        "url": "http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "凤凰资讯",
+    "tvg-id": "142",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/phoenix_news.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "News",
+    "streams": [
+      {
+        "url": "http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8",
         "status": "",
         "remark": "",
         "width": 0,
@@ -1436,14 +1474,14 @@
     "category": "General",
     "streams": [
       {
-        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8",
+        "url": "http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8",
         "status": "",
         "width": 0,
         "height": 0,
         "bitrate": 0
       },
       {
-        "url": "http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8",
+        "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8",
         "status": "",
         "width": 0,
         "height": 0,
@@ -1532,24 +1570,6 @@
         "width": 1920,
         "height": 1080,
         "bitrate": 8004449
-      }
-    ]
-  },
-  {
-    "name": "Sky News",
-    "tvg-id": "SkyNewsInternational.uk",
-    "tvg-url": "https://iptv-org.github.io/epg/guides/en/epg.i-cable.com.xml.gz",
-    "logo": "http://techart8018.github.io/tv/logo/sky_news.png",
-    "country": "UK",
-    "language": "eng",
-    "category": "General",
-    "streams": [
-      {
-        "url": "https://siloh.pluto.tv:443/lilo/production/SkyNews/master.m3u8",
-        "status": "online",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
       }
     ]
   },
