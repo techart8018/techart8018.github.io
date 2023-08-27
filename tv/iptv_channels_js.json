@@ -1025,7 +1025,7 @@
     "category": "General",
     "streams": [
       {
-        "url": "http://ott.mobaibox.com/PLTV/3/224/3221227551/index.m3u8",
+        "url": "http://ott.mobaibox.com/PLTV/4/224/3221227551/index.m3u8",
         "status": "",
         "remark": "",
         "width": 0,
@@ -1446,25 +1446,6 @@
     ]
   },
   {
-    "name": "江苏体育休闲",
-    "tvg-id": "",
-    "tvg-url": "",
-    "logo": "http://techart8018.github.io/tv/logo/jiangsu_tv.png",
-    "country": "CN",
-    "language": "zho",
-    "category": "Sports",
-    "streams": [
-      {
-        "url": "http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225935/index.m3u8",
-        "status": "",
-        "remark": "",
-        "width": 0,
-        "height": 0,
-        "bitrate": 0
-      }
-    ]
-  },
-  {
     "name": "CGTN",
     "tvg-id": "20",
     "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
@@ -1733,13 +1714,6 @@
     "language": "eng",
     "category": "Movies",
     "streams": [
-      {
-        "url": "https://moviesphereuk-rakuten.amagi.tv/playlist.m3u8",
-        "status": "online",
-        "width": 1920,
-        "height": 1080,
-        "bitrate": 4716800
-      },
       {
         "url": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8",
         "status": "online",
