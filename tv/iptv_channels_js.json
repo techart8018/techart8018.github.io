@@ -424,6 +424,14 @@
     "category": "News",
     "streams": [
       {
+        "url": "http://ott.mobaibox.com/PLTV/4/224/3221228121/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
         "url": "http://ott.mobaibox.com/PLTV/3/224/3221225560/index.m3u8",
         "status": "",
         "remark": "",
