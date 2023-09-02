@@ -1,0 +1,1217 @@
+[
+  {
+    "name": "CCTV-1",
+    "tvg-id": "1",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cctv1.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://116.132.87.246:8888/newlive/live/hls/2/live.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CCTV-2",
+    "tvg-id": "2",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cctv2.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "Business",
+    "streams": [
+      {
+        "url": "http://221.213.43.82:8888/newlive/live/hls/3/live.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CCTV-3",
+    "tvg-id": "3",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cctv3.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "Entertainment",
+    "streams": [
+      {
+        "url": "http://116.132.87.246:8888/newlive/live/hls/4/live.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CCTV-4",
+    "tvg-id": "4",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cctv4.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "News",
+    "streams": [
+      {
+        "url": "http://221.213.43.82:8888/newlive/live/hls/5/live.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CCTV-5",
+    "tvg-id": "5",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cctv5.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "Sports",
+    "streams": [
+      {
+        "url": "http://111.20.40.162:80/PLTV/88888893/224/3221226395/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CCTV-5+",
+    "tvg-id": "6",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cctv5p.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "Sports",
+    "streams": [
+      {
+        "url": "http://116.132.87.246:8888/newlive/live/hls/6/live.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CCTV-6",
+    "tvg-id": "7",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cctv6.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "Movies",
+    "streams": [
+      {
+        "url": "http://116.132.87.246:8888/newlive/live/hls/8/live.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CCTV-7",
+    "tvg-id": "8",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cctv7.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "News",
+    "streams": [
+      {
+        "url": "http://219.140.56.34:3333/tsfile/live/1007_1.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CCTV-8",
+    "tvg-id": "9",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cctv8.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "Series",
+    "streams": [
+      {
+        "url": "http://116.132.87.246:8888/newlive/live/hls/10/live.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CCTV-9",
+    "tvg-id": "10",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cctv9.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "Documentary",
+    "streams": [
+      {
+        "url": "http://123.178.206.42:8000/hls/9/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CCTV-10",
+    "tvg-id": "11",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cctv10.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "Science",
+    "streams": [
+      {
+        "url": "http://219.128.140.118:3334/tsfile/live/0010_1.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CCTV-11",
+    "tvg-id": "12",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cctv11.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "Culture",
+    "streams": [
+      {
+        "url": "http://116.132.87.246:8888/newlive/live/hls/13/live.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CCTV-12",
+    "tvg-id": "13",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cctv12.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "Legislative",
+    "streams": [
+      {
+        "url": "http://106.39.160.148/live.aishang.ctlcdn.com/00000110240252_1/encoder/0/playlist.m3u8?CONTENTID=00000110240252_1",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CCTV-13",
+    "tvg-id": "14",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cctv13.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "News",
+    "streams": [
+      {
+        "url": "http://116.132.87.246:8888/newlive/live/hls/15/live.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CCTV-14",
+    "tvg-id": "15",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cctv14.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "Kids",
+    "streams": [
+      {
+        "url": "http://123.178.206.42:8000/hls/14/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CCTV-15",
+    "tvg-id": "16",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cctv15.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "Music",
+    "streams": [
+      {
+        "url": "http://116.132.87.246:8888/newlive/live/hls/17/live.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CCTV-16",
+    "tvg-id": "7249",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cctv16.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "Sports",
+    "streams": [
+      {
+        "url": "http://111.20.40.164/PLTV/88888893/224/3221226921/index.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CCTV-17",
+    "tvg-id": "17",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cctv17.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "News",
+    "streams": [
+      {
+        "url": "http://106.39.160.148/live.aishang.ctlcdn.com/00000110240326_1/encoder/0/playlist.m3u8?CONTENTID=00000110240326_1",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "江苏卫视",
+    "tvg-id": "29",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/jiangsu_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://116.132.87.246:8888/newlive/live/hls/31/live.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "浙江卫视",
+    "tvg-id": "28",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/zhejiang_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://116.132.87.246:8888/newlive/live/hls/30/live.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "东方卫视",
+    "tvg-id": "31",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/dongfang_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://116.132.87.246:8888/newlive/live/hls/34/live.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "湖南卫视",
+    "tvg-id": "27",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/hunan_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://116.132.87.246:8888/newlive/live/hls/29/live.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "北京卫视",
+    "tvg-id": "30",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/beijing_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://116.132.87.246:8888/newlive/live/hls/32/live.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "安徽卫视",
+    "tvg-id": "32",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/anhui_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://116.132.87.246:8888/newlive/live/hls/45/live.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "河南卫视",
+    "tvg-id": "47",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/henan_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://116.132.87.246:8888/newlive/live/hls/49/live.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "广东卫视",
+    "tvg-id": "33",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/guangdong_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://106.39.160.148/live.aishang.ctlcdn.com/00000110240137_1/encoder/0/playlist.m3u8?CONTENTID=00000110240137_1",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "深圳卫视",
+    "tvg-id": "34",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/shenzhen_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://116.132.87.246:8888/newlive/live/hls/38/live.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "天津卫视",
+    "tvg-id": "39",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/tianjin_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://116.132.87.246:8888/newlive/live/hls/37/live.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "山东卫视",
+    "tvg-id": "38",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/shandong_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://116.132.87.246:8888/newlive/live/hls/39/live.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "湖北卫视",
+    "tvg-id": "48",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/hubei_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://116.132.87.246:8888/newlive/live/hls/46/live.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "重庆卫视",
+    "tvg-id": "40",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/chongqing_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://116.132.87.246:8888/newlive/live/hls/48/live.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "四川卫视",
+    "tvg-id": "56",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/sichuan_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "https://live.goodiptv.club/api/bestv.php?id=scwshd/8000000",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "贵州卫视",
+    "tvg-id": "44",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/guizhou_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://116.132.87.246:8888/newlive/live/hls/50/live.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "江西卫视",
+    "tvg-id": "50",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/jiangxi_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://116.132.87.246:8888/newlive/live/hls/53/live.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "广西卫视",
+    "tvg-id": "43",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/guangxi_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://116.132.87.246:8888/newlive/live/hls/57/live.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "辽宁卫视",
+    "tvg-id": "36",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/liaoning_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://115.149.139.141:10001/tsfile/live/1028_1.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "吉林卫视",
+    "tvg-id": "51",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/jilin_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://116.132.87.246:8888/newlive/live/hls/54/live.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "黑龙江卫视",
+    "tvg-id": "46",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/heilongjiang_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://116.132.87.246:8888/newlive/live/hls/41/live.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "东南卫视",
+    "tvg-id": "41",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/dongnan_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://116.132.87.246:8888/newlive/live/hls/33/live.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "海南卫视",
+    "tvg-id": "37",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/hainan_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://116.132.87.246:8888/newlive/live/hls/55/live.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "云南卫视",
+    "tvg-id": "58",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/yunnan_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://219.128.140.118:3334/tsfile/live/0119_1.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "河北卫视",
+    "tvg-id": "45",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/hebei_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://116.132.87.246:8888/newlive/live/hls/19/live.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "青海卫视",
+    "tvg-id": "59",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/qinghai_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://221.2.36.34:8888/newlive/live/hls/39/live.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "甘肃卫视",
+    "tvg-id": "",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/gansu_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://221.213.43.82:8888/newlive/live/hls/36/live.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "内蒙古卫视",
+    "tvg-id": "52",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/neimenggu_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://1.183.178.135:8097/udp/239.29.0.2:5000",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "山西卫视",
+    "tvg-id": "54",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/shanxi_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "陕西卫视",
+    "tvg-id": "55",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/shaanxi_tv.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://222.90.97.254:9901/tsfile/live/1011_1.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "凤凰卫视",
+    "tvg-id": "141",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/phoenix.png",
+    "country": "CN",
+    "language": "zho",
+    "category": "News",
+    "streams": [
+      {
+        "url": "http://r.jdshipin.com/cCCzW",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CGTN",
+    "tvg-id": "20",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cgtn.png",
+    "country": "CN",
+    "language": "eng",
+    "category": "General",
+    "streams": [
+      {
+        "url": "http://106.39.160.148/live.aishang.ctlcdn.com/00000110240365_1/encoder/0/playlist.m3u8?CONTENTID=00000110240365_1",
+        "status": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CNN",
+    "tvg-id": "CNN.us",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cnn.png",
+    "country": "US",
+    "language": "eng",
+    "category": "News",
+    "streams": [
+      {
+        "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 1280,
+        "height": 720,
+        "bitrate": 0
+      },
+      {
+        "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 848,
+        "height": 480,
+        "bitrate": 0
+      },
+      {
+        "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 640,
+        "height": 360,
+        "bitrate": 0
+      },
+      {
+        "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 640,
+        "height": 360,
+        "bitrate": 0
+      },
+      {
+        "url": "https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "https://d30x5vsa85tvmd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7y561g9sa9uht/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CNA International",
+    "tvg-id": "6139",
+    "tvg-url": "http://epg.51zmt.top:8000/e.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cna.png",
+    "country": "SG",
+    "language": "eng",
+    "category": "News",
+    "streams": [
+      {
+        "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8",
+        "status": "online",
+        "width": 1920,
+        "height": 1080,
+        "bitrate": 8004449
+      }
+    ]
+  },
+  {
+    "name": "Dateline 24/7",
+    "tvg-id": "",
+    "tvg-url": "",
+    "logo": "http://techart8018.github.io/tv/logo/dateline_24_7.png",
+    "country": "US",
+    "language": "eng",
+    "category": "Documentary",
+    "streams": [
+      {
+        "url": "https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8",
+        "status": "online",
+        "width": 1920,
+        "height": 1080,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "BBC America",
+    "tvg-id": "BBCAmericaEast.us",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/bbc_america.png",
+    "country": "US",
+    "language": "eng",
+    "category": "Series",
+    "streams": [
+      {
+        "url": "https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8",
+        "status": "online",
+        "width": 1280,
+        "height": 720,
+        "bitrate": 2654208
+      }
+    ]
+  },
+  {
+    "name": "Sundance TV",
+    "tvg-id": "SundanceTVEast.us",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/sundance_tv.png",
+    "country": "US",
+    "language": "eng",
+    "category": "Movies",
+    "streams": [
+      {
+        "url": "https://bcovlive-a.akamaihd.net/4d972ec6f41241f2b4286f8bdcc8dae9/us-east-1/6240731308001/playlist.m3u8",
+        "status": "online",
+        "width": 1280,
+        "height": 720,
+        "bitrate": 2654208
+      }
+    ]
+  },
+  {
+    "name": "IFC",
+    "tvg-id": "IFCEast.us",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/ifc.png",
+    "country": "US",
+    "language": "eng",
+    "category": "Movies",
+    "streams": [
+      {
+        "url": "https://bcovlive-a.akamaihd.net/045bd3b615254da880c3db79b2e42fd0/us-east-1/6240731308001/playlist.m3u8",
+        "status": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "CineLife",
+    "tvg-id": "CineLife.us",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/xumo.tv.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/cine_life.png",
+    "country": "US",
+    "language": "eng",
+    "category": "Movies",
+    "streams": [
+      {
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinelife/playlist.m3u8",
+        "status": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "Rakuten Comedy Movies",
+    "tvg-id": "RakutenTVComedyMoviesUK.uk",
+    "tvg-url": "",
+    "logo": "http://techart8018.github.io/tv/logo/rakuten_comedy.png",
+    "country": "UK",
+    "language": "eng",
+    "category": "Movies",
+    "streams": [
+      {
+        "url": "https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "status": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "Rakuten Action Movies",
+    "tvg-id": "RakutenTVActionMoviesUK.uk",
+    "tvg-url": "",
+    "logo": "http://techart8018.github.io/tv/logo/rakuten_action.png",
+    "country": "UK",
+    "language": "eng",
+    "category": "Movies",
+    "streams": [
+      {
+        "url": "https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "status": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "Redbox Spotlight",
+    "tvg-id": "RedboxSpotlight.us",
+    "tvg-url": "",
+    "logo": "http://techart8018.github.io/tv/logo/redbox.png",
+    "country": "US",
+    "language": "eng",
+    "category": "Movies",
+    "streams": [
+      {
+        "url": "https://spotlight-vizio.amagi.tv/playlist.m3u8",
+        "status": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "https://spotlight-redbox.amagi.tv/playlist.m3u8",
+        "status": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      }
+    ]
+  },
+  {
+    "name": "MovieSphere UK",
+    "tvg-id": "MovieSphere.uk",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/plex.tv.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/movie_sphere_uk.png",
+    "country": "US",
+    "language": "eng",
+    "category": "Movies",
+    "streams": [
+      {
+        "url": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8",
+        "status": "online",
+        "width": 1920,
+        "height": 1080,
+        "bitrate": 4681600
+      }
+    ]
+  },
+  {
+    "name": "MovieSphere",
+    "tvg-id": "MovieSphere.us",
+    "tvg-url": "https://iptv-org.github.io/epg/guides/en/plex.tv.xml.gz",
+    "logo": "http://techart8018.github.io/tv/logo/movie_sphere.png",
+    "country": "US",
+    "language": "eng",
+    "category": "Movies",
+    "streams": [
+      {
+        "url": "https://moviesphere-plex.amagi.tv/playlist.m3u8",
+        "status": "online",
+        "width": 1920,
+        "height": 1080,
+        "bitrate": 5701132
+      },
+      {
+        "url": "https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_lionsgate-moviesphere-roku-us/CDN/playlist.m3u8",
+        "status": "online",
+        "width": 1920,
+        "height": 1080,
+        "bitrate": 5701132
+      },
+      {
+        "url": "https://moviesphere-roku.amagi.tv/playlist.m3u8",
+        "status": "online",
+        "width": 1920,
+        "height": 1080,
+        "bitrate": 5701132
+      },
+      {
+        "url": "https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8",
+        "status": "online",
+        "width": 1920,
+        "height": 1080,
+        "bitrate": 4681600
+      }
+    ]
+  }
+]
