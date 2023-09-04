@@ -9,7 +9,15 @@
     "category": "General",
     "streams": [
       {
-        "url": "http://116.132.87.246:8888/newlive/live/hls/2/live.m3u8",
+        "url": "http://222.71.221.186:9901/tsfile/live/0001_1.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://106.39.160.148/live.aishang.ctlcdn.com/00000110240127_1/encoder/0/playlist.m3u8?CONTENTID=00000110240127_1",
         "status": "",
         "remark": "",
         "width": 0,
@@ -28,7 +36,7 @@
     "category": "Business",
     "streams": [
       {
-        "url": "http://221.213.43.82:8888/newlive/live/hls/3/live.m3u8",
+        "url": "http://219.128.140.118:3334/tsfile/live/0002_1.m3u8",
         "status": "",
         "remark": "",
         "width": 0,
@@ -47,7 +55,7 @@
     "category": "Entertainment",
     "streams": [
       {
-        "url": "http://116.132.87.246:8888/newlive/live/hls/4/live.m3u8",
+        "url": "http://222.71.221.186:9901/tsfile/live/0003_1.m3u8",
         "status": "",
         "remark": "",
         "width": 0,
@@ -66,7 +74,7 @@
     "category": "News",
     "streams": [
       {
-        "url": "http://221.213.43.82:8888/newlive/live/hls/5/live.m3u8",
+        "url": "http://106.39.160.148/live.aishang.ctlcdn.com/00000110240316_1/encoder/0/playlist.m3u8?CONTENTID=00000110240316_1",
         "status": "",
         "remark": "",
         "width": 0,
@@ -110,6 +118,14 @@
         "width": 0,
         "height": 0,
         "bitrate": 0
+      },
+      {
+        "url": "http://106.39.160.148/live.aishang.ctlcdn.com/00000110240128_1/encoder/0/playlist.m3u8?CONTENTID=00000110240128_1",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
       }
     ]
   },
@@ -142,7 +158,7 @@
     "category": "News",
     "streams": [
       {
-        "url": "http://219.140.56.34:3333/tsfile/live/1007_1.m3u8",
+        "url": "http://119.164.216.162:9901/tsfile/live/1000_1.m3u8",
         "status": "",
         "remark": "",
         "width": 0,
@@ -257,6 +273,14 @@
     "streams": [
       {
         "url": "http://116.132.87.246:8888/newlive/live/hls/15/live.m3u8",
+        "status": "",
+        "remark": "",
+        "width": 0,
+        "height": 0,
+        "bitrate": 0
+      },
+      {
+        "url": "http://115.149.139.141:10001/tsfile/live/1014_1.m3u8",
         "status": "",
         "remark": "",
         "width": 0,
